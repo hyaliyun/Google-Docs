@@ -18,7 +18,7 @@ new Intl.Locale(tag)
 new Intl.Locale(tag, options)
 ```
 
-> **Note:** `Intl.Locale()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `Intl.Locale()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a .
 
 ### Parameters
 

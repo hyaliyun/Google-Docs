@@ -100,7 +100,7 @@ The following terms are used when talking about the functionality of proxies.
 - target
   - : Object which the proxy virtualizes. It is often used as storage backend for the proxy. Invariants (semantics that remain unchanged) regarding object non-extensibility or non-configurable properties are verified against the target.
 - invariants
-  - : Semantics that remain unchanged when implementing custom operations. If your trap implementation violates the invariants of a handler, a {{jsxref("TypeError")}} will be thrown.
+  - : Semantics that remain unchanged when implementing custom operations. If your trap implementation violates the invariants of a handler, a  will be thrown.
 
 ### Object internal methods
 

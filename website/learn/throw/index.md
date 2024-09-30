@@ -63,7 +63,7 @@ throw (
 
 ### Throwing a user-defined error
 
-This example defines a function that throws a {{jsxref("TypeError")}} if the input is not of the expected type.
+This example defines a function that throws a  if the input is not of the expected type.
 
 ```js
 function isNumeric(x) {

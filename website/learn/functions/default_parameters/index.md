@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.functions.default_parameters
 ---
 
-{{jsSidebar("Functions")}}
+
 
 **Default function parameters** allow named parameters to be initialized with default values if no value or `undefined` is passed.
 

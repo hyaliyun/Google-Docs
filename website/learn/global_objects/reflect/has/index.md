@@ -31,7 +31,7 @@ A {{jsxref("Boolean")}} indicating whether or not the `target` has the property.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not an object.
 
 ## Description

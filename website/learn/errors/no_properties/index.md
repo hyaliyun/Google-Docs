@@ -24,7 +24,7 @@ TypeError: Right side of assignment cannot be destructured (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}.
+.
 
 ## What went wrong?
 

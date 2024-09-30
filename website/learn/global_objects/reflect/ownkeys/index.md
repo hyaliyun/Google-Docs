@@ -32,7 +32,7 @@ An {{jsxref("Array")}} of the `target` object's own property keys, including str
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not an object.
 
 ## Description

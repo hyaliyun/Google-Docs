@@ -19,7 +19,7 @@ TypeError: Cannot call a class constructor without |new| (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

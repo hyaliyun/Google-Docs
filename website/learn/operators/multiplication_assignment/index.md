@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.multiplication_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **multiplication assignment (`*=`)** operator performs [multiplication](/Web/JavaScript/Reference/Operators/Multiplication) on the two operands and assigns the result to the left operand.
 

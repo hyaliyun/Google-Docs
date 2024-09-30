@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.left_shift_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **left shift assignment (`<<=`)** operator performs [left shift](/Web/JavaScript/Reference/Operators/Left_shift) on the two operands and assigns the result to the left operand.
 

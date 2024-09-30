@@ -15,7 +15,7 @@ The **`Iterator()`** constructor is intended to be used as the [superclass](/Web
 new Iterator()
 ```
 
-> **Note:** `Iterator()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a {{jsxref("TypeError")}}. In addition, `Iterator()` cannot actually be constructed itself — it's usually implicitly constructed through [`super()`](/Web/JavaScript/Reference/Operators/super) calls inside the constructor of a subclass.
+> **Note:** `Iterator()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a . In addition, `Iterator()` cannot actually be constructed itself — it's usually implicitly constructed through [`super()`](/Web/JavaScript/Reference/Operators/super) calls inside the constructor of a subclass.
 
 ### Parameters
 
@@ -27,7 +27,7 @@ A new {{jsxref("Iterator")}} object.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : When [`new.target`](/Web/JavaScript/Reference/Operators/new.target) is the `Iterator` function itself, i.e. when the `Iterator` constructor itself is constructed.
 
 ## Description

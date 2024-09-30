@@ -24,7 +24,7 @@ TypeError: Symbol.keyFor requires that the first argument be a symbol (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}.
+.
 
 ## What went wrong?
 

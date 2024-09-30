@@ -20,11 +20,11 @@ TypeError: Attempted to assign to readonly property. (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}.
+.
 
 ## What went wrong?
 
-In [strict mode](/Web/JavaScript/Reference/Strict_mode), a {{jsxref("TypeError")}} is raised when attempting to
+In [strict mode](/Web/JavaScript/Reference/Strict_mode), a  is raised when attempting to
 create a property on [primitive](/Glossary/Primitive) value such
 as a [symbol](/Web/JavaScript/Reference/Global_Objects/Symbol), a [string](/Glossary/String), a [number](/Glossary/Number) or a [boolean](/Glossary/Boolean). [Primitive](/Glossary/Primitive) values cannot hold any [property](/Glossary/Property/JavaScript).
 

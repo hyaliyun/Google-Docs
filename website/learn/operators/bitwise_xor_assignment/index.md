@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.bitwise_xor_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **bitwise XOR assignment (`^=`)** operator performs [bitwise XOR](/Web/JavaScript/Reference/Operators/Bitwise_XOR) on the two operands and assigns the result to the left operand.
 

@@ -25,7 +25,7 @@ TypeError: TypedArray.prototype.toSorted requires the comparator argument to be 
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.named_backreference
 ---
 
-{{jsSidebar}}
+
 
 A **named backreference** refers to the submatch of a previous [named capturing group](/Web/JavaScript/Reference/Regular_expressions/Named_capturing_group) and matches the same text as that group. For [unnamed capturing groups](/Web/JavaScript/Reference/Regular_expressions/Capturing_group), you need to use the normal [backreference](/Web/JavaScript/Reference/Regular_expressions/Backreference) syntax.
 

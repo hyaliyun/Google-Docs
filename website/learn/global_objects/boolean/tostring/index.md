@@ -30,7 +30,7 @@ A string representing the specified boolean value.
 The {{jsxref("Boolean")}} object overrides the `toString` method of {{jsxref("Object")}}; it does not inherit
 {{jsxref("Object.prototype.toString()")}}. For `Boolean` values, the `toString` method returns a string representation of the boolean value, which is either `"true"` or `"false"`.
 
-The `toString()` method requires its `this` value to be a `Boolean` primitive or wrapper object. It throws a {{jsxref("TypeError")}} for other `this` values without attempting to coerce them to boolean values.
+The `toString()` method requires its `this` value to be a `Boolean` primitive or wrapper object. It throws a  for other `this` values without attempting to coerce them to boolean values.
 
 Because `Boolean` doesn't have a [`[Symbol.toPrimitive]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive) method, JavaScript calls the `toString()` method automatically when a `Boolean` _object_ is used in a context expecting a string, such as in a [template literal](/Web/JavaScript/Reference/Template_literals). However, boolean _primitive_ values do not consult the `toString()` method to be [coerced to strings](/Web/JavaScript/Reference/Global_Objects/String#string_coercion) — rather, they are directly converted using the same algorithm as the initial `toString()` implementation.
 

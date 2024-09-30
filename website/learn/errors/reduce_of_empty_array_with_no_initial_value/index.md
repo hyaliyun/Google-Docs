@@ -17,7 +17,7 @@ TypeError: Reduce of empty array with no initial value (V8-based & Firefox & Saf
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

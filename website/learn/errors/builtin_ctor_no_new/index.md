@@ -19,7 +19,7 @@ TypeError: calling X constructor without new is invalid (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

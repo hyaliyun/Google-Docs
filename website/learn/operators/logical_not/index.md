@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.logical_not
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **logical NOT (`!`)** (logical complement, negation) operator takes truth to
 falsity and vice versa. It is typically used with boolean (logical)

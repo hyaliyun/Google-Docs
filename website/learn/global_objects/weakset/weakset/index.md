@@ -16,7 +16,7 @@ new WeakSet()
 new WeakSet(iterable)
 ```
 
-> **Note:** `WeakSet()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `WeakSet()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a .
 
 ### Parameters
 

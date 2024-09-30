@@ -220,7 +220,7 @@ Octal escape sequences, such as `"\45"`, which is equal to `"%"`, can be used to
 
 #### Setting properties on primitive values
 
-Strict mode forbids setting properties on [primitive](/Glossary/Primitive) values. Accessing a property on a primitive implicitly creates a wrapper object that's unobservable, so in sloppy mode, setting properties is ignored (no-op). In strict mode, a {{jsxref("TypeError")}} is thrown.
+Strict mode forbids setting properties on [primitive](/Glossary/Primitive) values. Accessing a property on a primitive implicitly creates a wrapper object that's unobservable, so in sloppy mode, setting properties is ignored (no-op). In strict mode, a  is thrown.
 
 ```js
 "use strict";
@@ -407,9 +407,9 @@ These errors are good, because they reveal plain errors or bad practices. They o
 JavaScript used to silently fail in contexts where what was done should be an error. Strict mode throws in such cases. If your code base contains such cases, testing will be necessary to be sure nothing is broken. You can screen for such errors at the function granularity level.
 
 - Assigning to an undeclared variable throws a {{jsxref("ReferenceError")}}. This used to set a property on the global object, which is rarely the expected effect. If you really want to set a value to the global object, explicitly assign it as a property on `globalThis`.
-- Failing to assign to an object's property (e.g. it's read-only) throws a {{jsxref("TypeError")}}. In sloppy mode, this would silently fail.
-- Deleting a non-deletable property throws a {{jsxref("TypeError")}}. In sloppy mode, this would silently fail.
-- Accessing [`arguments.callee`](/Web/JavaScript/Reference/Functions/arguments/callee), [`strictFunction.caller`](/Web/JavaScript/Reference/Global_Objects/Function/caller), or [`strictFunction.arguments`](/Web/JavaScript/Reference/Global_Objects/Function/arguments) throws a {{jsxref("TypeError")}} if the function is in strict mode. If you are using `arguments.callee` to call the function recursively, you can use a named function expression instead.
+- Failing to assign to an object's property (e.g. it's read-only) throws a . In sloppy mode, this would silently fail.
+- Deleting a non-deletable property throws a . In sloppy mode, this would silently fail.
+- Accessing [`arguments.callee`](/Web/JavaScript/Reference/Functions/arguments/callee), [`strictFunction.caller`](/Web/JavaScript/Reference/Global_Objects/Function/caller), or [`strictFunction.arguments`](/Web/JavaScript/Reference/Global_Objects/Function/arguments) throws a  if the function is in strict mode. If you are using `arguments.callee` to call the function recursively, you can use a named function expression instead.
 
 ### Semantic differences
 

@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.optional_chaining
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **optional chaining (`?.`)** operator accesses an object's property or calls a function. If the object accessed or function called using this operator is {{jsxref("undefined")}} or [`null`](/Web/JavaScript/Reference/Operators/null), the expression short circuits and evaluates to {{jsxref("undefined")}} instead of throwing an error.
 
@@ -84,11 +84,11 @@ found:
 const result = someInterface.customMethod?.();
 ```
 
-However, if there is a property with such a name which is not a function, using `?.` will still raise a {{jsxref("TypeError")}} exception "someInterface.customMethod is not a function".
+However, if there is a property with such a name which is not a function, using `?.` will still raise a  exception "someInterface.customMethod is not a function".
 
 > [!NOTE]
 > If `someInterface` itself is `null` or
-> `undefined`, a {{jsxref("TypeError")}} exception will still be
+> `undefined`, a  exception will still be
 > raised ("someInterface is null"). If you expect that
 > `someInterface` itself may be `null` or `undefined`,
 > you have to use `?.` at this position as

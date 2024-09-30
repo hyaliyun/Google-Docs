@@ -23,7 +23,7 @@ replaceAll(pattern, replacement)
 
   - : Can be a string or an object with a [`Symbol.replace`](/Web/JavaScript/Reference/Global_Objects/Symbol/replace) method — the typical example being a [regular expression](/Web/JavaScript/Reference/Global_Objects/RegExp). Any value that doesn't have the `Symbol.replace` method will be coerced to a string.
 
-    If `pattern` [is a regex](/Web/JavaScript/Reference/Global_Objects/RegExp#special_handling_for_regexes), then it must have the global (`g`) flag set, or a {{jsxref("TypeError")}} is thrown.
+    If `pattern` [is a regex](/Web/JavaScript/Reference/Global_Objects/RegExp#special_handling_for_regexes), then it must have the global (`g`) flag set, or a  is thrown.
 
 - `replacement`
   - : Can be a string or a function. The replacement has the same semantics as that of [`String.prototype.replace()`](/Web/JavaScript/Reference/Global_Objects/String/replace).
@@ -34,7 +34,7 @@ A new string, with all matches of a pattern replaced by a replacement.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if the `pattern` [is a regex](/Web/JavaScript/Reference/Global_Objects/RegExp#special_handling_for_regexes) that does not have the global (`g`) flag set (its [`flags`](/Web/JavaScript/Reference/Global_Objects/RegExp/flags) property does not contain `"g"`).
 
 ## Description

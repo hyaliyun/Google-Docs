@@ -29,7 +29,7 @@ A new {{jsxref("ArrayBuffer")}} object. Its contents are initialized to the cont
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if this `ArrayBuffer` is already detached.
 
 ## Description

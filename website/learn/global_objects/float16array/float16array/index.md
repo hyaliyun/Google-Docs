@@ -22,7 +22,7 @@ new Float16Array(buffer, byteOffset)
 new Float16Array(buffer, byteOffset, length)
 ```
 
-> **Note:** `Float16Array()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `Float16Array()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a .
 
 ### Parameters
 

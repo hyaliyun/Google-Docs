@@ -122,7 +122,7 @@ console.log(d);
 ### Non-object coercion
 
 In ES5, if the first argument to this method is not an object (a primitive), then it
-will cause a {{jsxref("TypeError")}}. In ES2015, a non-object first argument will be
+will cause a . In ES2015, a non-object first argument will be
 coerced to an object at first.
 
 ```js

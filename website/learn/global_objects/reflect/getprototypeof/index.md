@@ -28,12 +28,12 @@ The prototype of the given object, which may be an object or `null`.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not an object.
 
 ## Description
 
-`Reflect.getPrototypeOf()` provides the reflective semantic of retrieving the prototype of an object. The only difference with {{jsxref("Object.getPrototypeOf()")}} is how non-object targets are handled. `Reflect.getPrototypeOf()` throws a {{jsxref("TypeError")}} if the target is not an object, while `Object.getPrototypeOf()` coerces it to an object.
+`Reflect.getPrototypeOf()` provides the reflective semantic of retrieving the prototype of an object. The only difference with {{jsxref("Object.getPrototypeOf()")}} is how non-object targets are handled. `Reflect.getPrototypeOf()` throws a  if the target is not an object, while `Object.getPrototypeOf()` coerces it to an object.
 
 `Reflect.getPrototypeOf()` invokes the `[[GetPrototypeOf]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods) of `target`.
 

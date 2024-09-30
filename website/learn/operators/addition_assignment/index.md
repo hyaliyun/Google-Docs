@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.addition_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **addition assignment (`+=`)** operator performs [addition](/Web/JavaScript/Reference/Operators/Addition) (which is either numeric addition or string concatenation) on the two operands and assigns the result to the left operand.
 

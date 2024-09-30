@@ -22,7 +22,7 @@ TypeError: AsyncIterator cannot be constructed directly (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

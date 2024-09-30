@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.await
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`await`** operator is used to wait for a {{jsxref("Promise")}} and get its fulfillment value. It can only be used inside an [async function](/Web/JavaScript/Reference/Statements/async_function) or at the top level of a [module](/Web/JavaScript/Guide/Modules).
 

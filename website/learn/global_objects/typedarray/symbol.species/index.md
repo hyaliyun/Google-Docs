@@ -44,7 +44,7 @@ SubTypedArray[Symbol.species] === SubTypedArray; // true
 
 When calling typed array methods that do not mutate the existing array but return a new array instance (for example, [`filter()`](/Web/JavaScript/Reference/Global_Objects/TypedArray/filter) and [`map()`](/Web/JavaScript/Reference/Global_Objects/TypedArray/map)), the array's `constructor[Symbol.species]` will be accessed. The returned constructor will be used to construct the return value of the typed array method.
 
-However, unlike [`Array[Symbol.species]`](/Web/JavaScript/Reference/Global_Objects/Array/Symbol.species), when using `[Symbol.species]` to create new typed arrays, the language will make sure that the newly created array is a proper typed array and has the same content type as the original array — for example, you can't create a {{jsxref("BigInt64Array")}} from a {{jsxref("Float64Array")}}, or create a non-BigInt array from a BigInt array. Doing so throws a {{jsxref("TypeError")}}.
+However, unlike [`Array[Symbol.species]`](/Web/JavaScript/Reference/Global_Objects/Array/Symbol.species), when using `[Symbol.species]` to create new typed arrays, the language will make sure that the newly created array is a proper typed array and has the same content type as the original array — for example, you can't create a {{jsxref("BigInt64Array")}} from a {{jsxref("Float64Array")}}, or create a non-BigInt array from a BigInt array. Doing so throws a .
 
 ```js
 class BadArray extends Int8Array {
@@ -63,7 +63,7 @@ new BadArray2(1).map(() => 0n); // TypeError: TypedArray.prototype.map construct
 ```
 
 > [!NOTE]
-> Due to a bug in both [SpiderMonkey](https://bugzil.la/1640194) and V8, the content type match is not checked. Only Safari will throw a {{jsxref("TypeError")}} in the second example.
+> Due to a bug in both [SpiderMonkey](https://bugzil.la/1640194) and V8, the content type match is not checked. Only Safari will throw a  in the second example.
 
 ## Examples
 

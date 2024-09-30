@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.typeof
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`typeof`** operator returns a string indicating the type of the operand's value.
 

@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.yield
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`yield`** operator is used to pause and resume a [generator function](/Web/JavaScript/Reference/Statements/function*).
 

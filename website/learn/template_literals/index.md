@@ -187,7 +187,7 @@ recursive`Hello``World`;
 // [ 'World' ] []
 ```
 
-While technically permitted by the syntax, _untagged_ template literals are strings and will throw a {{jsxref("TypeError")}} when chained.
+While technically permitted by the syntax, _untagged_ template literals are strings and will throw a  when chained.
 
 ```js
 console.log(`Hello``World`); // TypeError: "Hello" is not a function

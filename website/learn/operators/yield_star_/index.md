@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.yield_star
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`yield*`** operator is used to delegate to another [iterable](/Web/JavaScript/Reference/Iteration_protocols#the_iterable_protocol) object, such as a {{jsxref("Generator")}}.
 
@@ -34,7 +34,7 @@ The `yield*` operator forwards the current generator's {{jsxref("Generator/throw
 
 If the underlying iterator doesn't have a `return()` method, the `yield*` expression turns into a {{jsxref("Statements/return", "return")}} statement, just like calling `return()` on a suspended {{jsxref("Operators/yield", "yield")}} expression.
 
-If the underlying iterator doesn't have a `throw()` method, this causes `yield*` to throw a {{jsxref("TypeError")}} – but before throwing the error, the underlying iterator's `return()` method is called if one exists.
+If the underlying iterator doesn't have a `throw()` method, this causes `yield*` to throw a  – but before throwing the error, the underlying iterator's `return()` method is called if one exists.
 
 ## Examples
 

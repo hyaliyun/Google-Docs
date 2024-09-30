@@ -15,7 +15,7 @@ The **`BigInt()`** function returns primitive values of type BigInt.
 BigInt(value)
 ```
 
-> **Note:** `BigInt()` can only be called without [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to construct it with `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `BigInt()` can only be called without [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to construct it with `new` throws a .
 
 ### Parameters
 
@@ -30,7 +30,7 @@ A {{jsxref("BigInt")}} value. Number values must be integers and are converted t
 
 - {{jsxref("RangeError")}}
   - : Thrown if the parameter is a non-integral number.
-- {{jsxref("TypeError")}}
+- 
   - : Thrown in one of the following cases:
     - The parameter cannot be converted to a primitive.
     - After conversion to a primitive, the result is {{jsxref("undefined")}}, {{jsxref("Operators/null", "null")}}, {{jsxref("symbol")}}.

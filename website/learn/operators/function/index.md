@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.function
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`function`** keyword can be used to define a function inside an expression.
 

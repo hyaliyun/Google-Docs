@@ -75,14 +75,14 @@ Many built-in operations that expect numbers first coerce their arguments to num
   - `Infinity` and `-Infinity` are recognized as literals. In actual code, they are global variables.
   - Empty or whitespace-only strings are converted to `0`.
   - [Numeric separators](/Web/JavaScript/Reference/Lexical_grammar#numeric_separators) are not allowed.
-- [BigInts](/Web/JavaScript/Reference/Global_Objects/BigInt) throw a {{jsxref("TypeError")}} to prevent unintended implicit coercion causing loss of precision.
-- [Symbols](/Web/JavaScript/Reference/Global_Objects/Symbol) throw a {{jsxref("TypeError")}}.
+- [BigInts](/Web/JavaScript/Reference/Global_Objects/BigInt) throw a  to prevent unintended implicit coercion causing loss of precision.
+- [Symbols](/Web/JavaScript/Reference/Global_Objects/Symbol) throw a .
 - Objects are first [converted to a primitive](/Web/JavaScript/Data_structures#primitive_coercion) by calling their [`[Symbol.toPrimitive]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive) (with `"number"` as hint), `valueOf()`, and `toString()` methods, in that order. The resulting primitive is then converted to a number.
 
 There are two ways to achieve nearly the same effect in JavaScript.
 
 - [Unary plus](/Web/JavaScript/Reference/Operators/Unary_plus): `+x` does exactly the number coercion steps explained above to convert `x`.
-- The [`Number()`](/Web/JavaScript/Reference/Global_Objects/Number/Number) function: `Number(x)` uses the same algorithm to convert `x`, except that [BigInts](/Web/JavaScript/Reference/Global_Objects/BigInt) don't throw a {{jsxref("TypeError")}}, but return their number value, with possible loss of precision.
+- The [`Number()`](/Web/JavaScript/Reference/Global_Objects/Number/Number) function: `Number(x)` uses the same algorithm to convert `x`, except that [BigInts](/Web/JavaScript/Reference/Global_Objects/BigInt) don't throw a , but return their number value, with possible loss of precision.
 
 {{jsxref("Number.parseFloat()")}} and {{jsxref("Number.parseInt()")}} are similar to `Number()` but only convert strings, and have slightly different parsing rules. For example, `parseInt()` doesn't recognize the decimal point, and `parseFloat()` doesn't recognize the `0x` prefix.
 

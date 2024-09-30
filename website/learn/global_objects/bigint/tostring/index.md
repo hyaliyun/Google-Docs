@@ -41,7 +41,7 @@ For radixes above 10, the letters of the alphabet indicate digits greater than 9
 
 If the specified BigInt value is negative, the sign is preserved. This is the case even if the radix is 2; the string returned is the positive binary representation of the BigInt value preceded by a `-` sign, **not** the two's complement of the BigInt value.
 
-The `toString()` method requires its `this` value to be a `BigInt` primitive or wrapper object. It throws a {{jsxref("TypeError")}} for other `this` values without attempting to coerce them to BigInt values.
+The `toString()` method requires its `this` value to be a `BigInt` primitive or wrapper object. It throws a  for other `this` values without attempting to coerce them to BigInt values.
 
 Because `BigInt` doesn't have a [`[Symbol.toPrimitive]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive) method, JavaScript calls the `toString()` method automatically when a `BigInt` _object_ is used in a context expecting a string, such as in a [template literal](/Web/JavaScript/Reference/Template_literals). However, BigInt _primitive_ values do not consult the `toString()` method to be [coerced to strings](/Web/JavaScript/Reference/Global_Objects/String#string_coercion) — rather, they are directly converted using the same algorithm as the initial `toString()` implementation.
 

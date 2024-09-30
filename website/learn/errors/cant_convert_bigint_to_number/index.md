@@ -22,7 +22,7 @@ TypeError: BigInt does not support >>> operator (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}.
+.
 
 ## What went wrong?
 

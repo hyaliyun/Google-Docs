@@ -20,7 +20,7 @@ TypeError: Cannot access invalid private field (evaluating 'this.#x') (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

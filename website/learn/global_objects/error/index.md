@@ -27,7 +27,7 @@ Besides the generic `Error` constructor, there are other core error constructors
   - : Creates an instance representing an error that occurs when de-referencing an invalid reference.
 - 
   - : Creates an instance representing a syntax error.
-- {{jsxref("TypeError")}}
+- 
   - : Creates an instance representing an error that occurs when a variable or parameter is not of a valid type.
 - {{jsxref("URIError")}}
   - : Creates an instance representing an error that occurs when {{jsxref("encodeURI()")}} or {{jsxref("decodeURI()")}} are passed invalid parameters.
@@ -57,7 +57,7 @@ These properties are defined on `Error.prototype` and shared by all `Error` inst
 - {{jsxref("Object/constructor", "Error.prototype.constructor")}}
   - : The constructor function that created the instance object. For `Error` instances, the initial value is the {{jsxref("Error/Error", "Error")}} constructor.
 - {{jsxref("Error.prototype.name")}}
-  - : Represents the name for the type of error. For `Error.prototype.name`, the initial value is `"Error"`. Subclasses like {{jsxref("TypeError")}} and  provide their own `name` properties.
+  - : Represents the name for the type of error. For `Error.prototype.name`, the initial value is `"Error"`. Subclasses like  and  provide their own `name` properties.
 - {{jsxref("Error.prototype.stack")}} {{non-standard_inline}}
   - : A non-standard property for a stack trace.
 

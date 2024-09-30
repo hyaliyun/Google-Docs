@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.addition
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **addition (`+`)** operator produces the sum of numeric operands or string concatenation.
 
@@ -22,7 +22,7 @@ x + y
 The `+` operator is overloaded for two distinct operations: numeric addition and string concatenation. When evaluating, it first [coerces both operands to primitives](/Web/JavaScript/Data_structures#primitive_coercion). Then, the two operands' types are tested:
 
 - If one side is a string, the other operand is also [converted to a string](/Web/JavaScript/Reference/Global_Objects/String#string_coercion) and they are concatenated.
-- If they are both [BigInts](/Web/JavaScript/Reference/Global_Objects/BigInt), BigInt addition is performed. If one side is a BigInt but the other is not, a {{jsxref("TypeError")}} is thrown.
+- If they are both [BigInts](/Web/JavaScript/Reference/Global_Objects/BigInt), BigInt addition is performed. If one side is a BigInt but the other is not, a  is thrown.
 - Otherwise, both sides are [converted to numbers](/Web/JavaScript/Reference/Global_Objects/Number#number_coercion), and numeric addition is performed.
 
 String concatenation is often thought to be equivalent with [template literals](/Web/JavaScript/Reference/Template_literals) or [`String.prototype.concat()`](/Web/JavaScript/Reference/Global_Objects/String/concat), but they are not. Addition coerces the expression to a _primitive_, which calls [`valueOf()`](/Web/JavaScript/Reference/Global_Objects/Object/valueOf) in priority; on the other hand, template literals and `concat()` coerce the expression to a _string_, which calls [`toString()`](/Web/JavaScript/Reference/Global_Objects/Object/toString) in priority. If the expression has a [`[Symbol.toPrimitive]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive) method, string concatenation calls it with `"default"` as hint, while template literals use `"string"`. This is important for objects that have different string and primitive representations — such as [Temporal](https://github.com/tc39/proposal-temporal), whose `valueOf()` method throws.

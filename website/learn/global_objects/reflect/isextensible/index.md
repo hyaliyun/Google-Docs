@@ -28,12 +28,12 @@ A {{jsxref("Boolean")}} indicating whether or not the target is extensible.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not an object.
 
 ## Description
 
-`Reflect.isExtensible()` provides the reflective semantic of checking if an object is extensible. The only difference with {{jsxref("Object.isExtensible()")}} is how non-object targets are handled. `Reflect.isExtensible()` throws a {{jsxref("TypeError")}} if the target is not an object, while `Object.isExtensible()` always returns `false` for non-object targets.
+`Reflect.isExtensible()` provides the reflective semantic of checking if an object is extensible. The only difference with {{jsxref("Object.isExtensible()")}} is how non-object targets are handled. `Reflect.isExtensible()` throws a  if the target is not an object, while `Object.isExtensible()` always returns `false` for non-object targets.
 
 `Reflect.isExtensible()` invokes the `[[IsExtensible]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods) of `target`.
 
@@ -63,7 +63,7 @@ Reflect.isExtensible(frozen); // false
 
 ### Difference with Object.isExtensible()
 
-If the `target` argument to this method is not an object (a primitive), then it will cause a {{jsxref("TypeError")}}. With {{jsxref("Object.isExtensible()")}}, a non-object `target` will return false without any errors.
+If the `target` argument to this method is not an object (a primitive), then it will cause a . With {{jsxref("Object.isExtensible()")}}, a non-object `target` will return false without any errors.
 
 ```js
 Reflect.isExtensible(1);

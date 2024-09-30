@@ -31,7 +31,7 @@ The `toString()` method is part of the [type coercion protocol](/Web/JavaScript/
 
 The  object overrides the {{jsxref("Object/toString", "toString()")}} method of {{jsxref("Object")}}. `Date.prototype.toString()` returns a string representation of the Date as interpreted in the local timezone, containing both the date and the time — it joins the string representation specified in {{jsxref("Date/toDateString", "toDateString()")}} and {{jsxref("Date/toTimeString", "toTimeString()")}} together, adding a space in between. For example: "Thu Jan 01 1970 00:00:00 GMT+0000 (Coordinated Universal Time)".
 
-`Date.prototype.toString()` must be called on  instances. If the `this` value does not inherit from `Date.prototype`, a {{jsxref("TypeError")}} is thrown.
+`Date.prototype.toString()` must be called on  instances. If the `this` value does not inherit from `Date.prototype`, a  is thrown.
 
 - If you only want to get the _date_ part, use {{jsxref("Date/toDateString", "toDateString()")}}.
 - If you only want to get the _time_ part, use {{jsxref("Date/toTimeString", "toTimeString()")}}.

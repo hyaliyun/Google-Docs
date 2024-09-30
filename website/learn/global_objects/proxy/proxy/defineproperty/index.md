@@ -35,7 +35,7 @@ The following parameters are passed to the `defineProperty()` method. `this` is 
 
 The `defineProperty()` method must return a {{jsxref("Boolean")}} indicating whether or not the property has been successfully defined. Other values are [coerced to booleans](/Web/JavaScript/Reference/Global_Objects/Boolean#boolean_coercion).
 
-Many operations, including {{jsxref("Object.defineProperty()")}} and {{jsxref("Object.defineProperties()")}}, throw a {{jsxref("TypeError")}} if the `[[DefineOwnProperty]]` internal method returns `false`.
+Many operations, including {{jsxref("Object.defineProperty()")}} and {{jsxref("Object.defineProperties()")}}, throw a  if the `[[DefineOwnProperty]]` internal method returns `false`.
 
 ## Description
 
@@ -50,7 +50,7 @@ Or any other operation that invokes the `[[DefineOwnProperty]]` [internal method
 
 ### Invariants
 
-The proxy's `[[DefineOwnProperty]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[DefineOwnProperty]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - A property cannot be added, if the target object is not extensible. That is, if {{jsxref("Reflect.isExtensible()")}} returns `false` on `target`, and {{jsxref("Reflect.getOwnPropertyDescriptor()")}} returns `undefined` for the property on `target`, then the trap must return a falsy value.
 - A property cannot be non-configurable, unless there exists a corresponding non-configurable own property of the target object. That is, if {{jsxref("Reflect.getOwnPropertyDescriptor()")}} returns `undefined` or `configurable: true` for the property on `target`, and `descriptor.configurable` is `false`, then the trap must return a falsy value.

@@ -30,9 +30,9 @@ A string representing the specified symbol value.
 The {{jsxref("Symbol")}} object overrides the `toString` method of {{jsxref("Object")}}; it does not inherit
 {{jsxref("Object.prototype.toString()")}}. For `Symbol` values, the `toString` method returns a descriptive string in the form `"Symbol(description)"`, where `description` is the symbol's [description](/Web/JavaScript/Reference/Global_Objects/Symbol/description).
 
-The `toString()` method requires its `this` value to be a `Symbol` primitive or wrapper object. It throws a {{jsxref("TypeError")}} for other `this` values without attempting to coerce them to symbol values.
+The `toString()` method requires its `this` value to be a `Symbol` primitive or wrapper object. It throws a  for other `this` values without attempting to coerce them to symbol values.
 
-Because `Symbol` has a [`[Symbol.toPrimitive]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/Symbol.toPrimitive) method, that method always takes priority over `toString()` when a `Symbol` object is [coerced to a string](/Web/JavaScript/Reference/Global_Objects/String#string_coercion). However, because `Symbol.prototype[Symbol.toPrimitive]()` returns a symbol primitive, and symbol primitives throw a {{jsxref("TypeError")}} when implicitly converted to a string, the `toString()` method is never implicitly called by the language. To stringify a symbol, you must explicitly call its `toString()` method or use the [`String()`](/Web/JavaScript/Reference/Global_Objects/String/String#using_string_to_stringify_a_symbol) function.
+Because `Symbol` has a [`[Symbol.toPrimitive]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/Symbol.toPrimitive) method, that method always takes priority over `toString()` when a `Symbol` object is [coerced to a string](/Web/JavaScript/Reference/Global_Objects/String#string_coercion). However, because `Symbol.prototype[Symbol.toPrimitive]()` returns a symbol primitive, and symbol primitives throw a  when implicitly converted to a string, the `toString()` method is never implicitly called by the language. To stringify a symbol, you must explicitly call its `toString()` method or use the [`String()`](/Web/JavaScript/Reference/Global_Objects/String/String#using_string_to_stringify_a_symbol) function.
 
 ## Examples
 

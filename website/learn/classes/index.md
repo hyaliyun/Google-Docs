@@ -5,7 +5,7 @@ page-type: guide
 browser-compat: javascript.classes
 ---
 
-{{jsSidebar("Classes")}}
+
 
 Classes are a template for creating objects. They encapsulate data with code to work on that data. Classes in JS are built on [prototypes](/Web/JavaScript/Inheritance_and_the_prototype_chain) but also have some syntax and semantics that are unique to classes.
 
@@ -267,7 +267,7 @@ l.speak();
 
 When a [`class` declaration](/Web/JavaScript/Reference/Statements/class) or [`class` expression](/Web/JavaScript/Reference/Operators/class) is evaluated, its various components are evaluated in the following order:
 
-1. The {{jsxref("Classes/extends", "extends")}} clause, if present, is first evaluated. It must evaluate to a valid constructor function or `null`, or a {{jsxref("TypeError")}} is thrown.
+1. The {{jsxref("Classes/extends", "extends")}} clause, if present, is first evaluated. It must evaluate to a valid constructor function or `null`, or a  is thrown.
 2. The {{jsxref("Classes/constructor", "constructor")}} method is extracted, substituted with a default implementation if `constructor` is not present. However, because the `constructor` definition is only a method definition, this step is not observable.
 3. The class elements' property keys are evaluated in the order of declaration. If the property key is computed, the computed expression is evaluated, with the `this` value set to the `this` value surrounding the class (not the class itself). None of the property values are evaluated yet.
 4. Methods and accessors are installed in the order of declaration. Instance methods and accessors are installed on the `prototype` property of the current class, and static methods and accessors are installed on the class itself. Private instance methods and accessors are saved to be installed on the instance directly later. This step is not observable.

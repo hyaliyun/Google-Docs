@@ -35,7 +35,7 @@ The specified object.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown in one of the following cases:
     - The `obj` parameter is `undefined` or `null`.
     - The `obj` parameter is [non-extensible](/Web/JavaScript/Reference/Global_Objects/Object/isExtensible), or it's an [immutable prototype exotic object](https://tc39.es/ecma262/multipage/ordinary-and-exotic-objects-behaviours.html#sec-immutable-prototype-exotic-objects), such as `Object.prototype` or [`window`](/Web/API/Window). However, the error is not thrown if the new prototype is the same value as the original prototype of `obj`.

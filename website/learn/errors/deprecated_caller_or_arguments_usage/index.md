@@ -20,7 +20,7 @@ TypeError: 'arguments', 'callee', and 'caller' cannot be accessed in this contex
 
 ## Error type
 
-{{jsxref("TypeError")}} in [strict mode](/Web/JavaScript/Reference/Strict_mode) only.
+ in [strict mode](/Web/JavaScript/Reference/Strict_mode) only.
 
 ## What went wrong?
 

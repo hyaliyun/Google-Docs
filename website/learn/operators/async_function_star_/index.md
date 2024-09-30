@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.async_generator_function
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`async function*`** keywords can be used to define an async generator function inside an expression.
 

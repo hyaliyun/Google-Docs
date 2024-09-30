@@ -47,7 +47,7 @@ Or any other operation that invokes the `[[GetPrototypeOf]]` [internal method](/
 
 ### Invariants
 
-The proxy's `[[GetPrototypeOf]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[GetPrototypeOf]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - The result must be either an {{jsxref("Object")}} or `null`.
 - If the target object is not extensible (that is, {{jsxref("Reflect.isExtensible()")}} returns `false` on `target`), the result must be the same as the result of `Reflect.getPrototypeOf(target)`.

@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.exponentiation_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **exponentiation assignment (`**=`)** operator performs [exponentiation](/Web/JavaScript/Reference/Operators/Exponentiation) on the two operands and assigns the result to the left operand.
 

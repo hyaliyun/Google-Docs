@@ -33,7 +33,7 @@ None ({{jsxref("undefined")}}).
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `func` is not a function.
 
 ## Description

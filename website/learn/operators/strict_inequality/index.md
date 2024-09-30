@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.strict_inequality
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **strict inequality (`!==`)** operator checks whether its two operands are
 not equal, returning a Boolean result. Unlike the [inequality](/Web/JavaScript/Reference/Operators/Inequality)

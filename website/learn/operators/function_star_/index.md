@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.generator_function
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`function*`** keyword can be used to define a generator function inside an expression.
 

@@ -22,7 +22,7 @@ TypeError: WeakSet values must be objects or non-registered symbols (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

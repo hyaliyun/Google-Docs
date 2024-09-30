@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.grouping
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **grouping `( )`** operator controls the precedence of evaluation in expressions. It also acts as a container for arbitrary expressions in certain syntactic constructs, where ambiguity or syntax errors would otherwise occur.
 

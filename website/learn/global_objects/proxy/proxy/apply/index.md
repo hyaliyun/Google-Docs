@@ -49,7 +49,7 @@ Or any other operation that invokes the `[[Call]]` [internal method](/Web/JavaSc
 
 ### Invariants
 
-The proxy's `[[Call]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[Call]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - The `target` must be a callable itself. That is, it must be a function object.
 

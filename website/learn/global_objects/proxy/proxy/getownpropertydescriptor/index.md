@@ -46,7 +46,7 @@ Or any other operation that invokes the `[[GetOwnProperty]]` [internal method](/
 
 ### Invariants
 
-The proxy's `[[GetOwnProperty]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[GetOwnProperty]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - The result must be either an {{jsxref("Object")}} or `undefined`.
 - A property cannot be reported as non-existent, if it exists as a non-configurable own property of the target object. That is, if {{jsxref("Reflect.getOwnPropertyDescriptor()")}} returns `configurable: false` for the property on `target`, then the trap must not return `undefined`.

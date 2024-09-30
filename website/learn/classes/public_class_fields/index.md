@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.classes.public_class_fields
 ---
 
-{{jsSidebar("Classes")}}
+
 
 **Public fields** are writable, enumerable, and configurable properties. As such, unlike their private counterparts, they participate in prototype inheritance.
 
@@ -143,7 +143,7 @@ console.log(instance.b); // undefined
 ```
 
 > [!NOTE]
-> This is more important with [private fields](/Web/JavaScript/Reference/Classes/Private_properties), because accessing a non-initialized private field throws a {{jsxref("TypeError")}}, even if the private field is declared below. (If the private field is not declared, it would be an early .)
+> This is more important with [private fields](/Web/JavaScript/Reference/Classes/Private_properties), because accessing a non-initialized private field throws a , even if the private field is declared below. (If the private field is not declared, it would be an early .)
 
 Because class fields are added using the [`[[DefineOwnProperty]]`](/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/defineProperty) semantic (which is essentially {{jsxref("Object.defineProperty()")}}), field declarations in derived classes do not invoke setters in the base class. This behavior differs from using `this.field = …` in the constructor.
 

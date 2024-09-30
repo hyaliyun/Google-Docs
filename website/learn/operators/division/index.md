@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.division
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **division (`/`)** operator produces the quotient of its operands where the left operand is the dividend and the right operand is the divisor.
 
@@ -19,7 +19,7 @@ x / y
 
 ## Description
 
-The `/` operator is overloaded for two types of operands: number and [BigInt](/Web/JavaScript/Reference/Global_Objects/BigInt). It first [coerces both operands to numeric values](/Web/JavaScript/Data_structures#numeric_coercion) and tests the types of them. It performs BigInt division if both operands become BigInts; otherwise, it performs number division. A {{jsxref("TypeError")}} is thrown if one operand becomes a BigInt but the other becomes a number.
+The `/` operator is overloaded for two types of operands: number and [BigInt](/Web/JavaScript/Reference/Global_Objects/BigInt). It first [coerces both operands to numeric values](/Web/JavaScript/Data_structures#numeric_coercion) and tests the types of them. It performs BigInt division if both operands become BigInts; otherwise, it performs number division. A  is thrown if one operand becomes a BigInt but the other becomes a number.
 
 For BigInt division, the result is the quotient of the two operands truncated towards zero, and the remainder is discarded. A {{jsxref("RangeError")}} is thrown if the divisor `y` is `0n`. This is because number division by zero returns `Infinity` or `-Infinity`, but BigInt has no concept of infinity.
 

@@ -31,7 +31,7 @@ A string representing the specified number value. Scientific notation is used if
 
 - {{jsxref("RangeError")}}
   - : Thrown if `radix` is less than 2 or greater than 36.
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if this method is invoked on an object that is not a {{jsxref("Number")}}.
 
 ## Description
@@ -61,7 +61,7 @@ console.log(1000000000000000100 === 1000000000000000128); // true
 
 On the other hand, {{jsxref("Number.prototype.toFixed()")}} and {{jsxref("Number.prototype.toPrecision()")}} allow you to specify the precision and can be more precise than `toString()`.
 
-The `toString()` method requires its `this` value to be a `Number` primitive or wrapper object. It throws a {{jsxref("TypeError")}} for other `this` values without attempting to coerce them to number values.
+The `toString()` method requires its `this` value to be a `Number` primitive or wrapper object. It throws a  for other `this` values without attempting to coerce them to number values.
 
 Because `Number` doesn't have a [`[Symbol.toPrimitive]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive) method, JavaScript calls the `toString()` method automatically when a `Number` _object_ is used in a context expecting a string, such as in a [template literal](/Web/JavaScript/Reference/Template_literals). However, Number _primitive_ values do not consult the `toString()` method to be [coerced to strings](/Web/JavaScript/Reference/Global_Objects/String#string_coercion) — rather, they are directly converted using the same algorithm as the initial `toString()` implementation.
 

@@ -33,7 +33,7 @@ also prevents them from being converted from data properties to accessor propert
 vice versa, but it does not prevent the values of data properties from being changed.
 Attempting to delete or add properties to a sealed object, or to convert a data property
 to accessor or vice versa, will fail, either silently or by throwing a
-{{jsxref("TypeError")}} (most commonly, although not exclusively, when in
+ (most commonly, although not exclusively, when in
 {{jsxref("Strict_mode", "strict mode", "", 1)}} code).
 
 [Private properties](/Web/JavaScript/Reference/Classes/Private_properties) do not have the concept of property descriptors. Private properties cannot be added or removed from the object, whether the object is sealed or not.
@@ -104,7 +104,7 @@ Object.defineProperty(obj, "foo", {
 
 ### Non-object argument
 
-In ES5, if the argument to this method is not an object (a primitive), then it will cause a {{jsxref("TypeError")}}. In ES2015, a non-object argument will be returned as-is without any errors, since primitives are already, by definition, immutable.
+In ES5, if the argument to this method is not an object (a primitive), then it will cause a . In ES2015, a non-object argument will be returned as-is without any errors, since primitives are already, by definition, immutable.
 
 ```js
 Object.seal(1);

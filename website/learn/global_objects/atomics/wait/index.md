@@ -40,7 +40,7 @@ A string which is either `"ok"`, `"not-equal"`, or `"timed-out"`.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown in one of the following cases:
     - If `typedArray` is not an {{jsxref("Int32Array")}} or {{jsxref("BigInt64Array")}} that views a {{jsxref("SharedArrayBuffer")}}.
     - If the current thread cannot be blocked (for example, because it's the main thread).

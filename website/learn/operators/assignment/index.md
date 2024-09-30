@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **assignment (`=`)** operator is used to assign a value to a variable or property. The assignment expression itself has a value, which is the assigned value. This allows multiple assignments to be chained in order to assign a single value to multiple variables.
 
@@ -32,7 +32,7 @@ The value of `y`.
 
 - {{jsxref("ReferenceError")}}
   - : Thrown in strict mode if assigning to an identifier that is not declared in the scope.
-- {{jsxref("TypeError")}}
+- 
   - : Thrown in strict mode if assigning to a [property that is not modifiable](/Web/JavaScript/Reference/Strict_mode#failing_to_assign_to_object_properties).
 
 ## Description

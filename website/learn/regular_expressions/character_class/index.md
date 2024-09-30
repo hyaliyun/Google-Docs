@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.character_class
 ---
 
-{{jsSidebar}}
+
 
 A **character class** matches any character in or not in a custom set of characters. When the [`v`](/Web/JavaScript/Reference/Global_Objects/RegExp/unicodeSets) flag is enabled, it can also be used to match finite-length strings.
 

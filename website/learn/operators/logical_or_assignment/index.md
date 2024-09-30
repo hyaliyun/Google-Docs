@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.logical_or_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **logical OR assignment (`||=`)** operator only evaluates the right operand and assigns to the left if the left operand is {{Glossary("falsy")}}.
 

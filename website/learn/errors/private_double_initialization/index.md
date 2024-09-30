@@ -22,7 +22,7 @@ TypeError: Cannot install same private methods on object more than once (evaluat
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

@@ -15,7 +15,7 @@ The **`WeakRef()`** constructor creates {{jsxref("WeakRef")}} objects.
 new WeakRef(target)
 ```
 
-> **Note:** `WeakRef()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `WeakRef()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a .
 
 ### Parameters
 
@@ -28,7 +28,7 @@ A new `WeakRef` object referring to the given target value.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not an object or a [non-registered symbol](/Web/JavaScript/Reference/Global_Objects/Symbol#shared_symbols_in_the_global_symbol_registry).
 
 ## Examples

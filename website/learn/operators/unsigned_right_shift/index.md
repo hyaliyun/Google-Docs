@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.unsigned_right_shift
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **unsigned right shift (`>>>`)** operator returns a number whose binary representation is the first operand shifted by the specified number of bits to the right. Excess bits shifted off to the right are discarded, and zero bits are shifted in from the left. This operation is also called "zero-filling right shift", because the sign bit becomes `0`, so the resulting number is always positive. Unsigned right shift does not accept [BigInt](/Web/JavaScript/Reference/Global_Objects/BigInt) values.
 

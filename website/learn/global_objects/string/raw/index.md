@@ -37,7 +37,7 @@ The raw string form of a given template literal.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if the first argument doesn't have a `raw` property, or the `raw` property is `undefined` or `null`.
 
 ## Description

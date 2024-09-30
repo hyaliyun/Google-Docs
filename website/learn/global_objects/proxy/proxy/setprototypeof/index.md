@@ -33,7 +33,7 @@ The following parameters are passed to the `setPrototypeOf()` method. `this` is 
 
 The `setPrototypeOf()` method must return a {{jsxref("Boolean")}} indicating whether or not the prototype was successfully changed. Other values are [coerced to booleans](/Web/JavaScript/Reference/Global_Objects/Boolean#boolean_coercion).
 
-Many operations, including {{jsxref("Object.setPrototypeOf()")}}, throw a {{jsxref("TypeError")}} if the `[[SetPrototypeOf]]` internal method returns `false`.
+Many operations, including {{jsxref("Object.setPrototypeOf()")}}, throw a  if the `[[SetPrototypeOf]]` internal method returns `false`.
 
 ## Description
 
@@ -48,7 +48,7 @@ Or any other operation that invokes the `[[SetPrototypeOf]]` [internal method](/
 
 ### Invariants
 
-The proxy's `[[SetPrototypeOf]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[SetPrototypeOf]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - If the target object is not extensible, the prototype cannot be changed. That is, if {{jsxref("Reflect.isExtensible()")}} returns `false` on `target`, and `prototype` is not the same as the result of `Reflect.getPrototypeOf(target)`, then the trap must return a falsy value.
 
@@ -64,7 +64,7 @@ This approach means that any mutating operation that throws an exception on fail
 mutate, must create the exception itself.
 
 For example, {{jsxref("Object.setPrototypeOf()")}} will create and throw a
-{{jsxref("TypeError")}} itself. If the mutation is performed by an operation that
+ itself. If the mutation is performed by an operation that
 _doesn't_ ordinarily throw in case of failure, such as
 {{jsxref("Reflect.setPrototypeOf()")}}, no exception will be thrown.
 

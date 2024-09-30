@@ -28,7 +28,7 @@ TypeError: instanceof called on an object with an invalid prototype property. (S
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

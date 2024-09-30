@@ -20,7 +20,7 @@ TypeError: Unable to delete property. (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

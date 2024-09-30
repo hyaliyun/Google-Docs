@@ -18,7 +18,7 @@ TypeError: Invalid argument type in ToBigInt operation (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}.
+.
 
 ## What went wrong?
 

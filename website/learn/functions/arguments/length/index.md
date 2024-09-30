@@ -5,7 +5,7 @@ page-type: javascript-instance-data-property
 browser-compat: javascript.functions.arguments.length
 ---
 
-{{jsSidebar("Functions")}}
+
 
 The **`arguments.length`** data property contains the number of arguments passed to the function.
 

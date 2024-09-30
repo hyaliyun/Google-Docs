@@ -21,13 +21,13 @@ The well-known symbol `Symbol.match`.
 
 ## Description
 
-This function is also used to identify [if objects have the behavior of regular expressions](/Web/JavaScript/Reference/Global_Objects/RegExp#special_handling_for_regexes). For example, the methods {{jsxref("String.prototype.startsWith()")}}, {{jsxref("String.prototype.endsWith()")}} and {{jsxref("String.prototype.includes()")}}, check if their first argument is a regular expression and will throw a {{jsxref("TypeError")}} if they are. Now, if the `match` symbol is set to `false` (or a [Falsy](/Glossary/Falsy) value except `undefined`), it indicates that the object is not intended to be used as a regular expression object.
+This function is also used to identify [if objects have the behavior of regular expressions](/Web/JavaScript/Reference/Global_Objects/RegExp#special_handling_for_regexes). For example, the methods {{jsxref("String.prototype.startsWith()")}}, {{jsxref("String.prototype.endsWith()")}} and {{jsxref("String.prototype.includes()")}}, check if their first argument is a regular expression and will throw a  if they are. Now, if the `match` symbol is set to `false` (or a [Falsy](/Glossary/Falsy) value except `undefined`), it indicates that the object is not intended to be used as a regular expression object.
 
 ## Examples
 
 ### Marking a RegExp as not a regex
 
-The following code will throw a {{jsxref("TypeError")}}:
+The following code will throw a :
 
 ```js
 "/bar/".startsWith(/bar/);

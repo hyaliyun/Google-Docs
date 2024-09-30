@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.classes.static_initialization_blocks
 ---
 
-{{jsSidebar("Classes")}}
+
 
 **Static initialization blocks** are declared within a {{jsxref("Statements/class", "class")}}. It contains statements to be evaluated during class initialization. This permits more flexible initialization logic than {{jsxref("Classes/static", "static")}} properties, such as using `try...catch` or setting multiple fields from a single value. Initialization is performed in the context of the current class declaration, with access to private state, which allows the class to share information of its private properties with other classes or functions declared in the same scope (analogous to "friend" classes in C++).
 
@@ -72,7 +72,7 @@ The scope of the static block is nested _within_ the lexical scope of the class 
 [Static field](/Web/JavaScript/Reference/Classes/static) initializers and static initialization blocks are evaluated one-by-one. The initialization block can refer to field values above it, but not below it. All static methods are added beforehand and can be accessed, although calling them may not behave as expected if they refer to fields below the current block.
 
 > [!NOTE]
-> This is more important with [private static fields](/Web/JavaScript/Reference/Classes/Private_properties), because accessing a non-initialized private field throws a {{jsxref("TypeError")}}, even if the private field is declared below. (If the private field is not declared, it would be an early .)
+> This is more important with [private static fields](/Web/JavaScript/Reference/Classes/Private_properties), because accessing a non-initialized private field throws a , even if the private field is declared below. (If the private field is not declared, it would be an early .)
 
 A static initialization block may not have decorators (the class itself may).
 

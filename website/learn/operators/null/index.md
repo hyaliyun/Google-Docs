@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.operators.null
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`null`** value represents the intentional absence of any object value. It
 is one of JavaScript's [primitive values](/Glossary/Primitive) and

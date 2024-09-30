@@ -18,7 +18,7 @@ TypeError: JSON.stringify cannot serialize BigInt. (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

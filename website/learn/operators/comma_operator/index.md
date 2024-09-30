@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.comma
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **comma (`,`)** operator evaluates each of its operands (from left to right) and returns the value of the last operand. This is commonly used to provide multiple updaters to a [`for`](/Web/JavaScript/Reference/Statements/for) loop's afterthought.
 

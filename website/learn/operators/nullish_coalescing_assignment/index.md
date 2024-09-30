@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.nullish_coalescing_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **nullish coalescing assignment (`??=`)** operator, also known as the **logical nullish assignment** operator, only evaluates the right operand and assigns to the left if the left operand is {{Glossary("nullish")}} (`null` or `undefined`).
 

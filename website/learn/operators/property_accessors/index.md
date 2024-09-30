@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.property_accessors
 ---
 
-{{jsSidebar("Operators")}}
+
 
 **Property accessors** provide access to an object's properties by using the dot notation or the bracket notation.
 

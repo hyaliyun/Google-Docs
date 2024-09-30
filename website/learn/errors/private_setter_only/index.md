@@ -18,7 +18,7 @@ TypeError: Trying to access an undefined private getter (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

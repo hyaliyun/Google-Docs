@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.remainder_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **remainder assignment (`%=`)** operator performs [remainder](/Web/JavaScript/Reference/Operators/Remainder) on the two operands and assigns the result to the left operand.
 

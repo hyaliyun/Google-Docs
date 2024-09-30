@@ -40,7 +40,7 @@ Object.getPrototypeOf(obj) === proto; // true
 
 ### Non-object coercion
 
-In ES5, it will throw a {{jsxref("TypeError")}} exception if the `obj`
+In ES5, it will throw a  exception if the `obj`
 parameter isn't an object. In ES2015, the parameter will be coerced to an
 {{jsxref("Object")}}.
 

@@ -30,12 +30,12 @@ A property descriptor object if the property exists as an own property of `targe
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not an object.
 
 ## Description
 
-`Reflect.getOwnPropertyDescriptor()` provides the reflective semantic of retrieving the property descriptor of an object. The only difference with {{jsxref("Object.getOwnPropertyDescriptor()")}} is how non-object targets are handled. `Reflect.getOwnPropertyDescriptor()` throws a {{jsxref("TypeError")}} if the target is not an object, while `Object.getOwnPropertyDescriptor()` coerces it to an object.
+`Reflect.getOwnPropertyDescriptor()` provides the reflective semantic of retrieving the property descriptor of an object. The only difference with {{jsxref("Object.getOwnPropertyDescriptor()")}} is how non-object targets are handled. `Reflect.getOwnPropertyDescriptor()` throws a  if the target is not an object, while `Object.getOwnPropertyDescriptor()` coerces it to an object.
 
 `Reflect.getOwnPropertyDescriptor()` invokes the `[[GetOwnProperty]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods) of `target`.
 
@@ -56,7 +56,7 @@ Reflect.getOwnPropertyDescriptor([], "length");
 
 ### Difference with Object.getOwnPropertyDescriptor()
 
-If the `target` argument to this method is not an object (a primitive), then it will cause a {{jsxref("TypeError")}}. With {{jsxref("Object.getOwnPropertyDescriptor")}}, a non-object first argument will be coerced to an object at first.
+If the `target` argument to this method is not an object (a primitive), then it will cause a . With {{jsxref("Object.getOwnPropertyDescriptor")}}, a non-object first argument will be coerced to an object at first.
 
 ```js
 Reflect.getOwnPropertyDescriptor("foo", 0);

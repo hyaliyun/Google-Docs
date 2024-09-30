@@ -17,7 +17,7 @@ The **`Intl.DisplayNames()`** constructor creates {{jsxref("Intl.DisplayNames")}
 new Intl.DisplayNames(locales, options)
 ```
 
-> **Note:** `Intl.DisplayNames()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `Intl.DisplayNames()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a .
 
 ### Parameters
 
@@ -46,7 +46,7 @@ new Intl.DisplayNames(locales, options)
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `options.type` is not provided.
 - {{jsxref("RangeError")}}
   - : Thrown if `locales` or `options` contain invalid values.

@@ -130,7 +130,7 @@ console.log(float32.byteLength); // 0
 
 ## Constructor
 
-This object cannot be instantiated directly — attempting to construct it with `new` throws a {{jsxref("TypeError")}}.
+This object cannot be instantiated directly — attempting to construct it with `new` throws a .
 
 ```js
 new (Object.getPrototypeOf(Int8Array))();
@@ -153,7 +153,7 @@ new TypedArray(buffer, byteOffset, length)
 Where `TypedArray` is a constructor for one of the concrete types.
 
 > [!NOTE]
-> All `TypedArray` subclasses' constructors can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call one without `new` throws a {{jsxref("TypeError")}}.
+> All `TypedArray` subclasses' constructors can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call one without `new` throws a .
 
 ### Parameters
 
@@ -170,7 +170,7 @@ Where `TypedArray` is a constructor for one of the concrete types.
 
 All `TypeArray` subclass constructors operate in the same way. They would all throw the following exceptions:
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown in one of the following cases:
     - A `typedArray` is passed but it is a [bigint](/Web/JavaScript/Reference/Global_Objects/BigInt) type while the current constructor is not, or vice versa.
     - A `typedArray` is passed but the buffer it's viewing is detached, or a detached `buffer` is directly passed.

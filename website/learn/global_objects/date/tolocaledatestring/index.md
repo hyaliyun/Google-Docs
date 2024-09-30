@@ -35,7 +35,7 @@ In implementations that support the [`Intl.DateTimeFormat` API](/Web/JavaScript/
 
 - `options` {{optional_inline}}
 
-  - : An object adjusting the output format. Corresponds to the [`options`](/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat#options) parameter of the `Intl.DateTimeFormat()` constructor. The `timeStyle` option must be undefined, or a {{jsxref("TypeError")}} would be thrown. If `weekday`, `year`, `month`, and `day` are all undefined, then `year`, `month`, and `day` will be set to `"numeric"`.
+  - : An object adjusting the output format. Corresponds to the [`options`](/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat#options) parameter of the `Intl.DateTimeFormat()` constructor. The `timeStyle` option must be undefined, or a  would be thrown. If `weekday`, `year`, `month`, and `day` are all undefined, then `year`, `month`, and `day` will be set to `"numeric"`.
 
     In implementations without `Intl.DateTimeFormat` support, this parameter is ignored.
 

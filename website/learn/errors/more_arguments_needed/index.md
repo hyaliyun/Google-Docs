@@ -21,7 +21,7 @@ TypeError: Object prototype may only be an Object or null. (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}.
+.
 
 ## What went wrong?
 

@@ -28,7 +28,7 @@ TypeError: Type error (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

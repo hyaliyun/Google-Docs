@@ -30,7 +30,7 @@ A boolean indicating whether the calling object (`this`) lies in the prototype c
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `this` is `null` or `undefined` (because it can't be [converted to an object](/Web/JavaScript/Reference/Global_Objects/Object#object_coercion)).
 
 ## Description

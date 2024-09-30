@@ -62,7 +62,7 @@ Error objects are a special type of fundamental object. They include the basic {
 - {{jsxref("RangeError")}}
 - {{jsxref("ReferenceError")}}
 - 
-- {{jsxref("TypeError")}}
+- 
 - {{jsxref("URIError")}}
 - {{jsxref("InternalError")}} {{non-standard_inline}}
 

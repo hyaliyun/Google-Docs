@@ -35,7 +35,7 @@ An object is extensible if new properties can be added to it.
 it will never have properties beyond the ones it had at the time it was marked as
 non-extensible. Note that the properties of a non-extensible object, in general, may
 still be _deleted_. Attempting to add new properties to a non-extensible object
-will fail, either silently or, in [strict mode](/Web/JavaScript/Reference/Strict_mode), throwing a {{jsxref("TypeError")}}.
+will fail, either silently or, in [strict mode](/Web/JavaScript/Reference/Strict_mode), throwing a .
 
 Unlike [`Object.seal()`](/Web/JavaScript/Reference/Global_Objects/Object/seal) and [`Object.freeze()`](/Web/JavaScript/Reference/Global_Objects/Object/freeze), `Object.preventExtensions()` invokes an intrinsic JavaScript behavior and cannot be replaced with a composition of several other operations. It also has its `Reflect` counterpart (which only exists for intrinsic operations), [`Reflect.preventExtensions()`](/Web/JavaScript/Reference/Global_Objects/Reflect/preventExtensions).
 
@@ -92,7 +92,7 @@ fixed.__proto__ = { oh: "hai" };
 
 ### Non-object argument
 
-In ES5, if the argument to this method is not an object (a primitive), then it will cause a {{jsxref("TypeError")}}. In ES2015, a non-object argument will be returned as-is without any errors, since primitives are already, by definition, immutable.
+In ES5, if the argument to this method is not an object (a primitive), then it will cause a . In ES2015, a non-object argument will be returned as-is without any errors, since primitives are already, by definition, immutable.
 
 ```js
 Object.preventExtensions(1);

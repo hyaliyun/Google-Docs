@@ -32,7 +32,7 @@ The result of calling the given `target` function with the specified `this` valu
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not a function or `argumentsList` is not an object.
 
 ## Description

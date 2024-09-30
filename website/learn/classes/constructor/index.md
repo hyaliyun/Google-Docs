@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.classes.constructor
 ---
 
-{{jsSidebar("Classes")}}
+
 
 The **`constructor`** method is a special method of a [class](/Web/JavaScript/Reference/Classes) for creating and initializing an object instance of that class.
 
@@ -145,7 +145,7 @@ new (class C extends class B {
 })();
 ```
 
-The `constructor` method may have a return value. While the base class may return anything from its constructor, the derived class must return an object or `undefined`, or a {{jsxref("TypeError")}} will be thrown.
+The `constructor` method may have a return value. While the base class may return anything from its constructor, the derived class must return an object or `undefined`, or a  will be thrown.
 
 ```js
 class ParentClass {

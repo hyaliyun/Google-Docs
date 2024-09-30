@@ -18,7 +18,7 @@ TypeError: Cannot return a non-object type in the constructor of a derived class
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

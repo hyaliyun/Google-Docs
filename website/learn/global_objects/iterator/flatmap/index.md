@@ -30,7 +30,7 @@ A new [iterator helper](/Web/JavaScript/Reference/Global_Objects/Iterator#iterat
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `callbackFn` returns a non-iterator/iterable value or a string primitive.
 
 ## Description

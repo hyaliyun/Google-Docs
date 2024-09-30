@@ -22,7 +22,7 @@ toPrecision(precision)
 
 - `precision` {{optional_inline}}
   - : An integer specifying the number of significant digits.
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if this method is invoked on an object that is not a {{jsxref("Number")}}.
 
 ### Return value

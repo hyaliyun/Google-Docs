@@ -32,12 +32,12 @@ A boolean indicating whether or not the property was successfully defined.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` or `attributes` is not an object.
 
 ## Description
 
-`Reflect.defineProperty()` provides the reflective semantic of defining an own property on an object. At the very low level, defining a property returns a boolean (as is the case with [the proxy handler](/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/defineProperty)). {{jsxref("Object.defineProperty()")}} provides nearly the same semantic, but it throws a {{jsxref("TypeError")}} if the status is `false` (the operation was unsuccessful), while `Reflect.defineProperty()` directly returns the status.
+`Reflect.defineProperty()` provides the reflective semantic of defining an own property on an object. At the very low level, defining a property returns a boolean (as is the case with [the proxy handler](/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/defineProperty)). {{jsxref("Object.defineProperty()")}} provides nearly the same semantic, but it throws a  if the status is `false` (the operation was unsuccessful), while `Reflect.defineProperty()` directly returns the status.
 
 Many built-in operations would also define own properties on objects. The most significant difference between defining properties and [setting](/Web/JavaScript/Reference/Global_Objects/Reflect/set) them is that [setters](/Web/JavaScript/Reference/Functions/set) aren't invoked. For example, [class fields](/Web/JavaScript/Reference/Classes/Public_class_fields) directly define properties on the instance without invoking setters.
 
@@ -65,7 +65,7 @@ console.log(obj.x); // 7
 
 ### Checking if property definition has been successful
 
-With {{jsxref("Object.defineProperty()")}}, which returns an object if successful, or throws a {{jsxref("TypeError")}} otherwise, you would use a [`try...catch`](/Web/JavaScript/Reference/Statements/try...catch) block to catch any error that occurred while defining a property.
+With {{jsxref("Object.defineProperty()")}}, which returns an object if successful, or throws a  otherwise, you would use a [`try...catch`](/Web/JavaScript/Reference/Statements/try...catch) block to catch any error that occurred while defining a property.
 
 Because `Reflect.defineProperty()` returns a Boolean success status, you can just use an [`if...else`](/Web/JavaScript/Reference/Statements/if...else) block here:
 

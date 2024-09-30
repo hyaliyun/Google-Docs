@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.operators.destructuring
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **destructuring assignment** syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
 
@@ -588,7 +588,7 @@ const { a, toFixed } = 1;
 console.log(a, toFixed); // undefined ƒ toFixed() { [native code] }
 ```
 
-Same as accessing properties, destructuring `null` or `undefined` throws a {{jsxref("TypeError")}}.
+Same as accessing properties, destructuring `null` or `undefined` throws a .
 
 ```js example-bad
 const { a } = undefined; // TypeError: Cannot destructure property 'a' of 'undefined' as it is undefined.

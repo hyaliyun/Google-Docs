@@ -21,7 +21,7 @@ TypeError: "y" is not an Object. (evaluating '"x" in "y"') (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

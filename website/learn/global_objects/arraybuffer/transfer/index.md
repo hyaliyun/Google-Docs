@@ -32,7 +32,7 @@ A new {{jsxref("ArrayBuffer")}} object. Its contents are initialized to the cont
 
 - {{jsxref("RangeError")}}
   - : Thrown if this `ArrayBuffer` is resizable and `newByteLength` is greater than the {{jsxref("ArrayBuffer/maxByteLength", "maxByteLength")}} of this `ArrayBuffer`.
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if this `ArrayBuffer` is already detached.
 
 ## Description

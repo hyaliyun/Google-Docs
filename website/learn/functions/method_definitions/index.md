@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.functions.method_definitions
 ---
 
-{{jsSidebar("Functions")}}
+
 
 **Method definition** is a shorter syntax for defining a function property in an object initializer. It can also be used in [classes](/Web/JavaScript/Reference/Classes).
 
@@ -66,7 +66,7 @@ However, note that the method syntax is not equivalent to a normal property with
 
 ### Method definitions are not constructable
 
-Methods cannot be constructors! They will throw a {{jsxref("TypeError")}} if you try to instantiate them. On the other hand, a property created as a function can be used as a constructor.
+Methods cannot be constructors! They will throw a  if you try to instantiate them. On the other hand, a property created as a function can be used as a constructor.
 
 ```js example-bad
 const obj = {

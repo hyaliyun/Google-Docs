@@ -37,7 +37,7 @@ JavaScript calls the `toString` method automatically when a
 `Function` is to be represented as a text value, e.g. when a function is
 concatenated with a string.
 
-The `toString()` method will throw a {{jsxref("TypeError")}} exception
+The `toString()` method will throw a  exception
 ("Function.prototype.toString called on incompatible object"), if its
 `this` value object is not a `Function` object.
 

@@ -20,7 +20,7 @@ TypeError: JSON.stringify cannot serialize cyclic structures. (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

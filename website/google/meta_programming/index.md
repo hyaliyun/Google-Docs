@@ -41,7 +41,7 @@ The following terms are used when talking about the functionality of proxies.
 - target
   - : Object which the proxy virtualizes. It is often used as storage backend for the proxy. Invariants (semantics that remain unchanged) regarding object non-extensibility or non-configurable properties are verified against the target.
 - invariants
-  - : Semantics that remain unchanged when implementing custom operations are called _invariants_. If you violate the invariants of a handler, a {{jsxref("TypeError")}} will be thrown.
+  - : Semantics that remain unchanged when implementing custom operations are called _invariants_. If you violate the invariants of a handler, a  will be thrown.
 
 ## Handlers and traps
 
@@ -210,7 +210,7 @@ The following table summarizes the available traps available to `Proxy` objects.
 
 The {{jsxref("Proxy.revocable()")}} method is used to create a revocable `Proxy` object. This means that the proxy can be revoked via the function `revoke` and switches the proxy off.
 
-Afterwards, any operation on the proxy leads to a {{jsxref("TypeError")}}.
+Afterwards, any operation on the proxy leads to a .
 
 ```js
 const revocable = Proxy.revocable(
@@ -272,7 +272,7 @@ Reflect.apply("".charAt, "ponies", [3]);
 
 ### Checking if property definition has been successful
 
-With {{jsxref("Object.defineProperty")}}, which returns an object if successful, or throws a {{jsxref("TypeError")}} otherwise, you would use a {{jsxref("Statements/try...catch", "try...catch")}} block to catch any error that occurred while defining a property. Because {{jsxref("Reflect.defineProperty()")}} returns a Boolean success status, you can just use an {{jsxref("Statements/if...else", "if...else")}} block here:
+With {{jsxref("Object.defineProperty")}}, which returns an object if successful, or throws a  otherwise, you would use a {{jsxref("Statements/try...catch", "try...catch")}} block to catch any error that occurred while defining a property. Because {{jsxref("Reflect.defineProperty()")}} returns a Boolean success status, you can just use an {{jsxref("Statements/if...else", "if...else")}} block here:
 
 ```js
 if (Reflect.defineProperty(target, property, attributes)) {

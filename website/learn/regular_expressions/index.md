@@ -5,7 +5,7 @@ page-type: landing-page
 browser-compat: javascript.regular_expressions
 ---
 
-{{jsSidebar}}
+
 
 A **regular expression** (_regex_ for short) allow developers to match strings against a pattern, extract submatch information, or simply test if the string conforms to that pattern. Regular expressions are used in many programming languages, and JavaScript's syntax is inspired by [Perl](https://www.perl.org/).
 

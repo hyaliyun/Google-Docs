@@ -19,7 +19,7 @@ TypeError: Property description must be an object. (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

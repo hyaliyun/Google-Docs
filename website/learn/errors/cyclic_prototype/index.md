@@ -18,7 +18,7 @@ TypeError: cyclic __proto__ value (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

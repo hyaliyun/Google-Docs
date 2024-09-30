@@ -23,7 +23,7 @@ TypeError: undefined is not an object (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

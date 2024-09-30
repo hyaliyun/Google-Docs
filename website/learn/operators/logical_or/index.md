@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.logical_or
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **logical OR (`||`)** (logical disjunction) operator for a set of operands
 is true if and only if one or more of its operands is true. It is typically used with

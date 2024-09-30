@@ -5,7 +5,7 @@ page-type: landing-page
 browser-compat: javascript.operators
 ---
 
-{{jsSidebar("Operators")}}
+
 
 This chapter documents all the JavaScript language operators, expressions and keywords.
 

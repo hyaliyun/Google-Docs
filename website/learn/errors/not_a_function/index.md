@@ -17,7 +17,7 @@ TypeError: "x" is not a function. (V8-based & Firefox & Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

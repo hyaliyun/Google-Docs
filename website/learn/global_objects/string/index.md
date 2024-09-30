@@ -170,13 +170,13 @@ Many built-in operations that expect strings first coerce their arguments to str
 - `true` turns into `"true"`; `false` turns into `"false"`.
 - Numbers are converted with the same algorithm as [`toString(10)`](/Web/JavaScript/Reference/Global_Objects/Number/toString).
 - [BigInts](/Web/JavaScript/Reference/Global_Objects/BigInt) are converted with the same algorithm as [`toString(10)`](/Web/JavaScript/Reference/Global_Objects/BigInt/toString).
-- [Symbols](/Web/JavaScript/Reference/Global_Objects/Symbol) throw a {{jsxref("TypeError")}}.
+- [Symbols](/Web/JavaScript/Reference/Global_Objects/Symbol) throw a .
 - Objects are first [converted to a primitive](/Web/JavaScript/Data_structures#primitive_coercion) by calling its [`[Symbol.toPrimitive]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive) (with `"string"` as hint), `toString()`, and `valueOf()` methods, in that order. The resulting primitive is then converted to a string.
 
 There are several ways to achieve nearly the same effect in JavaScript.
 
 - [Template literal](/Web/JavaScript/Reference/Template_literals): `` `${x}` `` does exactly the string coercion steps explained above for the embedded expression.
-- The [`String()`](/Web/JavaScript/Reference/Global_Objects/String/String) function: `String(x)` uses the same algorithm to convert `x`, except that [Symbols](/Web/JavaScript/Reference/Global_Objects/Symbol) don't throw a {{jsxref("TypeError")}}, but return `"Symbol(description)"`, where `description` is the [description](/Web/JavaScript/Reference/Global_Objects/Symbol/description) of the Symbol.
+- The [`String()`](/Web/JavaScript/Reference/Global_Objects/String/String) function: `String(x)` uses the same algorithm to convert `x`, except that [Symbols](/Web/JavaScript/Reference/Global_Objects/Symbol) don't throw a , but return `"Symbol(description)"`, where `description` is the [description](/Web/JavaScript/Reference/Global_Objects/Symbol/description) of the Symbol.
 - Using the [`+` operator](/Web/JavaScript/Reference/Operators/Addition): `"" + x` coerces its operand to a _primitive_ instead of a _string_, and, for some objects, has entirely different behaviors from normal string coercion. See its [reference page](/Web/JavaScript/Reference/Operators/Addition) for more details.
 
 Depending on your use case, you may want to use `` `${x}` `` (to mimic built-in behavior) or `String(x)` (to handle symbol values without throwing an error), but you should not use `"" + x`.

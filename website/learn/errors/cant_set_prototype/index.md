@@ -20,7 +20,7 @@ TypeError: Attempted to assign to readonly property. (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

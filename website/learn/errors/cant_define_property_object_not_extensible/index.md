@@ -22,7 +22,7 @@ TypeError: Attempting to define property on object that is not extensible. (Safa
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

@@ -31,7 +31,7 @@ includes(searchString, position)
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `searchString` [is a regex](/Web/JavaScript/Reference/Global_Objects/RegExp#special_handling_for_regexes).
 
 ## Description

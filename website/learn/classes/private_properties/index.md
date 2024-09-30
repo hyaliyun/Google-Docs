@@ -8,7 +8,7 @@ browser-compat:
   - javascript.classes.private_class_methods
 ---
 
-{{jsSidebar("Classes")}}
+
 
 **Private properties** are counterparts of the regular class properties which are public, including [class fields](/Web/JavaScript/Reference/Classes/Public_class_fields), class methods, etc. Private properties get created by using a hash `#` prefix and cannot be legally referenced outside of the class. The privacy encapsulation of these class properties is enforced by JavaScript itself. The only way to access a private property is via [dot notation](/Web/JavaScript/Reference/Operators/Property_accessors#dot_notation), and you can only do so within the class that defines the private property.
 
@@ -77,7 +77,7 @@ JavaScript, being a dynamic language, is able to perform this compile-time check
 > [!NOTE]
 > Code run in the Chrome console can access private properties outside the class. This is a DevTools-only relaxation of the JavaScript syntax restriction.
 
-If you access a private property from an object that doesn't have the property, a {{jsxref("TypeError")}} is thrown, instead of returning `undefined` as normal properties do.
+If you access a private property from an object that doesn't have the property, a  is thrown, instead of returning `undefined` as normal properties do.
 
 ```js example-bad
 class C {

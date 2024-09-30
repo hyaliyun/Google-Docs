@@ -19,7 +19,7 @@ TypeError: Attempting to change value of a readonly property. (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

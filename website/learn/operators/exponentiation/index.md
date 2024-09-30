@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.exponentiation
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **exponentiation (`**`)** operator returns the result of raising the first operand to the power of the second operand. It is equivalent to {{jsxref("Math.pow()")}}, except it also accepts [BigInts](/Web/JavaScript/Reference/Global_Objects/BigInt) as operands.
 
@@ -19,7 +19,7 @@ x ** y
 
 ## Description
 
-The `**` operator is overloaded for two types of operands: number and [BigInt](/Web/JavaScript/Reference/Global_Objects/BigInt). It first [coerces both operands to numeric values](/Web/JavaScript/Data_structures#numeric_coercion) and tests the types of them. It performs BigInt exponentiation if both operands become BigInts; otherwise, it performs number exponentiation. A {{jsxref("TypeError")}} is thrown if one operand becomes a BigInt but the other becomes a number.
+The `**` operator is overloaded for two types of operands: number and [BigInt](/Web/JavaScript/Reference/Global_Objects/BigInt). It first [coerces both operands to numeric values](/Web/JavaScript/Data_structures#numeric_coercion) and tests the types of them. It performs BigInt exponentiation if both operands become BigInts; otherwise, it performs number exponentiation. A  is thrown if one operand becomes a BigInt but the other becomes a number.
 
 For both numbers and BigInts, `0` raised to a positive power returns `0`, and `0` raised to a power of `0` returns `1`. For numbers, `0` raised to a negative number returns `Infinity`, while `-0` raised to a negative number returns `-Infinity`.
 

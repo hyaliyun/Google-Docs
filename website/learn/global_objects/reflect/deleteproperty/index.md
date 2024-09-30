@@ -30,7 +30,7 @@ A boolean indicating whether or not the property was successfully deleted.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not an object.
 
 ## Description
@@ -41,7 +41,7 @@ A boolean indicating whether or not the property was successfully deleted.
 delete target.propertyKey;
 ```
 
-At the very low level, deleting a property returns a boolean (as is the case with [the proxy handler](/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/deleteProperty)). `Reflect.deleteProperty()` directly returns the status, while `delete` would throw a {{jsxref("TypeError")}} in [strict mode](/Web/JavaScript/Reference/Strict_mode) if the status is `false`. In non-strict mode, `delete` and `Reflect.deleteProperty()` have the same behavior.
+At the very low level, deleting a property returns a boolean (as is the case with [the proxy handler](/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/deleteProperty)). `Reflect.deleteProperty()` directly returns the status, while `delete` would throw a  in [strict mode](/Web/JavaScript/Reference/Strict_mode) if the status is `false`. In non-strict mode, `delete` and `Reflect.deleteProperty()` have the same behavior.
 
 `Reflect.deleteProperty()` invokes the `[[Delete]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods) of `target`.
 

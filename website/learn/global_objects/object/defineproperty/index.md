@@ -113,7 +113,7 @@ Object.defineProperty(obj, "key", withValue("static"));
 
 When the property already exists, `Object.defineProperty()` attempts to modify the property according to the values in the descriptor and the property's current configuration.
 
-If the old descriptor had its `configurable` attribute set to `false`, the property is said to be _non-configurable_. It is not possible to change any attribute of a non-configurable accessor property, and it is not possible to switch between data and accessor property types. For data properties with `writable: true`, it is possible to modify the value and change the `writable` attribute from `true` to `false`. A {{jsxref("TypeError")}} is thrown when attempts are made to change non-configurable property attributes (except `value` and `writable`, if permitted), except when defining a value same as the original value on a data property.
+If the old descriptor had its `configurable` attribute set to `false`, the property is said to be _non-configurable_. It is not possible to change any attribute of a non-configurable accessor property, and it is not possible to switch between data and accessor property types. For data properties with `writable: true`, it is possible to modify the value and change the `writable` attribute from `true` to `false`. A  is thrown when attempts are made to change non-configurable property attributes (except `value` and `writable`, if permitted), except when defining a value same as the original value on a data property.
 
 When the current property is configurable, defining an attribute to `undefined` effectively deletes it. For example, if `o.k` is an accessor property, `Object.defineProperty(o, "k", { set: undefined })` will remove the setter, making `k` only have a getter and become readonly. If an attribute is absent from the new descriptor, the old descriptor attribute's value is kept (it won't be implicitly re-defined to `undefined`). It is possible to toggle between data and accessor property by giving a descriptor of a different "flavor". For example, if the new descriptor is a data descriptor (with `value` or `writable`), the original descriptor's `get` and `set` attributes will both be dropped.
 
@@ -168,7 +168,7 @@ Object.defineProperty(o, "conflict", {
 
 ### Modifying a property
 
-When modifying an existing property, the current property configuration determines if the operator succeeds, does nothing, or throws a {{jsxref("TypeError")}}.
+When modifying an existing property, the current property configuration determines if the operator succeeds, does nothing, or throws a .
 
 #### Writable attribute
 

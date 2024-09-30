@@ -47,7 +47,7 @@ Or any other operation that invokes the `[[HasProperty]]` [internal method](/Web
 
 ### Invariants
 
-The proxy's `[[HasProperty]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[HasProperty]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - A property cannot be reported as non-existent, if it exists as a non-configurable own property of the target object. That is, if {{jsxref("Reflect.getOwnPropertyDescriptor()")}} returns `configurable: false` for the property on `target`, the trap must return `true`.
 - A property cannot be reported as non-existent, if it exists as an own property of the target object and the target object is not extensible. That is, if {{jsxref("Reflect.isExtensible()")}} returns `false` on `target`, and {{jsxref("Reflect.getOwnPropertyDescriptor()")}} returns a property descriptor for the property on `target`, the trap must return `true`.

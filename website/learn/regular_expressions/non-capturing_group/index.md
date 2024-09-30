@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.non_capturing_group
 ---
 
-{{jsSidebar}}
+
 
 A **non-capturing group** groups a subpattern, allowing you to apply a [quantifier](/Web/JavaScript/Reference/Regular_expressions/Quantifier) to the entire group or use [disjunctions](/Web/JavaScript/Reference/Regular_expressions/Disjunction) within it. It acts like the [grouping operator](/Web/JavaScript/Reference/Operators/Grouping) in JavaScript expressions, and unlike [capturing groups](/Web/JavaScript/Reference/Regular_expressions/Capturing_group), it does not memorize the matched text, allowing for better performance and avoiding confusion when the pattern also contains useful capturing groups.
 

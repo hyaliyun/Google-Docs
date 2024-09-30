@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.increment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **increment (`++`)** operator increments (adds one to) its operand and returns the value before or after the increment, depending on where the operator is placed.
 

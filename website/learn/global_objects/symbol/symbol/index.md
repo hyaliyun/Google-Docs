@@ -18,7 +18,7 @@ Symbol()
 Symbol(description)
 ```
 
-> **Note:** `Symbol()` can only be called without [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to construct it with `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `Symbol()` can only be called without [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to construct it with `new` throws a .
 
 ### Parameters
 
@@ -49,7 +49,7 @@ Symbol("foo") === Symbol("foo"); // false
 ### new Symbol()
 
 The following syntax with the {{jsxref("Operators/new", "new")}} operator will throw a
-{{jsxref("TypeError")}}:
+:
 
 ```js example-bad
 const sym = new Symbol(); // TypeError

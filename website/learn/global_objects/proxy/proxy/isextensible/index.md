@@ -44,7 +44,7 @@ Or any other operation that invokes the `[[IsExtensible]]` [internal method](/We
 
 ### Invariants
 
-The proxy's `[[IsExtensible]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[IsExtensible]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - The result must be the same as {{jsxref("Reflect.isExtensible()")}} on the target object.
 

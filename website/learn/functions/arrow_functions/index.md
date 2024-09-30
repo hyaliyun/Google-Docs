@@ -5,12 +5,12 @@ page-type: javascript-language-feature
 browser-compat: javascript.functions.arrow_functions
 ---
 
-{{jsSidebar("Functions")}}
+
 
 An **arrow function expression** is a compact alternative to a traditional [function expression](/Web/JavaScript/Reference/Operators/function), with some semantic differences and deliberate limitations in usage:
 
 - Arrow functions don't have their own {{Glossary("binding", "bindings")}} to [`this`](/Web/JavaScript/Reference/Operators/this), [`arguments`](/Web/JavaScript/Reference/Functions/arguments), or [`super`](/Web/JavaScript/Reference/Operators/super), and should not be used as [methods](/Glossary/Method).
-- Arrow functions cannot be used as [constructors](/Glossary/Constructor). Calling them with [`new`](/Web/JavaScript/Reference/Operators/new) throws a {{jsxref("TypeError")}}. They also don't have access to the [`new.target`](/Web/JavaScript/Reference/Operators/new.target) keyword.
+- Arrow functions cannot be used as [constructors](/Glossary/Constructor). Calling them with [`new`](/Web/JavaScript/Reference/Operators/new) throws a . They also don't have access to the [`new.target`](/Web/JavaScript/Reference/Operators/new.target) keyword.
 - Arrow functions cannot use [`yield`](/Web/JavaScript/Reference/Operators/yield) within their body and cannot be created as generator functions.
 
 {{EmbedInteractiveExample("pages/js/functions-arrow.html")}}

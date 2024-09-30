@@ -156,13 +156,13 @@ The term "`null`-prototype object" often also includes any object without `Objec
 Many built-in operations that expect objects first coerce their arguments to objects. [The operation](https://tc39.es/ecma262/multipage/abstract-operations.html#sec-toobject) can be summarized as follows:
 
 - Objects are returned as-is.
-- [`undefined`](/Web/JavaScript/Reference/Global_Objects/undefined) and [`null`](/Web/JavaScript/Reference/Operators/null) throw a {{jsxref("TypeError")}}.
+- [`undefined`](/Web/JavaScript/Reference/Global_Objects/undefined) and [`null`](/Web/JavaScript/Reference/Operators/null) throw a .
 - {{jsxref("Number")}}, {{jsxref("String")}}, {{jsxref("Boolean")}}, {{jsxref("Symbol")}}, {{jsxref("BigInt")}} primitives are wrapped into their corresponding object wrappers.
 
 There are two ways to achieve nearly the same effect in JavaScript.
 
 - {{jsxref("Object.prototype.valueOf()")}}: `Object.prototype.valueOf.call(x)` does exactly the object coercion steps explained above to convert `x`.
-- The {{jsxref("Object/Object", "Object()")}} function: `Object(x)` uses the same algorithm to convert `x`, except that `undefined` and `null` don't throw a {{jsxref("TypeError")}}, but return a plain object.
+- The {{jsxref("Object/Object", "Object()")}} function: `Object(x)` uses the same algorithm to convert `x`, except that `undefined` and `null` don't throw a , but return a plain object.
 
 Places that use object coercion include:
 

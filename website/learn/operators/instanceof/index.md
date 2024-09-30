@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.instanceof
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`instanceof`** operator tests to see if the `prototype` property of a constructor appears anywhere in the prototype chain of an object. The return value is a boolean value. Its behavior can be customized with [`Symbol.hasInstance`](/Web/JavaScript/Reference/Global_Objects/Symbol/hasInstance).
 
@@ -26,7 +26,7 @@ object instanceof constructor
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `constructor` is not an object. If `constructor` doesn't have a [`[Symbol.hasInstance]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/hasInstance) method, it must also be a function.
 
 ## Description

@@ -7,7 +7,7 @@ status:
 browser-compat: javascript.regular_expressions.modifier
 ---
 
-{{jsSidebar}}
+
 
 A **modifier** overrides [flag](/Web/JavaScript/Reference/Regular_expressions#regex_flags) settings in a specific part of a regular expression. It can be used to enable or disable flags that change the meanings of certain regex syntax elements. These flags are [`i`](/Web/JavaScript/Reference/Global_Objects/RegExp/ignoreCase), [`m`](/Web/JavaScript/Reference/Global_Objects/RegExp/multiline), and [`s`](/Web/JavaScript/Reference/Global_Objects/RegExp/dotAll).
 

@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.capturing_group
 ---
 
-{{jsSidebar}}
+
 
 A **capturing group** groups a subpattern, allowing you to apply a [quantifier](/Web/JavaScript/Reference/Regular_expressions/Quantifier) to the entire group or use [disjunctions](/Web/JavaScript/Reference/Regular_expressions/Disjunction) within it. It memorizes information about the subpattern match, so that you can refer back to it later with a [backreference](/Web/JavaScript/Reference/Regular_expressions/Backreference), or access the information through the [match results](/Web/JavaScript/Reference/Global_Objects/RegExp/exec#return_value).
 

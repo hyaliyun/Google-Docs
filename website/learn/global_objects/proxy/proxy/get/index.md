@@ -48,7 +48,7 @@ Or any other operation that invokes the `[[Get]]` [internal method](/Web/JavaScr
 
 ### Invariants
 
-The proxy's `[[Get]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[Get]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - The value reported for a property must be the same as the value of the corresponding target object property, if the target object property is a non-writable, non-configurable own data property. That is, if {{jsxref("Reflect.getOwnPropertyDescriptor()")}} returns `configurable: false, writable: false` for the property on `target`, then the trap must return the same value as the `value` attribute in the `target`'s property descriptor.
 - The value reported for a property must be `undefined`, if the corresponding target object property is a non-configurable own accessor property that has an undefined getter. That is, if {{jsxref("Reflect.getOwnPropertyDescriptor()")}} returns `configurable: false, get: undefined` for the property on `target`, then the trap must return `undefined`.

@@ -22,7 +22,7 @@ new BigInt64Array(buffer, byteOffset)
 new BigInt64Array(buffer, byteOffset, length)
 ```
 
-> **Note:** `BigInt64Array()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `BigInt64Array()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a .
 
 ### Parameters
 

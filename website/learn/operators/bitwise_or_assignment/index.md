@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.bitwise_or_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **bitwise OR assignment (`|=`)** operator performs [bitwise OR](/Web/JavaScript/Reference/Operators/Bitwise_OR) on the two operands and assigns the result to the left operand.
 

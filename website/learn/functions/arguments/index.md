@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.functions.arguments
 ---
 
-{{jsSidebar("Functions")}}
+
 
 **`arguments`** is an array-like object accessible inside [functions](/Web/JavaScript/Guide/Functions) that contains the values of the arguments passed to that function.
 

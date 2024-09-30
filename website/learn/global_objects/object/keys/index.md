@@ -68,7 +68,7 @@ If you want _all_ string-keyed own properties, including non-enumerable ones, se
 
 ### Using Object.keys() on primitives
 
-Non-object arguments are [coerced to objects](/Web/JavaScript/Reference/Global_Objects/Object#object_coercion). [`undefined`](/Web/JavaScript/Reference/Global_Objects/undefined) and [`null`](/Web/JavaScript/Reference/Operators/null) cannot be coerced to objects and throw a {{jsxref("TypeError")}} upfront. Only strings may have own enumerable properties, while all other primitives return an empty array.
+Non-object arguments are [coerced to objects](/Web/JavaScript/Reference/Global_Objects/Object#object_coercion). [`undefined`](/Web/JavaScript/Reference/Global_Objects/undefined) and [`null`](/Web/JavaScript/Reference/Operators/null) cannot be coerced to objects and throw a  upfront. Only strings may have own enumerable properties, while all other primitives return an empty array.
 
 ```js
 // Strings have indices as enumerable own properties
@@ -79,7 +79,7 @@ console.log(Object.keys(100)); // []
 ```
 
 > [!NOTE]
-> In ES5, passing a non-object to `Object.keys()` threw a {{jsxref("TypeError")}}.
+> In ES5, passing a non-object to `Object.keys()` threw a .
 
 ## Specifications
 

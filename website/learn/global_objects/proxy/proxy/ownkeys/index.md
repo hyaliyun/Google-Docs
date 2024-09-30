@@ -46,7 +46,7 @@ Or any other operation that invokes the `[[OwnPropertyKeys]]` [internal method](
 
 ### Invariants
 
-The proxy's `[[OwnPropertyKeys]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[OwnPropertyKeys]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - The result is an {{jsxref("Object")}}.
 - The list of keys contains no duplicate values.

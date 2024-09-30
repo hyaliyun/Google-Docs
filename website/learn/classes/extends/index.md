@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.classes.extends
 ---
 
-{{jsSidebar("Classes")}}
+
 
 The **`extends`** keyword is used in [class declarations](/Web/JavaScript/Reference/Statements/class) or [class expressions](/Web/JavaScript/Reference/Operators/class) to create a class that is a child of another class.
 
@@ -93,7 +93,7 @@ new SomeClass();
 // Derived class
 ```
 
-While the base class may return anything from its constructor, the derived class must return an object or `undefined`, or a {{jsxref("TypeError")}} will be thrown.
+While the base class may return anything from its constructor, the derived class must return an object or `undefined`, or a  will be thrown.
 
 ```js
 class ParentClass {

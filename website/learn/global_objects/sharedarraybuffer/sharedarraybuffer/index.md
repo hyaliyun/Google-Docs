@@ -21,7 +21,7 @@ new SharedArrayBuffer(length)
 new SharedArrayBuffer(length, options)
 ```
 
-> **Note:** `SharedArrayBuffer()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `SharedArrayBuffer()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a .
 
 ### Parameters
 
@@ -43,7 +43,7 @@ initialized to 0.
 
 `SharedArrayBuffer` constructors are required to be constructed with a
 {{jsxref("Operators/new", "new")}} operator. Calling a `SharedArrayBuffer`
-constructor as a function without `new` will throw a {{jsxref("TypeError")}}.
+constructor as a function without `new` will throw a .
 
 ```js example-bad
 const sab = SharedArrayBuffer(1024);

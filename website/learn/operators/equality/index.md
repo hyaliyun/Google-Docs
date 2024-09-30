@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.equality
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **equality (`==`)** operator checks whether its two operands are equal,
 returning a Boolean result.

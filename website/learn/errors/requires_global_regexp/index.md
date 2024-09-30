@@ -21,7 +21,7 @@ TypeError: String.prototype.replaceAll argument must not be a non-global regular
 
 ## Error type
 
-{{jsxref("TypeError")}}
+
 
 ## What went wrong?
 

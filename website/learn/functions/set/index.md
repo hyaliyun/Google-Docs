@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.functions.set
 ---
 
-{{jsSidebar("Functions")}}
+
 
 The **`set`** syntax binds an object property to a function to be called when there is an attempt to set that property. It can also be used in [classes](/Web/JavaScript/Reference/Classes).
 

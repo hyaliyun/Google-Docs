@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.unsigned_right_shift_assignment
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **unsigned right shift assignment (`>>>=`)** operator performs [unsigned right shift](/Web/JavaScript/Reference/Operators/Unsigned_right_shift) on the two operands and assigns the result to the left operand.
 

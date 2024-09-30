@@ -48,7 +48,7 @@ Or any other operation that invokes the `[[Construct]]` [internal method](/Web/J
 
 ### Invariants
 
-The proxy's `[[Construct]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[Construct]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - The `target` must be a constructor itself.
 - The result must be an {{jsxref("Object")}}.

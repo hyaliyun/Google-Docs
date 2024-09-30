@@ -41,7 +41,7 @@ A JSON string representing the given value, or undefined.
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown in one of the following cases:
     - `value` contains a circular reference.
     - A {{jsxref("BigInt")}} value is encountered.
@@ -303,7 +303,7 @@ JSON.stringify([obj]);
 
 ### Issue with serializing circular references
 
-Since the [JSON format](https://www.json.org/) doesn't support object references (although an [IETF draft exists](https://datatracker.ietf.org/doc/html/draft-pbryan-zyp-json-ref-03)), a {{jsxref("TypeError")}} will be thrown if one attempts to encode an object with circular references.
+Since the [JSON format](https://www.json.org/) doesn't support object references (although an [IETF draft exists](https://datatracker.ietf.org/doc/html/draft-pbryan-zyp-json-ref-03)), a  will be thrown if one attempts to encode an object with circular references.
 
 ```js example-bad
 const circularReference = {};

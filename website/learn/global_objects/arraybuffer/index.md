@@ -30,7 +30,7 @@ These features make resizing `ArrayBuffer`s more efficient — otherwise, you ha
 When an `ArrayBuffer` is transferred, its original copy becomes _detached_ — this means it is no longer usable. At any moment, there will only be one copy of the `ArrayBuffer` that actually has access to the underlying memory. Detached buffers have the following behaviors:
 
 - {{jsxref("ArrayBuffer/byteLength", "byteLength")}} becomes 0 (in both the buffer and the associated typed array views).
-- Methods, such as {{jsxref("ArrayBuffer/resize", "resize()")}} and {{jsxref("ArrayBuffer/slice", "slice()")}}, throw a {{jsxref("TypeError")}} when invoked. The associated typed array views' methods also throw a `TypeError`.
+- Methods, such as {{jsxref("ArrayBuffer/resize", "resize()")}} and {{jsxref("ArrayBuffer/slice", "slice()")}}, throw a  when invoked. The associated typed array views' methods also throw a `TypeError`.
 
 You can check whether an `ArrayBuffer` is detached by its {{jsxref("ArrayBuffer/detached", "detached")}} property.
 

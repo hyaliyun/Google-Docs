@@ -35,7 +35,7 @@ A {{jsxref("Boolean")}} indicating whether or not setting the property was succe
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not an object.
 
 ## Description

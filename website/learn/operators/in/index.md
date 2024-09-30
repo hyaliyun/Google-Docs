@@ -5,7 +5,7 @@ page-type: javascript-operator
 browser-compat: javascript.operators.in
 ---
 
-{{jsSidebar("Operators")}}
+
 
 The **`in`** operator returns `true` if the specified property is in the specified object or its prototype chain.
 
@@ -29,7 +29,7 @@ prop in object
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `object` is not an object (i.e. a primitive).
 
 ## Description
@@ -42,7 +42,7 @@ You can also use the `in` operator to check whether a particular [private class 
 
 This is a special syntax — the left-hand side of the `in` operator is a property identifier instead of an expression, but unquoted (because otherwise it's a string property, not a private property).
 
-Because accessing private properties on objects unrelated to the current class throws a {{jsxref("TypeError")}} instead of returning `undefined`, this syntax allows you to shorten:
+Because accessing private properties on objects unrelated to the current class throws a  instead of returning `undefined`, this syntax allows you to shorten:
 
 ```js
 class C {

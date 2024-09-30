@@ -20,13 +20,13 @@ TypeError: Trying to access an undefined private setter (Safari)
 
 ## Error type
 
-{{jsxref("TypeError")}} in [strict mode](/Web/JavaScript/Reference/Strict_mode) only.
+ in [strict mode](/Web/JavaScript/Reference/Strict_mode) only.
 
 ## What went wrong?
 
 There is an attempt to set a new value to a property for which only a [getter](/Web/JavaScript/Reference/Functions/get) is specified.
 While this will be silently ignored in non-strict mode, it will throw a
-{{jsxref("TypeError")}} in [strict mode](/Web/JavaScript/Reference/Strict_mode). Classes are always in strict mode, so assigning to a getter-only private property always throws this error.
+ in [strict mode](/Web/JavaScript/Reference/Strict_mode). Classes are always in strict mode, so assigning to a getter-only private property always throws this error.
 
 ## Examples
 

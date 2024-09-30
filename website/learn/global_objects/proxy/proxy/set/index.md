@@ -37,7 +37,7 @@ The following parameters are passed to the `set()` method. `this` is bound to th
 
 The `set()` method must return a {{jsxref("Boolean")}} indicating whether or not the assignment succeeded. Other values are [coerced to booleans](/Web/JavaScript/Reference/Global_Objects/Boolean#boolean_coercion).
 
-Many operations, including using property accessors in [strict mode](/Web/JavaScript/Reference/Strict_mode), throw a {{jsxref("TypeError")}} if the `[[Set]]` internal method returns `false`.
+Many operations, including using property accessors in [strict mode](/Web/JavaScript/Reference/Strict_mode), throw a  if the `[[Set]]` internal method returns `false`.
 
 ## Description
 
@@ -52,7 +52,7 @@ Or any other operation that invokes the `[[Set]]` [internal method](/Web/JavaScr
 
 ### Invariants
 
-The proxy's `[[Set]]` internal method throws a {{jsxref("TypeError")}} if the handler definition violates one of the following invariants:
+The proxy's `[[Set]]` internal method throws a  if the handler definition violates one of the following invariants:
 
 - Cannot change the value of a property to be different from the value of the corresponding target object property, if the corresponding target object property is a non-writable, non-configurable own data property. That is, if {{jsxref("Reflect.getOwnPropertyDescriptor()")}} returns `configurable: false, writable: false` for the property on `target`, and `value` is different from the `value` attribute in the `target`'s property descriptor, then the trap must return a falsy value.
 - Cannot set the value of a property if the corresponding target object property is a non-configurable own accessor property that has an undefined setter. That is, if {{jsxref("Reflect.getOwnPropertyDescriptor()")}} returns `configurable: false, set: undefined` for the property on `target`, then the trap must return a falsy value.

@@ -19,7 +19,7 @@ new DataView(buffer, byteOffset)
 new DataView(buffer, byteOffset, byteLength)
 ```
 
-> **Note:** `DataView()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a {{jsxref("TypeError")}}.
+> **Note:** `DataView()` can only be constructed with [`new`](/Web/JavaScript/Reference/Operators/new). Attempting to call it without `new` throws a .
 
 ### Parameters
 

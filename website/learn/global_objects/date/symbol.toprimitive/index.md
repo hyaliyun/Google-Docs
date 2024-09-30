@@ -32,7 +32,7 @@ If `hint` is `"number"`, this method returns a number by [coercing the `this` va
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if the `hint` argument is not one of the three valid values.
 
 ## Description

@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.functions.get
 ---
 
-{{jsSidebar("Functions")}}
+
 
 The **`get`** syntax binds an object property to a function that will be called when that property is looked up. It can also be used in [classes](/Web/JavaScript/Reference/Classes).
 

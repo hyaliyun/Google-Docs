@@ -30,12 +30,12 @@ A {{jsxref("Boolean")}} indicating whether or not the prototype was successfully
 
 ### Exceptions
 
-- {{jsxref("TypeError")}}
+- 
   - : Thrown if `target` is not an object or if `prototype` is neither an object nor [`null`](/Web/JavaScript/Reference/Operators/null).
 
 ## Description
 
-`Reflect.setPrototypeOf()` provides the reflective semantic of setting the prototype of an object. At the very low level, setting the prototype returns a boolean (as is the case with [the proxy handler](/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/setPrototypeOf)). {{jsxref("Object.setPrototypeOf()")}} provides nearly the same semantic, but it throws a {{jsxref("TypeError")}} if the status is `false` (the operation was unsuccessful), while `Reflect.setPrototypeOf()` directly returns the status.
+`Reflect.setPrototypeOf()` provides the reflective semantic of setting the prototype of an object. At the very low level, setting the prototype returns a boolean (as is the case with [the proxy handler](/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/setPrototypeOf)). {{jsxref("Object.setPrototypeOf()")}} provides nearly the same semantic, but it throws a  if the status is `false` (the operation was unsuccessful), while `Reflect.setPrototypeOf()` directly returns the status.
 
 `Reflect.setPrototypeOf()` invokes the `[[SetPrototypeOf]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods) of `target`.
 

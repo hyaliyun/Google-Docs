@@ -233,14 +233,14 @@ In fact, JSON allows number literals that are arbitrarily long; they just cannot
 Many built-in operations that expect BigInts first coerce their arguments to BigInts. [The operation](https://tc39.es/ecma262/multipage/abstract-operations.html#sec-tobigint) can be summarized as follows:
 
 - BigInts are returned as-is.
-- [`undefined`](/Web/JavaScript/Reference/Global_Objects/undefined) and [`null`](/Web/JavaScript/Reference/Operators/null) throw a {{jsxref("TypeError")}}.
+- [`undefined`](/Web/JavaScript/Reference/Global_Objects/undefined) and [`null`](/Web/JavaScript/Reference/Operators/null) throw a .
 - `true` turns into `1n`; `false` turns into `0n`.
 - Strings are converted by parsing them as if they contain an integer literal. Any parsing failure results in a . The syntax is a subset of [string numeric literals](/Web/JavaScript/Reference/Global_Objects/Number#number_coercion), where decimal points or exponent indicators are not allowed.
-- [Numbers](/Web/JavaScript/Reference/Global_Objects/Number) throw a {{jsxref("TypeError")}} to prevent unintended implicit coercion causing loss of precision.
-- [Symbols](/Web/JavaScript/Reference/Global_Objects/Symbol) throw a {{jsxref("TypeError")}}.
+- [Numbers](/Web/JavaScript/Reference/Global_Objects/Number) throw a  to prevent unintended implicit coercion causing loss of precision.
+- [Symbols](/Web/JavaScript/Reference/Global_Objects/Symbol) throw a .
 - Objects are first [converted to a primitive](/Web/JavaScript/Data_structures#primitive_coercion) by calling their [`[Symbol.toPrimitive]()`](/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive) (with `"number"` as hint), `valueOf()`, and `toString()` methods, in that order. The resulting primitive is then converted to a BigInt.
 
-The best way to achieve nearly the same effect in JavaScript is through the [`BigInt()`](/Web/JavaScript/Reference/Global_Objects/BigInt/BigInt) function: `BigInt(x)` uses the same algorithm to convert `x`, except that [Numbers](/Web/JavaScript/Reference/Global_Objects/Number) don't throw a {{jsxref("TypeError")}}, but are converted to BigInts if they are integers.
+The best way to achieve nearly the same effect in JavaScript is through the [`BigInt()`](/Web/JavaScript/Reference/Global_Objects/BigInt/BigInt) function: `BigInt(x)` uses the same algorithm to convert `x`, except that [Numbers](/Web/JavaScript/Reference/Global_Objects/Number) don't throw a , but are converted to BigInts if they are integers.
 
 Note that built-in operations expecting BigInts often truncate the BigInt to a fixed width after coercion. This includes {{jsxref("BigInt.asIntN()")}}, {{jsxref("BigInt.asUintN()")}}, and methods of {{jsxref("BigInt64Array")}} and {{jsxref("BigUint64Array")}}.
 
