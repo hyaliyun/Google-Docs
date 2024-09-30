@@ -5,7 +5,7 @@ page-type: javascript-global-property
 browser-compat: javascript.builtins.Infinity
 ---
 
-{{jsSidebar("Objects")}}
+
 
 The **`Infinity`** global property is a numeric value representing infinity.
 
@@ -15,7 +15,7 @@ The **`Infinity`** global property is a numeric value representing infinity.
 
 The same number value as {{jsxref("Number.POSITIVE_INFINITY")}}.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

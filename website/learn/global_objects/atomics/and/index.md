@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Atomics.and
 ---
 
-{{JSRef}}
+
 
 The **`Atomics.and()`** static
 method computes a bitwise AND with a given value at a given position in the array, and

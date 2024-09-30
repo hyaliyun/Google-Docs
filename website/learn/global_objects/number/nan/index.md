@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Number.NaN
 ---
 
-{{JSRef}}
+
 
 The **`Number.NaN`** static data property represents Not-A-Number, which is equivalent to {{jsxref("NaN")}}. For more information about the behaviors of `NaN`, see the [description for the global property](/Web/JavaScript/Reference/Global_Objects/NaN).
 
@@ -15,7 +15,7 @@ The **`Number.NaN`** static data property represents Not-A-Number, which is equi
 
 The number value {{jsxref("NaN")}}.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

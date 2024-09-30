@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Not_a_constructor
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "is not a constructor" occurs when there was an attempt to use
 an object or a variable as a constructor, but that object or variable is not a

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Proxy.handler.isExtensible
 ---
 
-{{JSRef}}
+
 
 The **`handler.isExtensible()`** method is a trap for the `[[IsExtensible]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods), which is used by operations such as {{jsxref("Object.isExtensible()")}}.
 

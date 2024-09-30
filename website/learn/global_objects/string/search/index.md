@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.search
 ---
 
-{{JSRef}}
+
 
 The **`search()`** method of {{jsxref("String")}} values executes a search for a match between a regular expression and this string, returning the index of the first match in the string.
 

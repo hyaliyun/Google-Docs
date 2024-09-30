@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.slot
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<slot>`** [HTML](/Web/HTML) element—part of the [Web Components](/Web/API/Web_components) technology suite—is a placeholder inside a web component that you can fill with your own markup, which lets you create separate DOM trees and present them together.
 

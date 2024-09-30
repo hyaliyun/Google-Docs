@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/await_yield_in_parameter
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "await expression can't be used in parameter" or "yield expression can't be used in parameter" occurs when the [default parameter](/Web/JavaScript/Reference/Functions/Default_parameters) expression contains the {{jsxref("Operators/await", "await")}} or {{jsxref("Operators/yield", "yield")}} keyword and has the effect of pausing default parameter evaluation.
 
@@ -22,7 +22,7 @@ SyntaxError: Unexpected keyword 'yield'. Cannot use yield expression within para
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

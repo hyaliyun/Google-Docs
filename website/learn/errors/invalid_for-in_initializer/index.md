@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Invalid_for-in_initializer
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript [strict mode](/Web/JavaScript/Reference/Strict_mode)-only exception
 "for-in loop head declarations may not have initializers"
@@ -23,7 +23,7 @@ SyntaxError: Cannot assign to the loop variable inside a for-in loop header. (Sa
 
 ## Error type
 
-{{jsxref("SyntaxError")}}.
+.
 
 ## What went wrong?
 

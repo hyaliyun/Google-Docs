@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.String.raw
 ---
 
-{{JSRef}}
+
 
 The **`String.raw()`** static method is a tag function of [template literals](/Web/JavaScript/Reference/Template_literals). This is similar to the `r` prefix in Python, or the `@` prefix in C# for string literals. It's used to get the raw string form of template literals — that is, substitutions (e.g. `${foo}`) are processed, but escape sequences (e.g. `\n`) are not.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getUTCSeconds
 ---
 
-{{JSRef}}
+
 
 The **`getUTCSeconds()`** method of  instances returns the seconds in the specified date according to universal time.
 

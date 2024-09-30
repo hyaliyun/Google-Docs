@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Number.toPrecision
 ---
 
-{{JSRef}}
+
 
 The **`toPrecision()`** method of {{jsxref("Number")}} values returns a string representing this number to the specified number of significant digits.
 

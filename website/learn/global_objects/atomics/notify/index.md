@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Atomics.notify
 ---
 
-{{JSRef}}
+
 
 The **`Atomics.notify()`** static
 method notifies up some agents that are sleeping in the wait queue.

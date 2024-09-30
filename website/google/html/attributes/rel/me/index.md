@@ -5,7 +5,7 @@ page-type: html-attribute-value
 browser-compat: html.elements.link.rel.me
 ---
 
-{{HTMLSidebar}}
+
 
 The **`me`** keyword for the [`rel`](/Web/HTML/Element/link#rel) attribute of the {{HTMLElement("link")}} and {{HTMLElement("a")}} elements indicates that the current resource is represented by the linked party. The `me` value was introduced in the [XHTML Friends Network (XFN) specification](https://gmpg.org/xfn/).
 

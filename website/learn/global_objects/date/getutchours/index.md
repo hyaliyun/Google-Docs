@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getUTCHours
 ---
 
-{{JSRef}}
+
 
 The **`getUTCHours()`** method of  instances returns the hours for this date according to universal time.
 

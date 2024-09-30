@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.URIError.URIError
 ---
 
-{{JSRef}}
+
 
 The **`URIError()`** constructor creates {{jsxref("URIError")}} objects.
 

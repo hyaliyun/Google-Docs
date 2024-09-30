@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/is_not_iterable
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "is not iterable" occurs when the value which is [spread](/Web/JavaScript/Reference/Operators/Spread_syntax) into an array or function call, given as the
 right-hand side of [`for...of`](/Web/JavaScript/Guide/Loops_and_iteration#for...of_statement),

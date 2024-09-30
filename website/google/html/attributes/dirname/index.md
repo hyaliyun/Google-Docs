@@ -8,7 +8,7 @@ browser-compat:
   - html.elements.input.dirname
 ---
 
-{{HTMLSidebar}}
+
 
 The **`dirname`** attribute can be used on the {{htmlelement("textarea")}} element and several  types and describes the directionality of the element's text content during form submission.
 The browser uses this attribute's value to determine whether text the user has entered is left-to-right or right-to-left oriented.

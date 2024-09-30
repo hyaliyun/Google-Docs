@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.datalist
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<datalist>`** [HTML](/Web/HTML) element contains a set of {{HTMLElement("option")}} elements that represent the permissible or recommended options available to choose from within other controls.
 

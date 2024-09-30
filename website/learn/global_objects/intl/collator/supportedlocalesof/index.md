@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Intl.Collator.supportedLocalesOf
 ---
 
-{{JSRef}}
+
 
 The **`Intl.Collator.supportedLocalesOf()`** static method returns an array containing those of the provided locales that are supported in collation without having to fall back to the runtime's default locale.
 

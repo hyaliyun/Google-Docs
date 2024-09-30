@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.mark
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<mark>`** [HTML](/Web/HTML) element represents text which is **marked** or **highlighted** for reference or notation purposes due to the marked passage's relevance in the enclosing context.
 

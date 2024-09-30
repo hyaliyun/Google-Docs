@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.log1p
 ---
 
-{{JSRef}}
+
 
 The **`Math.log1p()`** static method returns the natural logarithm (base [e](/Web/JavaScript/Reference/Global_Objects/Math/E)) of `1 + x`, where `x` is the argument. That is:
 

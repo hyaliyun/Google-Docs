@@ -5,7 +5,7 @@ page-type: javascript-statement
 browser-compat: javascript.statements.export
 ---
 
-{{jsSidebar("Statements")}}
+
 
 The **`export`** declaration is used to export values from a JavaScript module. Exported values can then be imported into other programs with the {{jsxref("Statements/import", "import")}} declaration or [dynamic import](/Web/JavaScript/Reference/Operators/import). The value of an imported binding is subject to change in the module that exports it — when a module updates the value of a binding that it exports, the update will be visible in its imported value.
 
@@ -93,7 +93,7 @@ export default class { /* … */ }
 ```
 
 > [!NOTE]
-> Names for export declarations must be distinct from each other. Having exports with duplicate names or using more than one `default` export will result in a {{jsxref("SyntaxError")}} and prevent the module from being evaluated.
+> Names for export declarations must be distinct from each other. Having exports with duplicate names or using more than one `default` export will result in a  and prevent the module from being evaluated.
 
 The `export default` syntax allows any expression.
 

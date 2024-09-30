@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.@@iterator
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.iterator]()`** method of {{jsxref("Set")}} instances implements the [iterable protocol](/Web/JavaScript/Reference/Iteration_protocols) and allows `Set` objects to be consumed by most syntaxes expecting iterables, such as the [spread syntax](/Web/JavaScript/Reference/Operators/Spread_syntax) and {{jsxref("Statements/for...of", "for...of")}} loops. It returns a [set iterator object](/Web/JavaScript/Reference/Global_Objects/Iterator) that yields the values of the set in insertion order.
 

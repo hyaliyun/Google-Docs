@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Unexpected_type
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "_x_ is (not) _y_" occurs when there was an
 unexpected type. Oftentimes, unexpected {{jsxref("undefined")}} or [`null`](/Web/JavaScript/Reference/Operators/null)

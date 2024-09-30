@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.div
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<div>`** [HTML](/Web/HTML) element is the generic container for flow content. It has no effect on the content or layout until styled in some way using {{glossary("CSS")}} (e.g. styling is directly applied to it, or some kind of layout model like [Flexbox](/Web/CSS/CSS_flexible_box_layout) is applied to its parent element).
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.DurationFormat.formatToParts
 ---
 
-{{JSRef}}
+
 
 The **`formatToParts()`** method of {{jsxref("Intl.DurationFormat")}} instances allows locale-aware formatting of strings produced by {{jsxref("Intl.DurationFormat")}} formatters.
 

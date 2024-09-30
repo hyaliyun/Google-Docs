@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.frameset
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<frameset>`** [HTML](/Web/HTML) element is used to contain {{HTMLElement("frame")}} elements.
 

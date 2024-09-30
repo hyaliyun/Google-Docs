@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.toUTCString
 ---
 
-{{JSRef}}
+
 
 The **`toUTCString()`** method of  instances returns a string representing this date in the [RFC 7231](https://datatracker.ietf.org/doc/html/rfc7231#section-7.1.1.1) format, with negative years allowed. The timezone is always UTC. `toGMTString()` is an alias of this method.
 

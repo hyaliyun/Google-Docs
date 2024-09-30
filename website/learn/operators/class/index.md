@@ -29,7 +29,7 @@ class name {
 
 ## Description
 
-A `class` expression is very similar to, and has almost the same syntax as, a [`class` declaration](/Web/JavaScript/Reference/Statements/class). As with `class` declarations, the body of a `class` expression is executed in [strict mode](/Web/JavaScript/Reference/Strict_mode). The main difference between a `class` expression and a `class` declaration is the _class name_, which can be omitted in `class` expressions to create _anonymous_ classes. Class expressions allow you to redefine classes, while redeclaring a class using `class` declarations throws a {{jsxref("SyntaxError")}}. See also the chapter about [classes](/Web/JavaScript/Reference/Classes) for more information.
+A `class` expression is very similar to, and has almost the same syntax as, a [`class` declaration](/Web/JavaScript/Reference/Statements/class). As with `class` declarations, the body of a `class` expression is executed in [strict mode](/Web/JavaScript/Reference/Strict_mode). The main difference between a `class` expression and a `class` declaration is the _class name_, which can be omitted in `class` expressions to create _anonymous_ classes. Class expressions allow you to redefine classes, while redeclaring a class using `class` declarations throws a . See also the chapter about [classes](/Web/JavaScript/Reference/Classes) for more information.
 
 ## Examples
 

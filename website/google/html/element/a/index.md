@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.a
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<a>`** [HTML](/Web/HTML) element (or _anchor_ element), with [its `href` attribute](#href), creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.
 
@@ -17,7 +17,7 @@ Content within each `<a>` _should_ indicate the link's destination. If the `href
 
 This element's attributes include the [global attributes](/Web/HTML/Global_attributes).
 
-- `attributionsrc` {{experimental_inline}}
+- `attributionsrc` 
 
   - : Specifies that you want the browser to send an {{httpheader("Attribution-Reporting-Eligible")}} header. On the server-side this is used to trigger sending an {{httpheader("Attribution-Reporting-Register-Source")}} header in the response, to register a [navigation-based attribution source](/Web/API/Attribution_Reporting_API/Registering_sources#navigation-based_attribution_sources).
 

@@ -4,8 +4,8 @@ slug: Web/JavaScript/Guide/Control_flow_and_error_handling
 page-type: guide
 ---
 
-{{jsSidebar("JavaScript Guide")}}
-{{PreviousNext("Web/JavaScript/Guide/Grammar_and_types", "Web/JavaScript/Guide/Loops_and_iteration")}}
+
+
 
 JavaScript supports a compact set of statements, specifically
 control flow statements, that you can use to incorporate a great deal of interactivity
@@ -534,4 +534,4 @@ try {
 }
 ```
 
-{{PreviousNext("Web/JavaScript/Guide/Grammar_and_types", "Web/JavaScript/Guide/Loops_and_iteration")}}
+

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Setter_one_argument
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "setter functions must have one argument" occurs when a [setter](/Web/JavaScript/Reference/Functions/get) is declared and the parameter list is not consisted of exactly one formal parameter.
 
@@ -20,7 +20,7 @@ SyntaxError: Unexpected token '...'. Expected a parameter pattern or a ')' in pa
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

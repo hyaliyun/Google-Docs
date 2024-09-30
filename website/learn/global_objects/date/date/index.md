@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Date.Date
 ---
 
-{{JSRef}}
+
 
 The **`Date()`** constructor creates  objects. When called as a function, it returns a string representing the current time.
 

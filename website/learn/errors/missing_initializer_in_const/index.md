@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Missing_initializer_in_const
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "missing = in const declaration" occurs when a const
 declaration was not given a value in the same statement (like
@@ -21,7 +21,7 @@ SyntaxError: Unexpected token ';'. const declared variable 'x' must have an init
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

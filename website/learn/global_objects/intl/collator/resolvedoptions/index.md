@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Collator.resolvedOptions
 ---
 
-{{JSRef}}
+
 
 The **`resolvedOptions()`** method of {{jsxref("Intl.Collator")}} instances returns a new object with properties reflecting the locale and collation options
 computed during initialization of this collator object.

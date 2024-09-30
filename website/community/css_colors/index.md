@@ -48,7 +48,7 @@ To see the code for this color syntax converter, [view the source on GitHub](htt
   - [`oklab()`](/Web/CSS/color_value/oklab)
   - [`oklch()`](/Web/CSS/color_value/oklch)
   - [`color()`](/Web/CSS/color_value/color)
-- [`color-contrast()`](/Web/CSS/color_value/color-contrast) {{experimental_inline}}
+- [`color-contrast()`](/Web/CSS/color_value/color-contrast) 
 - [`color-mix()`](/Web/CSS/color_value/color-mix)
 - [`device-cmyk()`](/Web/CSS/color_value/device-cmyk)
 - {{CSSXref("color_value/light-dark", "light-dark()")}}

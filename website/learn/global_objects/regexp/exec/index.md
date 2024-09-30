@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.RegExp.exec
 ---
 
-{{JSRef}}
+
 
 The **`exec()`** method of {{jsxref("RegExp")}} instances executes a search with this regular expression for a match in a specified string and returns a result array, or [`null`](/Web/JavaScript/Reference/Operators/null).
 

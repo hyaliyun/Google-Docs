@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.cite
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<cite>`** [HTML](/Web/HTML) element is used to mark up the title of a cited creative work. The reference may be in an abbreviated form according to context-appropriate conventions related to citation metadata.
 

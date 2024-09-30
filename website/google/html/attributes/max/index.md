@@ -9,7 +9,7 @@ browser-compat:
   - html.elements.progress.max
 ---
 
-{{HTMLSidebar}}
+
 
 The **`max`** attribute defines the maximum value that is acceptable and valid for the input containing the attribute. If the [`value`](/Web/HTML/Element/input#value) of the element is greater than this, the element fails [validation](/Learn/Forms/Form_validation). This value must be greater than or equal to the value of the [`min`](/Web/HTML/Attributes/min) attribute. If the `max` attribute is present but is not specified or is invalid, no `max` value is applied. If the `max` attribute is valid and a non-empty value is greater than the maximum allowed by the `max` attribute, constraint validation will prevent form submission.
 

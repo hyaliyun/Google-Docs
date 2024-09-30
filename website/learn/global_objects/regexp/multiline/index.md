@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.RegExp.multiline
 ---
 
-{{JSRef}}
+
 
 The **`multiline`** accessor property of {{jsxref("RegExp")}} instances returns whether or not the `m` flag is used with this regular expression.
 

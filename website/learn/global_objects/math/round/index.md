@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.round
 ---
 
-{{JSRef}}
+
 
 The **`Math.round()`** static method returns the value of a number rounded to the nearest integer.
 

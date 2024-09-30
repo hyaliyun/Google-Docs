@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.DateTimeFormat.formatToParts
 ---
 
-{{JSRef}}
+
 
 The **`formatToParts()`** method of {{jsxref("Intl.DateTimeFormat")}} instances allows locale-aware formatting of strings produced by this `Intl.DateTimeFormat` object.
 

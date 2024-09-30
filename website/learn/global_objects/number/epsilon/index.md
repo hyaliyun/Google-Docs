@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Number.EPSILON
 ---
 
-{{JSRef}}
+
 
 The **`Number.EPSILON`** static data property represents the difference between 1 and the smallest floating point number greater than 1.
 
@@ -15,7 +15,7 @@ The **`Number.EPSILON`** static data property represents the difference between 
 
 2<sup>-52</sup>, or approximately `2.2204460492503130808472633361816E-16`.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

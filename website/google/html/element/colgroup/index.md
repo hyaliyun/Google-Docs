@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.colgroup
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<colgroup>`** [HTML](/Web/HTML) element defines a group of columns within a table.
 

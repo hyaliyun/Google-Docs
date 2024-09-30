@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.Intl.Locale.caseFirst
 ---
 
-{{JSRef}}
+
 
 The **`caseFirst`** accessor property of {{jsxref("Intl.Locale")}} instances returns whether case is taken into account for this locale's collation rules.
 

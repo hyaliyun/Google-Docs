@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.progress
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<progress>`** [HTML](/Web/HTML) element displays an indicator showing the completion progress of a task, typically displayed as a progress bar.
 

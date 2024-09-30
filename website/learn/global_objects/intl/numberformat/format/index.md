@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.NumberFormat.format
 ---
 
-{{JSRef}}
+
 
 The **`format()`** method of {{jsxref("Intl.NumberFormat")}} instances formats a number according to the [locale and formatting options](/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat#parameters) of this `Intl.NumberFormat` object.
 

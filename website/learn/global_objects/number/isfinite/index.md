@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Number.isFinite
 ---
 
-{{JSRef}}
+
 
 The **`Number.isFinite()`** static method determines whether the passed value is a finite number — that is, it checks that a given value is a number, and the number is neither positive {{jsxref("Infinity")}}, negative `Infinity`, nor {{jsxref("NaN")}}.
 

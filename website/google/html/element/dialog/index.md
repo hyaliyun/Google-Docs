@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.dialog
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<dialog>`** [HTML](/Web/HTML) element represents a modal or non-modal dialog box or other interactive component, such as a dismissible alert, inspector, or subwindow.
 

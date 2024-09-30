@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.ListFormat.resolvedOptions
 ---
 
-{{JSRef}}
+
 
 The **`resolvedOptions()`** method of {{jsxref("Intl.ListFormat")}} instances
 returns a new object with properties reflecting the locale and style formatting

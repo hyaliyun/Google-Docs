@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.rb
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<rb>`** [HTML](/Web/HTML) element is used to delimit the base text component of a {{HTMLElement("ruby") }} annotation, i.e. the text that is being annotated. One `<rb>` element should wrap each separate atomic segment of the base text.
 

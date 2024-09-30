@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.entries
 ---
 
-{{JSRef}}
+
 
 The **`entries()`** method of {{jsxref("Array")}} instances returns a new _[array iterator](/Web/JavaScript/Reference/Global_Objects/Iterator)_ object that contains the key/value pairs for each index in the array.
 

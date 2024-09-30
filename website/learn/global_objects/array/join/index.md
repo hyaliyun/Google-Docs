@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.join
 ---
 
-{{JSRef}}
+
 
 The **`join()`** method of {{jsxref("Array")}} instances creates and
 returns a new string by concatenating all of the elements in this array,

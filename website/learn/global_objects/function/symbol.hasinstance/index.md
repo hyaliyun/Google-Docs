@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Function.@@hasInstance
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.hasInstance]()`** method of {{jsxref("Function")}} instances specifies the default procedure for determining if a constructor function recognizes an object as one of the constructor's instances. It is called by the [`instanceof`](/Web/JavaScript/Reference/Operators/instanceof) operator.
 

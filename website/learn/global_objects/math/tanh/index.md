@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.tanh
 ---
 
-{{JSRef}}
+
 
 The **`Math.tanh()`** static method returns the hyperbolic tangent of a number. That is,
 

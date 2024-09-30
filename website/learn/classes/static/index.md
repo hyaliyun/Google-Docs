@@ -90,7 +90,7 @@ The expression is evaluated synchronously. You cannot use {{jsxref("Operators/aw
 Static field initializers and [static initialization blocks](/Web/JavaScript/Reference/Classes/Static_initialization_blocks) are evaluated one-by-one. Field initializers can refer to field values above it, but not below it. All static methods are added beforehand and can be accessed, although calling them may not behave as expected if they refer to fields below the one being initialized.
 
 > [!NOTE]
-> This is more important with [private static fields](/Web/JavaScript/Reference/Classes/Private_properties), because accessing a non-initialized private field throws a {{jsxref("TypeError")}}, even if the private field is declared below. (If the private field is not declared, it would be an early {{jsxref("SyntaxError")}}.)
+> This is more important with [private static fields](/Web/JavaScript/Reference/Classes/Private_properties), because accessing a non-initialized private field throws a {{jsxref("TypeError")}}, even if the private field is declared below. (If the private field is not declared, it would be an early .)
 
 ## Examples
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.fill
 ---
 
-{{JSRef}}
+
 
 The **`fill()`** method of {{jsxref("TypedArray")}} instances changes all elements within a range of indices in a typed array to a static value. It returns the modified typed array. This method has the same algorithm as {{jsxref("Array.prototype.fill()")}}.
 

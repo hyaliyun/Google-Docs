@@ -7,7 +7,7 @@ status:
 browser-compat: javascript.builtins.RegExp.n
 ---
 
-{{JSRef}} 
+ 
 
 > [!NOTE]
 > All `RegExp` static properties that expose the last match state globally are deprecated. See [deprecated RegExp features](/Web/JavaScript/Reference/Deprecated_and_obsolete_features#regexp) for more information.

@@ -79,7 +79,7 @@ In addition, there are two special class element syntaxes: [`constructor`](#cons
 
 #### Constructor
 
-The {{jsxref("Classes/constructor", "constructor")}} method is a special method for creating and initializing an object created with a class. There can only be one special method with the name "constructor" in a class — a {{jsxref("SyntaxError")}} is thrown if the class contains more than one occurrence of a `constructor` method.
+The {{jsxref("Classes/constructor", "constructor")}} method is a special method for creating and initializing an object created with a class. There can only be one special method with the name "constructor" in a class — a  is thrown if the class contains more than one occurrence of a `constructor` method.
 
 A constructor can use the [`super`](/Web/JavaScript/Reference/Operators/super) keyword to call the constructor of the super class.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Segmenter.segment
 ---
 
-{{JSRef}}
+
 
 The **`segment()`** method of {{jsxref("Intl.Segmenter")}} instances segments a string according to the locale and granularity of this `Intl.Segmenter` object.
 

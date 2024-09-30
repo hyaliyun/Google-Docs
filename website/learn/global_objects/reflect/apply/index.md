@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.apply
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.apply()`** static method calls a target function with arguments as specified.
 

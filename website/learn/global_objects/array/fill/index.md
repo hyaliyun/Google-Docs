@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.fill
 ---
 
-{{JSRef}}
+
 
 The **`fill()`** method of {{jsxref("Array")}} instances changes all elements within a range of indices in an array to a static value. It returns the modified array.
 

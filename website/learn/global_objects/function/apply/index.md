@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Function.apply
 ---
 
-{{JSRef}}
+
 
 The **`apply()`** method of {{jsxref("Function")}} instances calls this function with a given `this` value, and `arguments` provided as an array (or an [array-like object](/Web/JavaScript/Guide/Indexed_collections#working_with_array-like_objects)).
 

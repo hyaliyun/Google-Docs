@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Redeclared_parameter
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "redeclaration of formal parameter" occurs when the same
 variable name occurs as a function parameter and is then redeclared using a
@@ -20,7 +20,7 @@ SyntaxError: Cannot declare a let variable twice: 'x'. (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

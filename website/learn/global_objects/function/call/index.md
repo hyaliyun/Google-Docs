@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Function.call
 ---
 
-{{JSRef}}
+
 
 The **`call()`** method of {{jsxref("Function")}} instances calls this function with a given `this` value and arguments provided individually.
 

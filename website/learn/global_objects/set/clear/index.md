@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.clear
 ---
 
-{{JSRef}}
+
 
 The **`clear()`** method of {{jsxref("Set")}} instances removes all elements from this set.
 

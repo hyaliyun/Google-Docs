@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getTimezoneOffset
 ---
 
-{{JSRef}}
+
 
 The **`getTimezoneOffset()`** method of  instances returns the difference, in minutes, between this date as evaluated in the UTC time zone, and the same date as evaluated in the local time zone.
 

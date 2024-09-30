@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.values
 ---
 
-{{JSRef}}
+
 
 The **`values()`** method of {{jsxref("Set")}} instances returns a new _[set iterator](/Web/JavaScript/Reference/Global_Objects/Iterator)_ object that contains the values for each element in this set in insertion order.
 

@@ -8,7 +8,7 @@ browser-compat:
   - html.elements.textarea.placeholder
 ---
 
-{{HTMLSidebar}}
+
 
 The **`placeholder`** attribute defines the text displayed in a form control when the control has no value. The placeholder text should provide a brief hint to the user as to the expected type of data that should be entered into the control.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.atan
 ---
 
-{{JSRef}}
+
 
 The **`Math.atan()`** static method returns the inverse tangent (in radians) of a number, that is
 

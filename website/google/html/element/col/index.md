@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.col
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<col>`** [HTML](/Web/HTML) element defines one or more columns in a column group represented by its parent {{HTMLElement("colgroup")}} element. The `<col>` element is only valid as a child of a {{HTMLElement("colgroup")}} element that has no [`span`](/Web/HTML/Element/colgroup#span) attribute defined.
 

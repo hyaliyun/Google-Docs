@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.canvas
 ---
 
-{{HTMLSidebar}}
+
 
 Use the **HTML `<canvas>` element** with either the [canvas scripting API](/Web/API/Canvas_API) or the [WebGL API](/Web/API/WebGL_API) to draw graphics and animations.
 

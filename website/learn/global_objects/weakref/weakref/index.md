@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.WeakRef.WeakRef
 ---
 
-{{JSRef}}
+
 
 The **`WeakRef()`** constructor creates {{jsxref("WeakRef")}} objects.
 

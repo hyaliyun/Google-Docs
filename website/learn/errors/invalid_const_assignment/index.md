@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Invalid_const_assignment
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "invalid assignment to const" occurs when it was attempted to
 alter a constant value. JavaScript

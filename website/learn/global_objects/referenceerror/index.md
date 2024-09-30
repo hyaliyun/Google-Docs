@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.ReferenceError
 ---
 
-{{JSRef}}
+
 
 The **`ReferenceError`** object represents an error when a variable that doesn't exist (or hasn't yet been initialized) in the current scope is referenced.
 

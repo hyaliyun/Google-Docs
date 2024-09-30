@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.String
 ---
 
-{{JSRef}}
+
 
 The **`String`** object is used to represent and manipulate a
 sequence of characters.

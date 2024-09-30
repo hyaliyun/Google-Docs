@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.frame
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<frame>`** [HTML](/Web/HTML) element defines a particular area in which another HTML document can be displayed. A frame should be used within a {{HTMLElement("frameset")}}.
 

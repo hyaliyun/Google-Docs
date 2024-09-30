@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.localeCompare
 ---
 
-{{JSRef}}
+
 
 The **`localeCompare()`** method of {{jsxref("String")}} values returns a number indicating whether this string comes before, or after, or is the same as the given string in sort order. In implementations with [`Intl.Collator` API](/Web/JavaScript/Reference/Global_Objects/Intl/Collator) support, this method simply calls `Intl.Collator`.
 

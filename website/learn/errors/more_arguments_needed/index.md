@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/More_arguments_needed
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "more arguments needed" occurs when there is an error with how
 a function is called. More arguments need to be provided.

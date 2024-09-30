@@ -330,7 +330,7 @@ Elements in HTML have **attributes**; these are additional values that configure
     <tr>
       <td>
         <code><a href="/Web/API/HTMLIFrameElement/csp">csp</a></code>
-        {{experimental_inline}}
+        
       </td>
       <td>{{ HTMLElement("iframe") }}</td>
       <td>

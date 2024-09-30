@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Atomics.sub
 ---
 
-{{JSRef}}
+
 
 The **`Atomics.sub()`** static method subtracts a given value
 at a given position in the array and returns the old value at that position. This atomic

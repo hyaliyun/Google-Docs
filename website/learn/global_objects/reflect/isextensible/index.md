@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.isExtensible
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.isExtensible()`** static method is like {{jsxref("Object.isExtensible()")}}. It determines if an object is extensible (whether it can have new properties added to it).
 

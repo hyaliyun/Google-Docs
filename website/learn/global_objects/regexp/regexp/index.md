@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.RegExp.RegExp
 ---
 
-{{JSRef}}
+
 
 The **`RegExp()`** constructor creates {{jsxref("RegExp")}} objects.
 
@@ -66,7 +66,7 @@ In all other cases, calling `RegExp()` with or without `new` both create a new `
 
 ### Exceptions
 
-- {{jsxref("SyntaxError")}}
+- 
   - : Thrown in one of the following cases:
     - `pattern` cannot be parsed as a valid regular expression.
     - `flags` contains repeated characters or any character outside of those allowed.

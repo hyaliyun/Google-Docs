@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.toString
 ---
 
-{{JSRef}}
+
 
 The **`toString()`** method of {{jsxref("TypedArray")}} instances returns a string representing the specified typed array and its elements. This method has the same algorithm as {{jsxref("Array.prototype.toString()")}}.
 

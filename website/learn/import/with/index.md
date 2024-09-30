@@ -5,7 +5,7 @@ page-type: javascript-language-feature
 browser-compat: javascript.statements.import.import_attributes
 ---
 
-{{jsSidebar("Statements")}}
+
 
 > [!NOTE]
 > A previous version of this proposal used the `assert` keyword instead of `with`. The assertion feature is now non-standard. Check the [browser compatibility table](#browser_compatibility) for details.

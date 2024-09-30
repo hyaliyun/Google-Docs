@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Proxy.revocable
 ---
 
-{{JSRef}}
+
 
 The **`Proxy.revocable()`** static method creates a revocable {{jsxref("Proxy")}} object.
 

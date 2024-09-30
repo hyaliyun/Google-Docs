@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.time
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<time>`** [HTML](/Web/HTML) element represents a specific period in time. It may include the `datetime` attribute to translate dates into machine-readable format, allowing for better search engine results or custom features such as reminders.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Invalid_for-of_initializer
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "a declaration in the head of a for-of loop can't have an initializer" occurs when the head of a [for...of](/Web/JavaScript/Reference/Statements/for...of) loop contains an initializer expression such as `for (const i = 0 of iterable)`. This is not allowed in for-of loops.
 
@@ -18,7 +18,7 @@ SyntaxError: Cannot assign to the loop variable inside a for-of loop header. (Sa
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

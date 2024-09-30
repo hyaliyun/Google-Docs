@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.valueOf
 ---
 
-{{JSRef}}
+
 
 The **`valueOf()`** method of {{jsxref("String")}} values returns this string value.
 

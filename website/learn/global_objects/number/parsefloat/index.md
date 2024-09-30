@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Number.parseFloat
 ---
 
-{{JSRef}}
+
 
 The **`Number.parseFloat()`** static method parses an argument and returns a floating point number. If a number cannot be parsed from the argument, it returns {{jsxref("NaN")}}.
 

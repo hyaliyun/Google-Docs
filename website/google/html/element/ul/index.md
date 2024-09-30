@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.ul
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<ul>`** [HTML](/Web/HTML) element represents an unordered list of items, typically rendered as a bulleted list.
 

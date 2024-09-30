@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.ArrayBuffer
 ---
 
-{{JSRef}}
+
 
 The **`ArrayBuffer`** object is used to represent a generic raw binary data buffer.
 

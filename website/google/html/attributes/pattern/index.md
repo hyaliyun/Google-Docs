@@ -6,7 +6,7 @@ page-type: html-attribute
 browser-compat: html.elements.input.pattern
 ---
 
-{{HTMLSidebar}}
+
 
 The **`pattern`** attribute specifies a [regular expression](/Web/JavaScript/Guide/Regular_expressions) the form control's value should match. If a non-`null` value doesn't conform to the constraints set by the `pattern` value, the {{domxref('ValidityState')}} object's read-only {{domxref('ValidityState.patternMismatch','patternMismatch')}} property will be true.
 

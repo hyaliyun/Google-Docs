@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Atomics.add
 ---
 
-{{JSRef}}
+
 
 The **`Atomics.add()`** static
 method adds a given value at a given position in the array and returns the old value at

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getFullYear
 ---
 
-{{JSRef}}
+
 
 The **`getFullYear()`** method of  instances returns the year for this date according to local time.
 

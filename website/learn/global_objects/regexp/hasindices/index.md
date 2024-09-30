@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.RegExp.hasIndices
 ---
 
-{{JSRef}}
+
 
 The **`hasIndices`** accessor property of {{jsxref("RegExp")}} instances returns whether or not the `d` flag is used with this regular expression.
 

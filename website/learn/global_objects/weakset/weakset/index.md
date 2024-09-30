@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.WeakSet.WeakSet
 ---
 
-{{JSRef}}
+
 
 The **`WeakSet()`** constructor creates {{jsxref("WeakSet")}} objects.
 

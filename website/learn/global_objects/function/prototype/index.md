@@ -5,7 +5,7 @@ page-type: javascript-instance-data-property
 spec-urls: https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-function-instances-prototype
 ---
 
-{{JSRef}}
+
 
 The **`prototype`** data property of a {{jsxref("Function")}} instance is used when the function is used as a constructor with the [`new`](/Web/JavaScript/Reference/Operators/new) operator. It will become the new object's prototype.
 

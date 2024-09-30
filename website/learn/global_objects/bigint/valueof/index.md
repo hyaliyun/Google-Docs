@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.BigInt.valueOf
 ---
 
-{{JSRef}}
+
 
 The **`valueOf()`** method of {{jsxref("BigInt")}} values returns the wrapped primitive value
 of a {{jsxref("BigInt")}} object.

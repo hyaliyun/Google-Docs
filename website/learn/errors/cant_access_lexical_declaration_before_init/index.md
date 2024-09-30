@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Cant_access_lexical_declaration_before_ini
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "can't access lexical declaration 'X' before initialization" occurs when a lexical variable was accessed before it was initialized.
 This happens within any scope (global, module, function, or block) when [`let`](/Web/JavaScript/Reference/Statements/let) or [`const`](/Web/JavaScript/Reference/Statements/const) variables are accessed before the place where they are declared is executed.

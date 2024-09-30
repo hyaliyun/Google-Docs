@@ -5,7 +5,7 @@ page-type: html-attribute-value
 browser-compat: html.elements.link.rel.preload
 ---
 
-{{HTMLSidebar}}
+
 
 The `preload` value of the {{htmlelement("link")}} element's [`rel`](/Web/HTML/Element/link#rel) attribute lets you declare fetch requests in the
 HTML's {{htmlelement("head")}}, specifying resources that your page will need very soon, which you want to start loading early in the page lifecycle,

@@ -5,7 +5,7 @@ page-type: javascript-global-property
 browser-compat: javascript.builtins.NaN
 ---
 
-{{jsSidebar("Objects")}}
+
 
 The **`NaN`** global property is a value representing Not-A-Number.
 
@@ -15,7 +15,7 @@ The **`NaN`** global property is a value representing Not-A-Number.
 
 The same number value as {{jsxref("Number.NaN")}}.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.max
 ---
 
-{{JSRef}}
+
 
 The **`Math.max()`** static method returns the largest of the numbers given as input parameters, or -{{jsxref("Infinity")}} if there are no parameters.
 

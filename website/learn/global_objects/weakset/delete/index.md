@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.WeakSet.delete
 ---
 
-{{JSRef}}
+
 
 The **`delete()`** method of {{jsxref("WeakSet")}} instances removes the specified element from this `WeakSet`.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Cant_be_converted_to_BigInt_because_it_isn
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "x can't be converted to BigInt because it isn't an integer" occurs when the [`BigInt()`](/Web/JavaScript/Reference/Global_Objects/BigInt/BigInt) function is used on a number that isn't an integer.
 

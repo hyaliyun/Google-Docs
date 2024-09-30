@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.tfoot
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<tfoot>`** [HTML](/Web/HTML) element encapsulates a set of table rows ({{HTMLElement("tr")}} elements), indicating that they comprise the foot of a table with information about the table's columns. This is usually a summary of the columns, e.g., a sum of the given numbers in a column.
 

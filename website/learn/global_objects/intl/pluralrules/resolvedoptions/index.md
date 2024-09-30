@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.PluralRules.resolvedOptions
 ---
 
-{{JSRef}}
+
 
 The **`resolvedOptions()`** method of {{jsxref("Intl.PluralRules")}} instances returns a new object with properties reflecting the locale and plural formatting options computed during initialization of this `Intl.PluralRules` object.
 
@@ -35,16 +35,16 @@ The object has the following properties:
 
   - : The type used (`cardinal` or `ordinal`).
 
-- `roundingIncrement` {{experimental_inline}}
+- `roundingIncrement` 
   - : The rounding-increment precision (the increment used when rounding numbers).
     This is the value specified in the `options.roundingIncrement` argument in the constructor.
-- `roundingMode` {{experimental_inline}}
+- `roundingMode` 
   - : The rounding mode.
     This is the value provided for the `options.roundingMode` argument in the constructor, or the default value: `halfExpand`.
-- `roundingPriority` {{experimental_inline}}
+- `roundingPriority` 
   - : The priority for resolving rounding conflicts if both "FractionDigits" and "SignificantDigits" are specified.
     This is the value provided for the `options.roundingPriority` argument in the constructor, or the default value: `auto`.
-- `trailingZeroDisplay` {{experimental_inline}}
+- `trailingZeroDisplay` 
   - : The strategy for displaying trailing zeros on whole numbers.
     This is the value specified in the `options.trailingZeroDisplay` argument in the constructor, or the default value: `"auto"`.
 

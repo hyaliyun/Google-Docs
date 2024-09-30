@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.TypedArray.from
 ---
 
-{{JSRef}}
+
 
 The **`TypedArray.from()`** static method creates a new
 [typed array](/Web/JavaScript/Reference/Global_Objects/TypedArray#typedarray_objects)

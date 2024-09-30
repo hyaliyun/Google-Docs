@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.toLowerCase
 ---
 
-{{JSRef}}
+
 
 The **`toLowerCase()`** method of {{jsxref("String")}} values returns this string converted to lower case.
 

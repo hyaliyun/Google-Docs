@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.dd
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<dd>`** [HTML](/Web/HTML) element provides the description, definition, or value for the preceding term ({{HTMLElement("dt")}}) in a description list ({{HTMLElement("dl")}}).
 

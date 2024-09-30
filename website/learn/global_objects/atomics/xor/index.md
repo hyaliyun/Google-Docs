@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Atomics.xor
 ---
 
-{{JSRef}}
+
 
 The **`Atomics.xor()`** static
 method computes a bitwise XOR with a given value at a given position in the array, and

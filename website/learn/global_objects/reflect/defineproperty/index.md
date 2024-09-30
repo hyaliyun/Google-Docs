@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.defineProperty
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.defineProperty()`** static method is like {{jsxref("Object.defineProperty()")}} but returns a {{jsxref("Boolean")}}.
 

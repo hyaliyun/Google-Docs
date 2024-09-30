@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Map.set
 ---
 
-{{JSRef}}
+
 
 The **`set()`** method of {{jsxref("Map")}} instances adds or updates an entry in this map with a specified key and a value.
 

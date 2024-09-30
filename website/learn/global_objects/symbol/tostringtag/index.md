@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Symbol.toStringTag
 ---
 
-{{JSRef}}
+
 
 The **`Symbol.toStringTag`** static data property represents the [well-known symbol](/Web/JavaScript/Reference/Global_Objects/Symbol#well-known_symbols) `Symbol.toStringTag`. {{jsxref("Object.prototype.toString()")}} looks up this symbol on the `this` value for the property containing a string that represents the type of the object.
 
@@ -15,7 +15,7 @@ The **`Symbol.toStringTag`** static data property represents the [well-known sym
 
 The well-known symbol `Symbol.toStringTag`.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Examples
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Symbol.valueOf
 ---
 
-{{JSRef}}
+
 
 The **`valueOf()`** method of {{jsxref("Symbol")}} values returns this symbol value.
 

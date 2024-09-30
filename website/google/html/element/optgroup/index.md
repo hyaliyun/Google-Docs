@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.optgroup
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<optgroup>`** [HTML](/Web/HTML) element creates a grouping of options within a {{HTMLElement("select")}} element.
 

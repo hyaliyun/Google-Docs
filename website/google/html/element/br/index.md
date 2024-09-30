@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.br
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<br>`** [HTML](/Web/HTML) element produces a line break in text (carriage-return). It is useful for writing a poem or an address, where the division of lines is significant.
 

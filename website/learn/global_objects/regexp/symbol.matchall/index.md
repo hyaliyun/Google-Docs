@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.RegExp.@@matchAll
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.matchAll]()`** method of {{jsxref("RegExp")}} instances specifies how [`String.prototype.matchAll`](/Web/JavaScript/Reference/Global_Objects/String/matchAll) should behave.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.RelativeTimeFormat.formatToParts
 ---
 
-{{JSRef}}
+
 
 The **`formatToParts()`** method of {{jsxref("Intl.RelativeTimeFormat")}} instances returns an {{jsxref("Array")}} of objects representing the relative time format in parts that can be used for custom locale-aware formatting.
 

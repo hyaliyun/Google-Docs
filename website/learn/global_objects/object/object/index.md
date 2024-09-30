@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Object.Object
 ---
 
-{{JSRef}}
+
 
 The **`Object()`** constructor turns the input into an object. Its behavior depends on the input's type.
 

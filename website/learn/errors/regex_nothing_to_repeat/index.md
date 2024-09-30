@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Regex_nothing_to_repeat
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "nothing to repeat" or "invalid quantifier in regular expression" occurs when a [quantifier](/Web/JavaScript/Reference/Regular_expressions/Quantifier) in a regular expression is applied to nothing or applied to an [assertion](/Web/JavaScript/Reference/Regular_expressions#assertions).
 
@@ -20,7 +20,7 @@ SyntaxError: Invalid regular expression: nothing to repeat (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

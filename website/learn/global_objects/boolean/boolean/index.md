@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Boolean.Boolean
 ---
 
-{{JSRef}}
+
 
 The **`Boolean()`** constructor creates {{jsxref("Boolean")}} objects. When called as a function, it returns primitive values of type Boolean.
 

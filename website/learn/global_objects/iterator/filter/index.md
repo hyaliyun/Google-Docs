@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Iterator.filter
 ---
 
-{{JSRef}}
+
 
 The **`filter()`** method of {{jsxref("Iterator")}} instances returns a new [iterator helper](/Web/JavaScript/Reference/Global_Objects/Iterator#iterator_helpers) that yields only those elements of the iterator for which the provided callback function returns `true`.
 

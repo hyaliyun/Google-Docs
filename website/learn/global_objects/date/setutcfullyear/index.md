@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.setUTCFullYear
 ---
 
-{{JSRef}}
+
 
 The **`setUTCFullYear()`** method of  instances changes the year for this date according to universal time.
 

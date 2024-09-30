@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Reduce_of_empty_array_with_no_initial_valu
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "reduce of empty array with no initial value" occurs when a
 reduce function is used.

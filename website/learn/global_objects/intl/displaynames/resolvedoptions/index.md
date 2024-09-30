@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.DisplayNames.resolvedOptions
 ---
 
-{{JSRef}}
+
 
 The **`resolvedOptions()`** method of {{jsxref("Intl.DisplayNames")}} instances
 returns a new object with properties reflecting the locale and style formatting

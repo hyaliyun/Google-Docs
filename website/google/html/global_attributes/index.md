@@ -120,7 +120,7 @@ In addition to the basic HTML global attributes, the following global attributes
     - empty string or `yes`, which indicates that the element will be translated.
     - `no`, which indicates that the element will not be translated.
 
-- [`virtualkeyboardpolicy`](/Web/HTML/Global_attributes/virtualkeyboardpolicy) {{Experimental_Inline}}
+- [`virtualkeyboardpolicy`](/Web/HTML/Global_attributes/virtualkeyboardpolicy) 
 
   - : An [enumerated](/Glossary/Enumerated) attribute used to control the on-screen virtual keyboard behavior on devices such as tablets, mobile phones, or other devices where a hardware keyboard may not be available for elements that its content is editable (for example, it is an  or {{htmlelement("textarea")}} element, or an element with the [`contenteditable`](/Web/HTML/Global_attributes/contenteditable) attribute set).
 

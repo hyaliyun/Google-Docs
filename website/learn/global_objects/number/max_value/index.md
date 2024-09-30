@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Number.MAX_VALUE
 ---
 
-{{JSRef}}
+
 
 The **`Number.MAX_VALUE`** static data property represents the maximum numeric value representable in JavaScript.
 
@@ -15,7 +15,7 @@ The **`Number.MAX_VALUE`** static data property represents the maximum numeric v
 
 2<sup>1024</sup> - 2<sup>971</sup>, or approximately `1.7976931348623157E+308`.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

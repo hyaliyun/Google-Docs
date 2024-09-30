@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.DataView.setFloat64
 ---
 
-{{JSRef}}
+
 
 The **`setFloat64()`** method of {{jsxref("DataView")}} instances takes a number and stores it as a 64-bit floating point number in the 8 bytes starting at the specified byte offset of this `DataView`. There is no alignment constraint; multi-byte values may be stored at any offset within bounds.
 

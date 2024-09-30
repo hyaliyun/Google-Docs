@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.Intl.Locale.script
 ---
 
-{{JSRef}}
+
 
 The **`script`** accessor property of {{jsxref("Intl.Locale")}} instances returns the script used for writing the particular language used in this locale.
 

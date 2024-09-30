@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.script.type.speculationrules
 ---
 
-{{HTMLSidebar}}
+
 
 The **`speculationrules`** value of the [`type`](/Web/HTML/Element/script/type) attribute of the [`<script>` element](/Web/HTML/Element/script) indicates that the body of the element contains speculation rules.
 
@@ -67,9 +67,9 @@ A `<script type="speculationrules">` element must contain a valid JSON structure
 
 The JSON structure contains one or more fields at the top level, each one representing an action to define speculation rules for. At present the supported actions are:
 
-- `"prefetch"` {{optional_inline}} {{experimental_inline}}
+- `"prefetch"` {{optional_inline}} 
   - : Rules for potential future navigations that should have their associated document response body downloaded, leading to significant performance improvements when those documents are navigated to. Note that none of the subresources referenced by the page are downloaded.
-- `"prerender"` {{optional_inline}} {{experimental_inline}}
+- `"prerender"` {{optional_inline}} 
   - : Rules for potential future navigations that should have their associated documents fully downloaded, rendered, and loaded into an invisible tab. This includes loading all subresources, running all JavaScript, and even loading subresources and performing data fetches started by JavaScript. When those documents are navigated to, navigations will be instant, leading to major performance improvements.
 
 > [!NOTE]
@@ -90,11 +90,11 @@ Each object can contain the following properties:
     - `"list"`
       - : Specifies that the URLs will come from a list, specified in the `"urls"` key. Note that the presence of a `"urls"` key implies `"source": "list"`, so it is optional.
 
-- `"urls"` {{experimental_inline}}
+- `"urls"` 
 
   - : An array of strings representing a list of URLs to apply the rule to. These can be absolute or relative URLs. Relative URLs will be parsed relative to the document base URL (if inline in a document) or relative to the external resource URL (if externally fetched). `"urls"` and `"where"` cannot both be set in the same rule.
 
-- `"where"` {{experimental_inline}}
+- `"where"` 
 
   - : An object representing the conditions by which the rule matches URLs contained in the associated document. Effectively, the `"where"` object represents a test that is performed on every link on the page to see whether the speculation rule is applied to it. `"where"` and `"urls"` cannot both be set in the same rule.
 
@@ -115,7 +115,7 @@ Each object can contain the following properties:
 
     `"where"` conditions can be nested multiple levels deep to create complex conditions, or you can choose to split them into separate rules to keep them simple. See [where examples](#where_syntax_examples) for more explanation, and multiple examples of use.
 
-- `"eagerness"` {{experimental_inline}}
+- `"eagerness"` 
 
   - : A string providing a hint to the browser as to how eagerly it should prefetch/prerender link targets in order to balance performance advantages against resource overheads. Possible values are:
 
@@ -130,11 +130,11 @@ Each object can contain the following properties:
 
     If `"eagerness"` is not explicitly specified, list (`"urls"`) rules default to `immediate` and document (`"where"`) rules default to `conservative`. The browser takes this hint into consideration along with its own heuristics, so it may select a link that the author has hinted as less eager than another, if the less eager candidate is considered a better choice.
 
-- `"expects_no_vary_search"` {{experimental_inline}}
+- `"expects_no_vary_search"` 
 
   - : A string providing a hint to the browser as to what {{httpheader("No-Vary-Search")}} header value will be set on responses for documents that it is receiving prefetch/prerender requests for. The browser can use this to determine ahead of time whether it is more useful to wait for an existing prefetch/prerender to finish, or start a new fetch request when the speculation rule is matched. See the [`"expects_no_vary_search"` example](#expects_no_vary_search_example) for more explanation of how this can be used.
 
-- `"referrer_policy"` {{experimental_inline}}
+- `"referrer_policy"` 
 
   - : A string representing a specific referrer policy string to use when requesting the URLs specified in the rule — see [`Referrer-Policy`](/Web/HTTP/Headers/Referrer-Policy) for possible values. The purpose of this is to allow the referring page to set a stricter policy specifically for the speculative request than the policy the page already has set (either by default, or by using `Referrer-Policy`).
 
@@ -144,7 +144,7 @@ Each object can contain the following properties:
     > [!NOTE]
     > In the case of document rules, the matched link's specified referrer policy (e.g. using the [`referrerpolicy`](/Web/HTML/Element/a#referrerpolicy) attribute) will be used, unless the rule specifies a policy that overrides it.
 
-- `"relative_to"` {{experimental_inline}}
+- `"relative_to"` 
 
   - : A string specifying where you want links matched by URL to be matched relative to. The value can be one of:
 
@@ -155,7 +155,7 @@ Each object can contain the following properties:
 
     This key setting is only relevant for rules defined in an external file (set using the {{httpheader("Speculation-Rules")}} header). When rules are specified inside the same document they are being set for (i.e. in an inline `<script>` element), it makes no difference.
 
-- `"requires"` {{experimental_inline}}
+- `"requires"` 
 
   - : An array of strings representing capabilities of the browser parsing the rule, which must be available if the rule is to be applied to the specified URLs.
 

@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.nobr
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<nobr>`** [HTML](/Web/HTML) element prevents the text it contains from automatically wrapping across multiple lines, potentially resulting in the user having to scroll horizontally to see the entire width of the text.
 

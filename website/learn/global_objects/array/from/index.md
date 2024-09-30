@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Array.from
 ---
 
-{{JSRef}}
+
 
 The **`Array.from()`** static method creates a new, shallow-copied `Array` instance from an [iterable](/Web/JavaScript/Reference/Iteration_protocols#the_iterable_protocol) or [array-like](/Web/JavaScript/Guide/Indexed_collections#working_with_array-like_objects) object.
 

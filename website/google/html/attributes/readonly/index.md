@@ -8,7 +8,7 @@ browser-compat:
   - html.elements.textarea.readonly
 ---
 
-{{HTMLSidebar}}
+
 
 The Boolean **`readonly`** attribute, when present, makes the element not mutable, meaning the user can not edit the control.
 

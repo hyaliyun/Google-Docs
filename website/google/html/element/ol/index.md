@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.ol
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<ol>`** [HTML](/Web/HTML) element represents an ordered list of items — typically rendered as a numbered list.
 

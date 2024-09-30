@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Iterator.@@iterator
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.iterator]()`** method of {{jsxref("Iterator")}} instances implements the [iterable protocol](/Web/JavaScript/Reference/Iteration_protocols) and allows built-in iterators to be consumed by most syntaxes expecting iterables, such as the [spread syntax](/Web/JavaScript/Reference/Operators/Spread_syntax) and {{jsxref("Statements/for...of", "for...of")}} loops. It returns the value of [`this`](/Web/JavaScript/Reference/Operators/this), which is the iterator object itself.
 

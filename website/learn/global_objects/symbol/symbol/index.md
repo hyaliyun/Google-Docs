@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Symbol.Symbol
 ---
 
-{{JSRef}}
+
 
 The **`Symbol()`** function returns primitive values of type Symbol.
 

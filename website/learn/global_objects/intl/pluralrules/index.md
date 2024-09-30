@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Intl.PluralRules
 ---
 
-{{JSRef}}
+
 
 The **`Intl.PluralRules`** object enables plural-sensitive formatting and plural-related language rules.
 

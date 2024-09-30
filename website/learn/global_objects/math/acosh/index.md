@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.acosh
 ---
 
-{{JSRef}}
+
 
 The **`Math.acosh()`** static method returns the inverse hyperbolic cosine of a number. That is,
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getMinutes
 ---
 
-{{JSRef}}
+
 
 The **`getMinutes()`** method of  instances returns the minutes for this date according to local time.
 

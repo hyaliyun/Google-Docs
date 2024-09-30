@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.keys
 ---
 
-{{JSRef}}
+
 
 The **`Object.keys()`** static method returns an array of a given object's own enumerable string-keyed property names.
 

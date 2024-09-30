@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Bad_break
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "unlabeled break must be inside loop or switch" occurs when a {{jsxref("Statements/break", "break")}} statement is not inside a loop or a {{jsxref("Statements/switch", "switch")}} statement.
 
@@ -18,7 +18,7 @@ SyntaxError: 'break' is only valid inside a switch or loop statement. (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}.
+.
 
 ## What went wrong?
 

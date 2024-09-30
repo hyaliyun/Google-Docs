@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Bad_optional_template
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "tagged template cannot be used with optional chain" occurs when the tag expression of a [tagged template literal](/Web/JavaScript/Reference/Template_literals#tagged_templates) is an [optional chain](/Web/JavaScript/Reference/Operators/Optional_chaining), or if there's an optional chain between the tag and the template.
 
@@ -18,7 +18,7 @@ SyntaxError: Cannot use tagged templates in an optional chain. (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Iterator.take
 ---
 
-{{JSRef}}
+
 
 The **`take()`** method of {{jsxref("Iterator")}} instances returns a new [iterator helper](/Web/JavaScript/Reference/Global_Objects/Iterator#iterator_helpers) that yields the given number of elements in this iterator and then terminates.
 

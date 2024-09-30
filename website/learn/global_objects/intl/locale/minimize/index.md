@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Locale.minimize
 ---
 
-{{JSRef}}
+
 
 The **`minimize()`** method of {{jsxref("Intl.Locale")}} instances attempts to
 remove information about this locale that would be added by calling

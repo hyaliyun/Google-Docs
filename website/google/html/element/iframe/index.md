@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.iframe
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<iframe>`** [HTML](/Web/HTML) element represents a nested {{Glossary("browsing context")}}, embedding another HTML page into the current one.
 
@@ -43,15 +43,15 @@ This element includes the [global attributes](/Web/HTML/Global_attributes).
     > [!NOTE]
     > This attribute is considered a legacy attribute and redefined as `allow="payment"`.
 
-- `browsingtopics` {{Experimental_Inline}} {{non-standard_inline}}
+- `browsingtopics`  {{non-standard_inline}}
 
   - : A boolean attribute that, if present, specifies that the selected topics for the current user should be sent with the request for the `<iframe>`'s source. See [Using the Topics API](/Web/API/Topics_API/Using) for more details.
 
-- `credentialless` {{Experimental_Inline}}
+- `credentialless` 
 
   - : Set to `true` to make the `<iframe>` credentialless, meaning that its content will be loaded in a new, ephemeral context. It doesn't have access to the network, cookies, and storage data associated with its origin. It uses a new context local to the top-level document lifetime. In return, the {{httpheader("Cross-Origin-Embedder-Policy")}} (COEP) embedding rules can be lifted, so documents with COEP set can embed third-party documents that do not. See [IFrame credentialless](/Web/Security/IFrame_credentialless) for more details.
 
-- `csp` {{experimental_inline}}
+- `csp` 
 
   - : A [Content Security Policy](/Web/HTTP/CSP) enforced for the embedded resource. See {{domxref("HTMLIFrameElement.csp")}} for details.
 
@@ -120,7 +120,7 @@ This element includes the [global attributes](/Web/HTML/Global_attributes).
       - : If this token is not used, the resource is treated as being from a special origin that always fails the {{Glossary("same-origin policy")}} (potentially preventing access to [data storage/cookies](/Web/Security/Same-origin_policy#cross-origin_data_storage_access) and some JavaScript APIs).
     - `allow-scripts`
       - : Allows the page to run scripts (but not create pop-up windows). If this keyword is not used, this operation is not allowed.
-    - `allow-storage-access-by-user-activation` {{experimental_inline}}
+    - `allow-storage-access-by-user-activation` 
       - : Allows a document loaded in the `<iframe>` to use the {{domxref("Storage Access API", "Storage Access API", "", "nocode")}} to request access to unpartitioned cookies.
     - `allow-top-navigation`
       - : Lets the resource navigate the top-level browsing context (the one named `_top`).

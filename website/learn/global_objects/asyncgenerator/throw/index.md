@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.AsyncGenerator.throw
 ---
 
-{{JSRef}}
+
 
 The **`throw()`** method of {{jsxref("AsyncGenerator")}} instances acts as if a `throw` statement is inserted in the generator's body at the current suspended position, which informs the generator of an error condition and allows it to handle the error, or perform cleanup and close itself.
 

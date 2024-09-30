@@ -5,7 +5,7 @@ page-type: javascript-instance-data-property
 browser-compat: javascript.builtins.String.length
 ---
 
-{{JSRef}}
+
 
 The **`length`** data property of a {{jsxref("String")}} value contains the length of the string in UTF-16 code units.
 
@@ -15,7 +15,7 @@ The **`length`** data property of a {{jsxref("String")}} value contains the leng
 
 A non-negative integer.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

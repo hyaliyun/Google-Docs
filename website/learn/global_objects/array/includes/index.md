@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.includes
 ---
 
-{{JSRef}}
+
 
 The **`includes()`** method of {{jsxref("Array")}} instances determines whether an array
 includes a certain value among its entries, returning `true` or

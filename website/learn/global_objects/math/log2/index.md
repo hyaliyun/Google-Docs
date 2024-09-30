@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.log2
 ---
 
-{{JSRef}}
+
 
 The **`Math.log2()`** static method returns the base 2 logarithm of a number. That is
 

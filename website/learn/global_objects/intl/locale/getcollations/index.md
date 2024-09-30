@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Locale.getCollations
 ---
 
-{{JSRef}}
+
 
 The **`getCollations()`** method of {{jsxref("Intl.Locale")}} instances returns a list of one or more [collation types](https://www.unicode.org/reports/tr35/tr35-collation.html#CLDR_collation) for this locale.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-accessor-property
 browser-compat: javascript.builtins.TypedArray.@@species
 ---
 
-{{JSRef}}
+
 
 The **`TypedArray[Symbol.species]`** static accessor property returns the constructor used to construct return values from typed array methods.
 

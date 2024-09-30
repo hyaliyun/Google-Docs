@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Hash_outside_class
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "Unexpected '#' used outside of class body" occurs when a hash
 ("#") is encountered in an unexpected context, most notably
@@ -21,7 +21,7 @@ SyntaxError: Unexpected '#' used outside of class body.
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 
@@ -71,4 +71,4 @@ class ClassWithPrivateField {
 
 ## See also
 
-- {{jsxref("SyntaxError")}}
+- 

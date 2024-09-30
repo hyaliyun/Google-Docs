@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getSeconds
 ---
 
-{{JSRef}}
+
 
 The **`getSeconds()`** method of  instances returns the seconds for this date according to local time.
 

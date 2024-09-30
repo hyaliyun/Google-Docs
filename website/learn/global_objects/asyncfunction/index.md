@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.AsyncFunction
 ---
 
-{{JSRef}}
+
 
 The **`AsyncFunction`** object provides methods for [async functions](/Web/JavaScript/Reference/Statements/async_function). In JavaScript, every async function is actually an `AsyncFunction` object.
 

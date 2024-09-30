@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Array.Array
 ---
 
-{{JSRef}}
+
 
 The **`Array()`** constructor creates {{jsxref("Array")}} objects.
 

@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_reset
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`reset`** are rendered as buttons, with a default {{domxref("Element/click_event", "click")}} event handler that resets all inputs in the form to their initial values.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Symbol.search
 ---
 
-{{JSRef}}
+
 
 The **`Symbol.search`** static data property represents the [well-known symbol](/Web/JavaScript/Reference/Global_Objects/Symbol#well-known_symbols) `Symbol.search`. The {{jsxref("String.prototype.search()")}} method looks up this symbol on its first argument for the method that returns the index within a string that matches the current object.
 
@@ -17,7 +17,7 @@ For more information, see [`RegExp.prototype[Symbol.search]()`](/Web/JavaScript/
 
 The well-known symbol `Symbol.search`.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Examples
 

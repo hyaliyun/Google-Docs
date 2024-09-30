@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.String.fromCharCode
 ---
 
-{{JSRef}}
+
 
 The **`String.fromCharCode()`** static method returns a string created from the specified sequence of UTF-16 code units.
 

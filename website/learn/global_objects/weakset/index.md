@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.WeakSet
 ---
 
-{{JSRef}}
+
 
 A **`WeakSet`** is a collection of garbage-collectable values, including objects and [non-registered symbols](/Web/JavaScript/Reference/Global_Objects/Symbol#shared_symbols_in_the_global_symbol_registry). A value in the `WeakSet` may only occur once. It is unique in the `WeakSet`'s collection.
 

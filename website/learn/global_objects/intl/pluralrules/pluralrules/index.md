@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.PluralRules.PluralRules
 ---
 
-{{JSRef}}
+
 
 The **`Intl.PluralRules()`** constructor creates {{jsxref("Intl.PluralRules")}} objects.
 

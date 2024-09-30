@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.codePointAt
 ---
 
-{{JSRef}}
+
 
 The **`codePointAt()`** method of {{jsxref("String")}} values returns a non-negative integer that is the Unicode code point value of the character starting at the given index. Note that the index is still based on UTF-16 code units, not Unicode code points.
 

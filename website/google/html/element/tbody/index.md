@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.tbody
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<tbody>`** [HTML](/Web/HTML) element encapsulates a set of table rows ({{HTMLElement("tr")}} elements), indicating that they comprise the body of a table's (main) data.
 

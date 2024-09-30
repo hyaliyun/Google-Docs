@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.html
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<html>`** [HTML](/Web/HTML) element represents the root (top-level element) of an HTML document, so it is also referred to as the _root element_. All other elements must be descendants of this element. There can be only one `<html>` element in a document.
 

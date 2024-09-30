@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Bad_await
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "await is only valid in async functions, async generators and modules" occurs when an {{jsxref("Operators/await", "await")}} expression is used outside of [async functions](/Web/JavaScript/Reference/Statements/async_function) or [modules](/Web/JavaScript/Guide/Modules) or other async contexts.
 
@@ -18,7 +18,7 @@ SyntaxError: Unexpected identifier (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}.
+.
 
 ## What went wrong?
 

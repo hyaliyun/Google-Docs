@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.fromEntries
 ---
 
-{{JSRef}}
+
 
 The **`Object.fromEntries()`** static method transforms a list of key-value pairs into an object.
 

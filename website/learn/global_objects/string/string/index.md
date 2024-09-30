@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.String.String
 ---
 
-{{JSRef}}
+
 
 The **`String()`** constructor creates {{jsxref("String")}} objects. When called as a function, it returns primitive values of type String.
 

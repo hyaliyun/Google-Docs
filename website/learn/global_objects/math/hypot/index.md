@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.hypot
 ---
 
-{{JSRef}}
+
 
 The **`Math.hypot()`** static method returns the square root of the sum of squares of its arguments. That is,
 

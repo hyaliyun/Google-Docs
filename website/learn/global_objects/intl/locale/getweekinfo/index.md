@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Locale.getWeekInfo
 ---
 
-{{JSRef}}
+
 
 The **`getWeekInfo()`** method of {{jsxref("Intl.Locale")}} instances returns a `weekInfo` object with the properties `firstDay`, `weekend` and `minimalDays` for this locale.
 

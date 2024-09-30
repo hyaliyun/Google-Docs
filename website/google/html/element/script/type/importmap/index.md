@@ -5,7 +5,7 @@ page-type: html-attribute-value
 browser-compat: html.elements.script.type.importmap
 ---
 
-{{HTMLSidebar}}
+
 
 The **`importmap`** value of the [`type`](/Web/HTML/Element/script/type) attribute of the [`<script>` element](/Web/HTML/Element/script) indicates that the body of the element contains an import map.
 

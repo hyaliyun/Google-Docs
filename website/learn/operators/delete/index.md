@@ -64,7 +64,7 @@ It is important to consider the following scenarios:
 - If the property which you are trying to delete does not exist, `delete` will not have any effect and will return `true`.
 - `delete` only has an effect on own properties. If a property with the same name exists on the object's prototype chain, then after deletion, the object will use the property from the prototype chain.
 - Non-configurable properties cannot be removed. This includes properties of built-in objects like {{jsxref("Math")}}, {{jsxref("Array")}}, {{jsxref("Object")}} and properties that are created as non-configurable with methods like {{jsxref("Object.defineProperty()")}}.
-- Deleting variables, including function parameters, never works. `delete variable` will throw a {{jsxref("SyntaxError")}} in strict mode, and will have no effect in non-strict mode.
+- Deleting variables, including function parameters, never works. `delete variable` will throw a  in strict mode, and will have no effect in non-strict mode.
   - Any variable declared with {{jsxref("Statements/var", "var")}} cannot be deleted from the global scope or from a function's scope, because while they may be attached to the [global object](/Glossary/Global_object), they are not configurable.
   - Any variable declared with {{jsxref("Statements/let", "let")}} or {{jsxref("Statements/const", "const")}} cannot be deleted from the scope within which they were defined, because they are not attached to an object.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/in_operator_no_object
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "right-hand side of 'in' should be an object" occurs when the
 [`in` operator](/Web/JavaScript/Reference/Operators/in)

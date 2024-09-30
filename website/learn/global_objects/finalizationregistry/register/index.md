@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.FinalizationRegistry.register
 ---
 
-{{JSRef}}
+
 
 The **`register()`** method of {{jsxref("FinalizationRegistry")}} instances registers an value with this `FinalizationRegistry` so that if the value is garbage-collected, the registry's callback may get called.
 

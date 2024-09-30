@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Function
 ---
 
-{{JSRef}}
+
 
 The **`Function`** object provides methods for [functions](/Web/JavaScript/Reference/Functions). In JavaScript, every function is actually a `Function` object.
 

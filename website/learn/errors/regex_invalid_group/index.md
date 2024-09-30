@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Regex_invalid_group
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "invalid regexp group" occurs when the sequence `(?` does not start a valid group syntax. Recognized group syntaxes that start with `(?` include:
 
@@ -28,7 +28,7 @@ SyntaxError: Invalid regular expression: unrecognized character after (? (Safari
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.reduceRight
 ---
 
-{{JSRef}}
+
 
 The **`reduceRight()`** method of {{jsxref("Array")}} instances applies a function against an accumulator and each value of the array (from right-to-left) to reduce it to a single value.
 

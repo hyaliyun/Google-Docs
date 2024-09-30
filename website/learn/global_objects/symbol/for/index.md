@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Symbol.for
 ---
 
-{{JSRef}}
+
 
 The **`Symbol.for()`** static method searches for existing symbols
 in a runtime-wide symbol registry with the given key and returns it if found. Otherwise

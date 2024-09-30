@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesize
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "cannot use `??` unparenthesized within `||` and `&&` expressions" occurs when an [nullish coalescing operator](/Web/JavaScript/Reference/Operators/Nullish_coalescing) is used with a [logical OR](/Web/JavaScript/Reference/Operators/Logical_OR) or [logical AND](/Web/JavaScript/Reference/Operators/Logical_AND) in the same expression without parentheses.
 
@@ -18,7 +18,7 @@ SyntaxError: Unexpected token '??'. Coalescing and logical operators used togeth
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

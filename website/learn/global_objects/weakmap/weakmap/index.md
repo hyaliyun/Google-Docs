@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.WeakMap.WeakMap
 ---
 
-{{JSRef}}
+
 
 The **`WeakMap()`** constructor creates {{jsxref("WeakMap")}} objects.
 

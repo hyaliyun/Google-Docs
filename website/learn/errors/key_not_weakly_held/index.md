@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Key_not_weakly_held
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "WeakSet key (or WeakMap value) 'x' must be an object or an unregistered symbol" occurs when an value of invalid type is used as a key in a {{jsxref("WeakSet")}} or as a value in a {{jsxref("WeakMap")}}.
 

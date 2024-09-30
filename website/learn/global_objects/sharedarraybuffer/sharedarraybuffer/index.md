@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.SharedArrayBuffer.SharedArrayBuffer
 ---
 
-{{JSRef}}
+
 
 > [!NOTE]
 > The `SharedArrayBuffer` constructor may not always be globally available unless certain [security requirements](/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer#security_requirements) are met.

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Number.isSafeInteger
 ---
 
-{{JSRef}}
+
 
 The **`Number.isSafeInteger()`** static method determines whether the provided value is a number that is a _safe integer_.
 

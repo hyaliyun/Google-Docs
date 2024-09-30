@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Cant_define_property_object_not_extensible
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "can't define property "x": "obj" is not extensible" occurs
 when {{jsxref("Object.preventExtensions()")}} marked an object as no longer extensible,

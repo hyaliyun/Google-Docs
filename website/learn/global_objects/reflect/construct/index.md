@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.construct
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.construct()`** static method is like the {{jsxref("Operators/new", "new")}} operator, but as a function. It is equivalent to calling `new target(...args)`. It additionally allows to specify a different [`new.target`](/Web/JavaScript/Reference/Operators/new.target) value.
 

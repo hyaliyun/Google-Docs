@@ -7,7 +7,7 @@ status:
 browser-compat: javascript.builtins.RegExp.leftContext
 ---
 
-{{JSRef}} 
+ 
 
 > [!NOTE]
 > All `RegExp` static properties that expose the last match state globally are deprecated. See [deprecated RegExp features](/Web/JavaScript/Reference/Deprecated_and_obsolete_features#regexp) for more information.
@@ -20,7 +20,7 @@ Because `leftContext` is a static property of {{jsxref("RegExp")}}, you always u
 
 The value of `leftContext` updates whenever a `RegExp` (but not a `RegExp` subclass) instance makes a successful match. If no matches have been made, `leftContext` is an empty string. The set accessor of `leftContext` is `undefined`, so you cannot change this property directly.
 
-You cannot use the shorthand alias with the dot property accessor (``RegExp.$` ``), because `` ` `` is not a valid identifier part, so this causes a {{jsxref("SyntaxError")}}. Use the [bracket notation](/Web/JavaScript/Reference/Operators/Property_accessors) instead.
+You cannot use the shorthand alias with the dot property accessor (``RegExp.$` ``), because `` ` `` is not a valid identifier part, so this causes a . Use the [bracket notation](/Web/JavaScript/Reference/Operators/Property_accessors) instead.
 
 `` $` `` can also be used in the replacement string of {{jsxref("String.prototype.replace()")}}, but that's unrelated to the ``RegExp["$`"]`` legacy property.
 

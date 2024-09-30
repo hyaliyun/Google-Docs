@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Object.propertyIsEnumerable
 ---
 
-{{JSRef}}
+
 
 The **`propertyIsEnumerable()`** method of {{jsxref("Object")}} instances returns a boolean indicating whether the specified property is this object's [enumerable own](/Web/JavaScript/Enumerability_and_ownership_of_properties) property.
 

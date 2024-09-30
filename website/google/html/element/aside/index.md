@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.aside
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<aside>`** [HTML](/Web/HTML) element represents a portion of a document whose content is only indirectly related to the document's main content. Asides are frequently presented as sidebars or call-out boxes.
 

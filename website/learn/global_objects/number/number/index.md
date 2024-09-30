@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Number.Number
 ---
 
-{{JSRef}}
+
 
 The **`Number()`** constructor creates {{jsxref("Number")}} objects. When called as a function, it returns primitive values of type Number.
 

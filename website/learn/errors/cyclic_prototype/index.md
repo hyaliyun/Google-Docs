@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Cyclic_prototype
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "TypeError: can't set prototype: it would cause a prototype chain cycle" occurs when an object's prototype is set to an object such that the [prototype chain](/Learn/JavaScript/Objects/Object_prototypes#the_prototype_chain) becomes circular (`a` and `b` both have each other in their prototype chains).
 

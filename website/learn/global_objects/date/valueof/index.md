@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.valueOf
 ---
 
-{{JSRef}}
+
 
 The **`valueOf()`** method of  instances returns the number of milliseconds for this date since the [epoch](/Web/JavaScript/Reference/Global_Objects/Date#the_epoch_timestamps_and_invalid_date), which is defined as the midnight at the beginning of January 1, 1970, UTC.
 

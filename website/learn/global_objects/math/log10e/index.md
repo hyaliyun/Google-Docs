@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Math.LOG10E
 ---
 
-{{JSRef}}
+
 
 The **`Math.LOG10E`** static data property represents the base 10 logarithm of [e](/Web/JavaScript/Reference/Global_Objects/Math/E), approximately 0.434.
 
@@ -19,7 +19,7 @@ The **`Math.LOG10E`** static data property represents the base 10 logarithm of [
 </math>
 <!-- prettier-ignore-end -->
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

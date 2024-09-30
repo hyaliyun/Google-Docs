@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.source
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<source>`** [HTML](/Web/HTML) element specifies one or more media resources for the {{HTMLElement("picture")}}, {{HTMLElement("audio")}}, and {{HTMLElement("video")}} elements. It is a {{glossary("void element")}}, which means that it has no content and does not require a closing tag. This element is commonly used to offer the same media content in multiple file formats in order to provide compatibility with a broad range of browsers given their differing support for [image file formats](/Web/Media/Formats/Image_types) and [media file formats](/Web/Media/Formats).
 

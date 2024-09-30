@@ -5,7 +5,7 @@ page-type: javascript-function
 browser-compat: javascript.builtins.eval
 ---
 
-{{jsSidebar("Objects")}}
+
 
 > [!WARNING]
 > Executing JavaScript from a string is an enormous security risk. It is far too easy for a bad actor to run arbitrary code when you use `eval()`. See [Never use direct eval()!](#never_use_direct_eval!), below.
@@ -31,7 +31,7 @@ The completion value of evaluating the given code. If the completion value is em
 
 ### Exceptions
 
-Throws any exception that occurs during evaluation of the code, including {{jsxref("SyntaxError")}} if `script` fails to be parsed as a script.
+Throws any exception that occurs during evaluation of the code, including  if `script` fails to be parsed as a script.
 
 ## Description
 
@@ -39,7 +39,7 @@ Throws any exception that occurs during evaluation of the code, including {{jsxr
 
 The argument of the `eval()` function is a string. It will evaluate the source string as a script body, which means both statements and expressions are allowed. It returns the completion value of the code. For expressions, it's the value the expression evaluates to. Many statements and declarations have completion values as well, but the result may be surprising (for example, the completion value of an assignment is the assigned value, but the completion value of [`let`](/Web/JavaScript/Reference/Statements/let) is undefined), so it's recommended to not rely on statements' completion values.
 
-In strict mode, declaring a variable named `eval` or re-assigning `eval` is a {{jsxref("SyntaxError")}}.
+In strict mode, declaring a variable named `eval` or re-assigning `eval` is a .
 
 ```js-nolint example-bad
 "use strict";

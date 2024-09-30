@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.TypedArray
 ---
 
-{{JSRef}}
+
 
 A **_TypedArray_** object describes an array-like view of an
 underlying [binary data buffer](/Web/JavaScript/Reference/Global_Objects/ArrayBuffer).

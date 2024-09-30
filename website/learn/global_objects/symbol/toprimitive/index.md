@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Symbol.toPrimitive
 ---
 
-{{JSRef}}
+
 
 The **`Symbol.toPrimitive`** static data property represents the [well-known symbol](/Web/JavaScript/Reference/Global_Objects/Symbol#well-known_symbols) `Symbol.toPrimitive`. All [type coercion](/Web/JavaScript/Data_structures#type_coercion) algorithms look up this symbol on objects for the method that accepts a preferred type and returns a primitive representation of the object, before falling back to using the object's `valueOf()` and `toString()` methods.
 
@@ -15,7 +15,7 @@ The **`Symbol.toPrimitive`** static data property represents the [well-known sym
 
 The well-known symbol `Symbol.toPrimitive`.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

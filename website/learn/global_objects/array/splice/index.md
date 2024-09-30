@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.splice
 ---
 
-{{JSRef}}
+
 
 The **`splice()`** method of {{jsxref("Array")}} instances changes the contents of an array by
 removing or replacing existing elements and/or adding new elements [in place](https://en.wikipedia.org/wiki/In-place_algorithm).

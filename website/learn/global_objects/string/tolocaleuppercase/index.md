@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.toLocaleUpperCase
 ---
 
-{{JSRef}}
+
 
 The **`toLocaleUpperCase()`** method of {{jsxref("String")}} values returns this string converted to upper case, according to any locale-specific case mappings.
 

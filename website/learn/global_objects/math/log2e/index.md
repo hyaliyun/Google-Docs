@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Math.LOG2E
 ---
 
-{{JSRef}}
+
 
 The **`Math.LOG2E`** static data property represents the base 2 logarithm of [e](/Web/JavaScript/Reference/Global_Objects/Math/E), approximately 1.442.
 
@@ -19,7 +19,7 @@ The **`Math.LOG2E`** static data property represents the base 2 logarithm of [e]
 </math>
 <!-- prettier-ignore-end -->
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

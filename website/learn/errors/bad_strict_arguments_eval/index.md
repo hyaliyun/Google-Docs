@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Bad_strict_arguments_eval
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript [strict mode](/Web/JavaScript/Reference/Strict_mode)-only exception "'arguments' can't be defined or assigned to in strict mode code" or "'eval' can't be defined or assigned to in strict mode code" occurs when attempting to create a {{Glossary("binding")}} called `arguments` or `eval`, or assign to such a name.
 
@@ -22,7 +22,7 @@ SyntaxError: 'arguments' is not a valid function name in strict mode. (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

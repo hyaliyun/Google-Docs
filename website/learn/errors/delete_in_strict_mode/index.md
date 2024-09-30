@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Delete_in_strict_mode
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript [strict mode](/Web/JavaScript/Reference/Strict_mode)-only exception "applying the 'delete' operator to an unqualified name is deprecated" occurs when variables are attempted to be deleted using the [`delete`](/Web/JavaScript/Reference/Operators/delete) operator.
 
@@ -18,7 +18,7 @@ SyntaxError: Cannot delete unqualified property 'a' in strict mode. (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}} in [strict mode](/Web/JavaScript/Reference/Strict_mode) only.
+ in [strict mode](/Web/JavaScript/Reference/Strict_mode) only.
 
 ## What went wrong?
 

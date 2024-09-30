@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.find
 ---
 
-{{JSRef}}
+
 
 The **`find()`** method of {{jsxref("TypedArray")}} instances returns the first element in the provided typed array that satisfies the provided testing function. If no values satisfy the testing function, {{jsxref("undefined")}} is returned. This method has the same algorithm as {{jsxref("Array.prototype.find()")}}.
 

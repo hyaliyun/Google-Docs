@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Unparenthesized_unary_expr_lhs_exponentiat
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "unparenthesized unary expression can't appear on the left-hand side of '\*\*'" occurs when a unary operator (one of `typeof`, `void`, `delete`, `await`, `!`, `~`, `+`, `-`) is used on the left operand of the [exponentiation operator](/Web/JavaScript/Reference/Operators/Exponentiation) without parentheses.
 
@@ -18,7 +18,7 @@ SyntaxError: Unexpected token '**'. Ambiguous unary expression in the left hand 
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.select
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<select>`** [HTML](/Web/HTML) element represents a control that provides a menu of options.
 

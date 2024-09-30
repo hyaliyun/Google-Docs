@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Number.valueOf
 ---
 
-{{JSRef}}
+
 
 The **`valueOf()`** method of {{jsxref("Number")}} values returns the value of this number.
 

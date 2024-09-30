@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/No_non-null_object
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "is not a non-null object" occurs when an object is expected
 somewhere and wasn't provided. [`null`](/Web/JavaScript/Reference/Operators/null) is not an object and won't work.

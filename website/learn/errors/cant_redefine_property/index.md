@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Cant_redefine_property
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "can't redefine non-configurable property" occurs when it was
 attempted to redefine a property, but that property is [non-configurable](/Web/JavaScript/Data_structures#properties).

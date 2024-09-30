@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Map.groupBy
 ---
 
-{{JSRef}}
+
 
 > [!NOTE]
 > In some versions of some browsers, this method was implemented as the method `Array.prototype.groupToMap()`. Due to web compatibility issues, it is now implemented as a static method. Check the [browser compatibility table](#browser_compatibility) for details.

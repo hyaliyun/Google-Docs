@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.ListFormat.format
 ---
 
-{{JSRef}}
+
 
 The **`format()`** method of {{jsxref("Intl.ListFormat")}} instances returns a string with a
 language-specific representation of the list.

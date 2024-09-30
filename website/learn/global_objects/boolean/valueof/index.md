@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Boolean.valueOf
 ---
 
-{{JSRef}}
+
 
 The **`valueOf()`** method of {{jsxref("Boolean")}} values returns the primitive value of a
 {{jsxref("Boolean")}} object.

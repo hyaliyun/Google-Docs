@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.cos
 ---
 
-{{JSRef}}
+
 
 The **`Math.cos()`** static method returns the cosine of a number in radians.
 

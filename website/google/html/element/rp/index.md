@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.rp
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<rp>`** [HTML](/Web/HTML) element is used to provide fall-back parentheses for browsers that do not support display of ruby annotations using the {{HTMLElement("ruby") }} element. One `<rp>` element should enclose each of the opening and closing parentheses that wrap the {{HTMLElement("rt")}} element that contains the annotation's text.
 

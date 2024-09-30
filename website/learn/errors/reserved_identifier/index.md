@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Reserved_identifier
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "_variable_ is a reserved identifier" occurs
 when [reserved keywords](/Web/JavaScript/Reference/Lexical_grammar#keywords) are used as identifiers.
@@ -19,7 +19,7 @@ SyntaxError: Cannot use the reserved word 'implements' as a variable name. (Safa
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

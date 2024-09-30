@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Iterator.forEach
 ---
 
-{{JSRef}}
+
 
 The **`forEach()`** method of {{jsxref("Iterator")}} instances is similar to {{jsxref("Array.prototype.forEach()")}}: it executes a provided function once for each element produced by the iterator.
 

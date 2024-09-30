@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getUTCDay
 ---
 
-{{JSRef}}
+
 
 The **`getUTCDay()`** method of  instances returns the day of the week for this date according to universal time, where 0 represents Sunday.
 

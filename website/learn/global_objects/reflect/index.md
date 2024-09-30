@@ -5,7 +5,7 @@ page-type: javascript-namespace
 browser-compat: javascript.builtins.Reflect
 ---
 
-{{JSRef}}
+
 
 The **`Reflect`** namespace object contains static methods for invoking interceptable JavaScript object internal methods. The methods are the same as those of [proxy handlers](/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy).
 

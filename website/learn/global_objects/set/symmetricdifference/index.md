@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.symmetricDifference
 ---
 
-{{JSRef}}
+
 
 The **`symmetricDifference()`** method of {{jsxref("Set")}} instances takes a set and returns a new set containing elements which are in either this set or the given set, but not in both.
 

@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.big
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<big>`** [HTML](/Web/HTML) deprecated element renders the enclosed text at a font size one level larger than the surrounding text (`medium` becomes `large`, for example). The size is capped at the browser's maximum permitted font size.
 

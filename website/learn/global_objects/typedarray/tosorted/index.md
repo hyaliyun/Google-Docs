@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.toSorted
 ---
 
-{{JSRef}}
+
 
 The **`toSorted()`** method of {{jsxref("TypedArray")}} instances is the [copying](/Web/JavaScript/Reference/Global_Objects/Array#copying_methods_and_mutating_methods) version of the {{jsxref("TypedArray/sort", "sort()")}} method. It returns a new typed array with the elements sorted in ascending order. This method has the same algorithm as {{jsxref("Array.prototype.toSorted()")}}, except that it sorts the values numerically instead of as strings by default.
 

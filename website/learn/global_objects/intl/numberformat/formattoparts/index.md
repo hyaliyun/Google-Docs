@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.NumberFormat.formatToParts
 ---
 
-{{JSRef}}
+
 
 The **`formatToParts()`** method of {{jsxref("Intl.NumberFormat")}} instances allows locale-aware formatting of strings produced by this `Intl.NumberFormat` object.
 

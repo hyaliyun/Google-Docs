@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_datetime-local
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`datetime-local`** create input controls that let the user easily enter both a date and a time, including the year, month, and day as well as the time in hours and minutes.
 

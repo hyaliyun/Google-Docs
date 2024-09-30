@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Segmenter.resolvedOptions
 ---
 
-{{JSRef}}
+
 
 The **`resolvedOptions()`** method of {{jsxref("Intl.Segmenter")}} instances returns a new object with properties reflecting the locale and granularity options computed during the initialization of this `Intl.Segmenter` object.
 

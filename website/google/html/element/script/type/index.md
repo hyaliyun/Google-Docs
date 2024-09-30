@@ -5,7 +5,7 @@ page-type: html-attribute
 browser-compat: html.elements.script.type
 ---
 
-{{HTMLSidebar}}
+
 
 The **`type`** attribute of the [`<script>`](/Web/HTML/Element/script) element indicates the _type_ of script represented by the element: a classic script, an import map, a JavaScript module, speculation rules, or a data block.
 
@@ -26,7 +26,7 @@ The value of this attribute indicates the type of data represented by the script
     The `charset` and `defer` attributes have no effect.
     For information on using `module`, see our [JavaScript modules](/Web/JavaScript/Guide/Modules) guide.
     Unlike classic scripts, module scripts require the use of the CORS protocol for cross-origin fetching.
-- [`speculationrules`](/Web/HTML/Element/script/type/speculationrules) {{experimental_inline}}
+- [`speculationrules`](/Web/HTML/Element/script/type/speculationrules) 
   - : This value indicates that the body of the element contains speculation rules.
     Speculation rules take the form of a JSON object that determine what resources should be prefetched or prerendered by the browser. This is part of the {{domxref("Speculation Rules API", "", "", "nocode")}}.
 - **Any other value**

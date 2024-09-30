@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.AsyncGenerator.next
 ---
 
-{{JSRef}}
+
 
 The **`next()`** method of {{jsxref("AsyncGenerator")}} instances returns the next value in the sequence.
 

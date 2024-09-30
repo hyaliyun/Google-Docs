@@ -4,7 +4,7 @@ slug: Web/JavaScript/Guide/Regular_expressions/Quantifiers
 page-type: guide
 ---
 
-{{jsSidebar("JavaScript Guide")}}
+
 
 Quantifiers indicate numbers of characters or expressions to match.
 

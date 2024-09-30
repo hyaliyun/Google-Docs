@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getHours
 ---
 
-{{JSRef}}
+
 
 The **`getHours()`** method of  instances returns the hours for this date according to local time.
 

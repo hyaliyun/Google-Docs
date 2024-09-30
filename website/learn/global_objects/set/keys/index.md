@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.keys
 ---
 
-{{JSRef}}
+
 
 The **`keys()`** method of {{jsxref("Set")}} instances is an alias for the [`values()`](/Web/JavaScript/Reference/Global_Objects/Set/values) method.
 

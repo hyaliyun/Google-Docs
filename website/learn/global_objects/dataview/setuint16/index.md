@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.DataView.setUint16
 ---
 
-{{JSRef}}
+
 
 The **`setUint16()`** method of {{jsxref("DataView")}} instances takes a number and stores it as a 16-bit unsigned integer in the 2 bytes starting at the specified byte offset of this `DataView`. There is no alignment constraint; multi-byte values may be stored at any offset within bounds.
 

@@ -5,9 +5,9 @@ page-type: javascript-instance-data-property
 browser-compat: javascript.builtins.Error.name
 ---
 
-{{JSRef}}
 
-The **`name`** data property of `Error.prototype` is shared by all {{jsxref("Error")}} instances. It represents the name for the type of error. For `Error.prototype.name`, the initial value is `"Error"`. Subclasses like {{jsxref("TypeError")}} and {{jsxref("SyntaxError")}} provide their own `name` properties.
+
+The **`name`** data property of `Error.prototype` is shared by all {{jsxref("Error")}} instances. It represents the name for the type of error. For `Error.prototype.name`, the initial value is `"Error"`. Subclasses like {{jsxref("TypeError")}} and  provide their own `name` properties.
 
 ## Value
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.setMilliseconds
 ---
 
-{{JSRef}}
+
 
 The **`setMilliseconds()`** method of  instances changes the milliseconds for this date according to local time.
 

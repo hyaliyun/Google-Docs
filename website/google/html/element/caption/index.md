@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.caption
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<caption>`** [HTML](/Web/HTML) element specifies the caption (or title) of a table, providing the table an {{glossary("accessible description")}}.
 

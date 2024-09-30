@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Missing_parenthesis_after_condition
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "missing ) after condition" occurs when there is an error with
 how an
@@ -20,7 +20,7 @@ SyntaxError: Unexpected token '{'. Expected ')' to end an 'if' condition. (Safar
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

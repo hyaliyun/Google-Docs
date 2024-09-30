@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.values
 ---
 
-{{JSRef}}
+
 
 The **`values()`** method of {{jsxref("TypedArray")}} instances returns a new _[array iterator](/Web/JavaScript/Reference/Global_Objects/Iterator)_ object that iterates the value of each item in the typed array. This method has the same algorithm as {{jsxref("Array.prototype.values()")}}.
 

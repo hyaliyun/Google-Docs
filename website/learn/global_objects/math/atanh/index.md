@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.atanh
 ---
 
-{{JSRef}}
+
 
 The **`Math.atanh()`** static method returns the inverse hyperbolic tangent of a number. That is,
 

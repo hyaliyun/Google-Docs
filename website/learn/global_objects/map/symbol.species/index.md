@@ -5,7 +5,7 @@ page-type: javascript-static-accessor-property
 browser-compat: javascript.builtins.Map.@@species
 ---
 
-{{JSRef}}
+
 
 The **`Map[Symbol.species]`** static accessor property is an unused accessor property specifying how to copy `Map` objects.
 

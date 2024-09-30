@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Promise.reject
 ---
 
-{{JSRef}}
+
 
 The **`Promise.reject()`** static method returns a `Promise` object that is rejected with a given reason.
 

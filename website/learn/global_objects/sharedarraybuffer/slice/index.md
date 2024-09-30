@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.SharedArrayBuffer.slice
 ---
 
-{{JSRef}}
+
 
 The **`slice()`** method of {{jsxref("SharedArrayBuffer")}} instances returns a new `SharedArrayBuffer` whose contents are a copy of this `SharedArrayBuffer`'s bytes from `start`, inclusive, up to `end`, exclusive. If either `start` or `end` is negative, it refers to an index from the end of the array, as opposed to from the beginning.
 

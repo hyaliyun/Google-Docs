@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.img
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<img>`** [HTML](/Web/HTML) element embeds an image into the document.
 
@@ -75,7 +75,7 @@ This element includes the [global attributes](/Web/HTML/Global_attributes).
 
     This attribute is also used when copying and pasting the image to text, or saving a linked image to a bookmark.
 
-- `attributionsrc` {{experimental_inline}}
+- `attributionsrc` 
 
   - : specifies that you want the browser to send an {{httpheader("Attribution-Reporting-Eligible")}} header along with the image request.
 

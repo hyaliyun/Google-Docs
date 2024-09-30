@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Intl.Collator
 ---
 
-{{JSRef}}
+
 
 The **`Intl.Collator`** object enables language-sensitive string comparison.
 

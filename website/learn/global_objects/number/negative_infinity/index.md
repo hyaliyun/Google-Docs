@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Number.NEGATIVE_INFINITY
 ---
 
-{{JSRef}}
+
 
 The **`Number.NEGATIVE_INFINITY`** static data property represents the negative Infinity value.
 
@@ -15,7 +15,7 @@ The **`Number.NEGATIVE_INFINITY`** static data property represents the negative 
 
 The same as the negative value of the global {{jsxref("Infinity")}} property.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

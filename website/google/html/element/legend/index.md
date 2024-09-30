@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.legend
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<legend>`** [HTML](/Web/HTML) element represents a caption for the content of its parent {{HTMLElement("fieldset")}}.
 

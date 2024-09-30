@@ -5,7 +5,7 @@ page-type: javascript-statement
 browser-compat: javascript.statements.const
 ---
 
-{{jsSidebar("Statements")}}
+
 
 The **`const`** declaration declares block-scoped local variables. The value of a constant can't be changed through reassignment using the [assignment operator](/Web/JavaScript/Reference/Operators/Assignment), but if a constant is an [object](/Web/JavaScript/Data_structures#objects), its properties can be added, updated, or removed.
 

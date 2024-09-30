@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.figcaption
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<figcaption>`** [HTML](/Web/HTML) element represents a caption or legend describing the rest of the contents of its parent {{HTMLElement("figure")}} element, providing the `<figure>` an {{glossary("accessible description")}}.
 

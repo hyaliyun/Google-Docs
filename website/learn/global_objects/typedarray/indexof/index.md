@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.indexOf
 ---
 
-{{JSRef}}
+
 
 The **`indexOf()`** method of {{jsxref("TypedArray")}} instances returns the first index at which a given element can be found in the typed array, or -1 if it is not present. This method has the same algorithm as {{jsxref("Array.prototype.indexOf()")}}.
 

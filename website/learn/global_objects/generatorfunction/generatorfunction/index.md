@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.GeneratorFunction.GeneratorFunction
 ---
 
-{{JSRef}}
+
 
 The **`GeneratorFunction()`** constructor creates {{jsxref("GeneratorFunction")}} objects.
 

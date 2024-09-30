@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.padStart
 ---
 
-{{JSRef}}
+
 
 The **`padStart()`** method of {{jsxref("String")}} values pads this string with another string (multiple times, if needed) until the resulting
 string reaches the given length. The padding is applied from the start of this string.

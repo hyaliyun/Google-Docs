@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_number
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`number`** are used to let the user enter a number. They include built-in validation to reject non-numerical entries.
 

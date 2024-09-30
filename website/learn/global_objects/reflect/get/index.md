@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.get
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.get()`** static method is like the [property accessor](/Web/JavaScript/Reference/Operators/Property_accessors) syntax, but as a function.
 

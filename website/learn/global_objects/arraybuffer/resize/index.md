@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.ArrayBuffer.resize
 ---
 
-{{JSRef}}
+
 
 The **`resize()`** method of {{jsxref("ArrayBuffer")}} instances resizes the `ArrayBuffer` to the specified size, in bytes.
 

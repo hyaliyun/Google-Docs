@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.setUTCDate
 ---
 
-{{JSRef}}
+
 
 The **`setUTCDate()`** method of  instances changes the day of the month for this date according to universal time.
 

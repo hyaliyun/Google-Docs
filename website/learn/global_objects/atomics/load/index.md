@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Atomics.load
 ---
 
-{{JSRef}}
+
 
 The **`Atomics.load()`** static
 method returns a value at a given position in the array.

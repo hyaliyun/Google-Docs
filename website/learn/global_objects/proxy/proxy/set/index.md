@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Proxy.handler.set
 ---
 
-{{JSRef}}
+
 
 The **`handler.set()`** method is a trap for the `[[Set]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods), which is used by operations such as using [property accessors](/Web/JavaScript/Reference/Operators/Property_accessors) to set a property's value.
 

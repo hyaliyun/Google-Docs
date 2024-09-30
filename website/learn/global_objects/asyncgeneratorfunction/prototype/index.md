@@ -7,7 +7,7 @@ spec-urls:
   - https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-asyncgeneratorfunction-instances-prototype
 ---
 
-{{JSRef}}
+
 
 The **`prototype`** property of `AsyncGeneratorFunction.prototype` is shared by all async generator functions. Its value is [`AsyncGenerator.prototype`](/Web/JavaScript/Reference/Global_Objects/AsyncGenerator). Each async generator function created with the `async function*` syntax or the `AsyncGeneratorFunction()` constructor also has its own `prototype` property, whose prototype is `AsyncGeneratorFunction.prototype.prototype`. When the async generator function is called, its `prototype` property becomes the prototype of the returned async generator object.
 

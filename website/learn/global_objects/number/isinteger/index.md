@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Number.isInteger
 ---
 
-{{JSRef}}
+
 
 The **`Number.isInteger()`** static method determines whether the passed value is an integer.
 

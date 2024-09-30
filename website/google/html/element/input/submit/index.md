@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_submit
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`submit`** are rendered as buttons. When the {{domxref("Element/click_event", "click")}} event occurs (typically because the user clicked the button), the {{Glossary("user agent")}} attempts to submit the form to the server.
 

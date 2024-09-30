@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_hidden
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`hidden`** let web developers include data that cannot be seen or modified by users when a form is submitted. For example, the ID of the content that is currently being ordered or edited, or a unique security token. Hidden inputs are completely invisible in the rendered page, and there is no way to make it visible in the page's content.
 

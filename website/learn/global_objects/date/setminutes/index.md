@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.setMinutes
 ---
 
-{{JSRef}}
+
 
 The **`setMinutes()`** method of  instances changes the minutes for this date according to local time.
 

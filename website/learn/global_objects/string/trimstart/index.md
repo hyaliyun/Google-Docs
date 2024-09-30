@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.trimStart
 ---
 
-{{JSRef}}
+
 
 The **`trimStart()`** method of {{jsxref("String")}} values removes whitespace from the beginning of this string and returns a new string, without modifying the original string. `trimLeft()` is an alias of this method.
 

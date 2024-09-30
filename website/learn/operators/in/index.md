@@ -71,7 +71,7 @@ class C {
 
 It also generally avoids the need for dealing with error handling just to access a private property that may be nonexistent.
 
-However, the `in` operator still requires the private property to be declared beforehand in the enclosing class — otherwise, it would throw a {{jsxref("SyntaxError")}} ("Private field '#x' must be declared in an enclosing class"), the same one as when you try to access an undeclared private property.
+However, the `in` operator still requires the private property to be declared beforehand in the enclosing class — otherwise, it would throw a  ("Private field '#x' must be declared in an enclosing class"), the same one as when you try to access an undeclared private property.
 
 ```js-nolint example-bad
 class C {

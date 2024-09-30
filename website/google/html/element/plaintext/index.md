@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.plaintext
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<plaintext>`** [HTML](/Web/HTML) element renders everything following the start tag as raw text, ignoring any following HTML. There is no closing tag, since everything after it is considered raw text.
 

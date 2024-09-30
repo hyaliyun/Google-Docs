@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.union
 ---
 
-{{JSRef}}
+
 
 The **`union()`** method of {{jsxref("Set")}} instances takes a set and returns a new set containing elements which are in either or both of this set and the given set.
 

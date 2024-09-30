@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Getter_only
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript [strict mode](/Web/JavaScript/Reference/Strict_mode)-only exception "setting getter-only property" occurs when there is an attempt to set a new value to a property for which only a [getter](/Web/JavaScript/Reference/Functions/get) is specified, or when setting a [private property](/Web/JavaScript/Reference/Classes/Private_properties) that similarly only has a getter defined.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Unexpected_token
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exceptions "unexpected token" occur when the parser does not see a token it recognizes at the given position, so it cannot make sense of the structure of the program. This might be a simple typo.
 
@@ -29,7 +29,7 @@ SyntaxError: expected closing parenthesis, got "x" (Firefox)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 
@@ -92,4 +92,4 @@ function round(n, upperBound, lowerBound) {
 
 ## See also
 
-- {{jsxref("SyntaxError")}}
+- 

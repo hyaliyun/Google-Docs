@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.NumberFormat.NumberFormat
 ---
 
-{{JSRef}}
+
 
 The **`Intl.NumberFormat()`** constructor creates {{jsxref("Intl.NumberFormat")}} objects.
 

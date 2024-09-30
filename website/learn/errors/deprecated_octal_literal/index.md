@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Deprecated_octal_literal
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript [strict mode](/Web/JavaScript/Reference/Strict_mode)-only exception "0-prefixed octal literals are deprecated; use the "0o" prefix instead" occurs when deprecated octal literals (`0` followed by digits) are used.
 
@@ -20,7 +20,7 @@ SyntaxError: Decimal integer literals with a leading zero are forbidden in stric
 
 ## Error type
 
-{{jsxref("SyntaxError")}} in [strict mode](/Web/JavaScript/Reference/Strict_mode) only.
+ in [strict mode](/Web/JavaScript/Reference/Strict_mode) only.
 
 ## What went wrong?
 

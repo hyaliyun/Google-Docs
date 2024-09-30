@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Called_on_incompatible_type
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "called on incompatible target (or object)" occurs when a
 function (on a given object), is called with a `this` not corresponding to

@@ -13,7 +13,7 @@ browser-compat:
   - html.elements.textarea.disabled
 ---
 
-{{HTMLSidebar}}
+
 
 The Boolean **`disabled`** attribute, when present, makes the element not mutable, focusable, or even submitted with the form. The user can neither edit nor focus on the control, nor its form control descendants.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.keys
 ---
 
-{{JSRef}}
+
 
 The **`keys()`** method of {{jsxref("TypedArray")}} instances returns a new _[array iterator](/Web/JavaScript/Reference/Global_Objects/Iterator)_ object that contains the keys for each index in the typed array. This method has the same algorithm as {{jsxref("Array.prototype.keys()")}}.
 

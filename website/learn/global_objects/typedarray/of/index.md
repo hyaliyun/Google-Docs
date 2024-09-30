@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.TypedArray.of
 ---
 
-{{JSRef}}
+
 
 The **`TypedArray.of()`** static method creates a new
 [typed array](/Web/JavaScript/Reference/Global_Objects/TypedArray#typedarray_objects) from a variable number of arguments. This method is nearly the same as

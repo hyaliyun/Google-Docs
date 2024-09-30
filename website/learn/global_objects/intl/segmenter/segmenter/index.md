@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.Segmenter.Segmenter
 ---
 
-{{JSRef}}
+
 
 The **`Intl.Segmenter()`** constructor creates {{jsxref("Intl.Segmenter")}} objects.
 

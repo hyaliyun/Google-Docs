@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Cant_delete
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "property is non-configurable and can't be deleted" occurs
 when it was attempted to delete a property, but that property is [non-configurable](/Web/JavaScript/Data_structures#properties).

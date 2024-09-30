@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.expm1
 ---
 
-{{JSRef}}
+
 
 The **`Math.expm1()`** static method returns [e](/Web/JavaScript/Reference/Global_Objects/Math/E) raised to the power of a number, subtracted by 1. That is
 

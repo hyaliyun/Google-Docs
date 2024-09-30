@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.RegExp.dotAll
 ---
 
-{{JSRef}}
+
 
 The **`dotAll`** accessor property of {{jsxref("RegExp")}} instances returns whether or not the `s` flag is used with this regular expression.
 

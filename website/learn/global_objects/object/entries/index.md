@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.entries
 ---
 
-{{JSRef}}
+
 
 The **`Object.entries()`** static method returns an array of a given object's own enumerable string-keyed property key-value pairs.
 

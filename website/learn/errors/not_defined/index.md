@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Not_defined
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "_variable_ is not defined" occurs when there is a
 non-existent variable referenced somewhere.

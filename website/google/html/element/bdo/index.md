@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.bdo
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<bdo>`** [HTML](/Web/HTML) element overrides the current directionality of text, so that the text within is rendered in a different direction.
 

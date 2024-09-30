@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Iterator.Iterator
 ---
 
-{{JSRef}}
+
 
 The **`Iterator()`** constructor is intended to be used as the [superclass](/Web/JavaScript/Reference/Classes/extends) of other classes that create iterators. It throws an error when constructed by itself.
 

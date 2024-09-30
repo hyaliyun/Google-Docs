@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Deprecated_octal_escape_sequence
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "octal escape sequences can't be used in untagged template literals or in strict mode code" occurs when octal escape sequences are used in [strict mode](/Web/JavaScript/Reference/Strict_mode) string literals or untagged template literals.
 
@@ -22,7 +22,7 @@ SyntaxError: The only valid numeric escape in strict mode is '\0' (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

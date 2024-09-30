@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.Map.size
 ---
 
-{{JSRef}}
+
 
 The **`size`** accessor property of {{jsxref("Map")}} instances returns the number of elements in this map.
 

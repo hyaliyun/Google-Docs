@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.forEach
 ---
 
-{{JSRef}}
+
 
 The **`forEach()`** method of {{jsxref("Array")}} instances executes a provided function once
 for each array element.

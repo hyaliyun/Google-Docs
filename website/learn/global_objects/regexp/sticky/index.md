@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.RegExp.sticky
 ---
 
-{{JSRef}}
+
 
 The **`sticky`** accessor property of {{jsxref("RegExp")}} instances returns whether or not the `y` flag is used with this regular expression.
 

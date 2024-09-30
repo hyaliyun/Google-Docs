@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getUTCDate
 ---
 
-{{JSRef}}
+
 
 The **`getUTCDate()`** method of  instances returns the day of the month for this date according to universal time.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Illegal_character
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "illegal character" occurs when the [lexer](/Web/JavaScript/Reference/Lexical_grammar) reads a character that's not part of a string literal, and the character cannot constitute a valid token in the language.
 
@@ -18,7 +18,7 @@ SyntaxError: Invalid character '\u201c' (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

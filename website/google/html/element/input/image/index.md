@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_image
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`image`** are used to create graphical submit buttons, i.e. submit buttons that take the form of an image rather than text.
 

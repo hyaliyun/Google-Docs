@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.td
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<td>`** [HTML](/Web/HTML) element defines a cell of a table that contains data and may be used as a child of the {{HTMLElement("tr")}} element.
 

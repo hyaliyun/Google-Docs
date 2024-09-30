@@ -5,7 +5,7 @@ page-type: javascript-global-property
 browser-compat: javascript.builtins.globalThis
 ---
 
-{{jsSidebar("Objects")}}
+
 
 The **`globalThis`** global property contains the [global `this`](/Web/JavaScript/Reference/Operators/this#global_context) value, which is usually akin to the [global object](/Glossary/Global_object).
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.setMonth
 ---
 
-{{JSRef}}
+
 
 The **`setMonth()`** method of  instances changes the month and/or day of the month for this date according to local time.
 

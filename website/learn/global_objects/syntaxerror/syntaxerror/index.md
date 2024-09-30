@@ -5,9 +5,9 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.SyntaxError.SyntaxError
 ---
 
-{{JSRef}}
 
-The **`SyntaxError()`** constructor creates {{jsxref("SyntaxError")}} objects.
+
+The **`SyntaxError()`** constructor creates  objects.
 
 ## Syntax
 

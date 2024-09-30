@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Number.toLocaleString
 ---
 
-{{JSRef}}
+
 
 The **`toLocaleString()`** method of {{jsxref("Number")}} values returns a string with a language-sensitive representation of this number. In implementations with [`Intl.NumberFormat` API](/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat) support, this method simply calls `Intl.NumberFormat`.
 

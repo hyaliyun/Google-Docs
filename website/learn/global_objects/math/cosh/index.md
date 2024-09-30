@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.cosh
 ---
 
-{{JSRef}}
+
 
 The **`Math.cosh()`** static method returns the hyperbolic cosine of a number. That is,
 

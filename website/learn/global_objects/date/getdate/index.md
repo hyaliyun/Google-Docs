@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getDate
 ---
 
-{{JSRef}}
+
 
 The **`getDate()`** method of  instances returns the day of the month for this date according to local time.
 

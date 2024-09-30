@@ -5,7 +5,7 @@ page-type: javascript-statement
 browser-compat: javascript.statements.let
 ---
 
-{{jsSidebar("Statements")}}
+
 
 The **`let`** declaration declares re-assignable, block-scoped local variables, optionally initializing each to a value.
 
@@ -255,7 +255,7 @@ console.log(a); // 11
 console.log(b); // 2
 ```
 
-However, this combination of `var` and `let` declarations below is a {{jsxref("SyntaxError")}} because `var` not being block-scoped, leading to them being in the same scope. This results in an implicit re-declaration of the variable.
+However, this combination of `var` and `let` declarations below is a  because `var` not being block-scoped, leading to them being in the same scope. This results in an implicit re-declaration of the variable.
 
 ```js-nolint example-bad
 let x = 1;

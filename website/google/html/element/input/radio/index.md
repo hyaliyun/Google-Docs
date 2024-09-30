@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_radio
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`radio`** are generally used in **radio groups**—collections of radio buttons describing a set of related options.
 

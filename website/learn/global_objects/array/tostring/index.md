@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.toString
 ---
 
-{{JSRef}}
+
 
 The **`toString()`** method of {{jsxref("Array")}} instances returns a string representing the
 specified array and its elements.

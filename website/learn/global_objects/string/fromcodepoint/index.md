@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.String.fromCodePoint
 ---
 
-{{JSRef}}
+
 
 The **`String.fromCodePoint()`** static method returns a string created from the specified sequence of code points.
 

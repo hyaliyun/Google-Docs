@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.ListFormat.ListFormat
 ---
 
-{{JSRef}}
+
 
 The **`Intl.ListFormat()`** constructor creates {{jsxref("Intl.ListFormat")}} objects.
 

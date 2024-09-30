@@ -4,7 +4,7 @@ slug: Web/JavaScript/Guide/Text_formatting
 page-type: guide
 ---
 
-{{jsSidebar("JavaScript Guide")}} {{PreviousNext("Web/JavaScript/Guide/Numbers_and_dates", "Web/JavaScript/Guide/Regular_expressions")}}
+ {{PreviousNext("Web/JavaScript/Guide/Numbers_and_dates", "Web/JavaScript/Guide/Regular_expressions")}}
 
 This chapter introduces how to work with strings and text in JavaScript.
 

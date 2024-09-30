@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.setPrototypeOf
 ---
 
-{{JSRef}}
+
 
 The **`Object.setPrototypeOf()`** static method sets the prototype (i.e., the internal `[[Prototype]]` property) of a specified object to another object or [`null`](/Web/JavaScript/Reference/Operators/null).
 

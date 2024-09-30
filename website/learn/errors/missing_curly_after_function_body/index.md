@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Missing_curly_after_function_body
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "missing } after function body" occurs when there is a syntax
 mistake when creating a function somewhere. Check if any closing curly braces or
@@ -18,7 +18,7 @@ SyntaxError: missing } after function body (Firefox)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

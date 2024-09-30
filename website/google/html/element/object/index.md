@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.object
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<object>`** [HTML](/Web/HTML) element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin.
 

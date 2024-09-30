@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.Intl.Locale.hourCycle
 ---
 
-{{JSRef}}
+
 
 The **`hourCycle`** accessor property of {{jsxref("Intl.Locale")}} instances returns the hour cycle type for this locale.
 

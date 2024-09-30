@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.intersection
 ---
 
-{{JSRef}}
+
 
 The **`intersection()`** method of {{jsxref("Set")}} instances takes a set and returns a new set containing elements in both this set and the given set.
 

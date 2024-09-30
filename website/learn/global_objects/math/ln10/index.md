@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Math.LN10
 ---
 
-{{JSRef}}
+
 
 The **`Math.LN10`** static data property represents the natural logarithm of 10, approximately 2.302.
 
@@ -19,7 +19,7 @@ The **`Math.LN10`** static data property represents the natural logarithm of 10,
 </math>
 <!-- prettier-ignore-end -->
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

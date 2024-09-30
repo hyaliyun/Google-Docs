@@ -18,7 +18,7 @@ import(moduleName)
 import(moduleName, options)
 ```
 
-The `import()` call is a syntax that closely resembles a function call, but `import` itself is a keyword, not a function. You cannot alias it like `const myImport = import`, which will throw a {{jsxref("SyntaxError")}}.
+The `import()` call is a syntax that closely resembles a function call, but `import` itself is a keyword, not a function. You cannot alias it like `const myImport = import`, which will throw a .
 
 [Trailing commas](/Web/JavaScript/Reference/Trailing_commas) are only allowed if the runtime also supports `options`. Check [browser compatibility](#browser_compatibility).
 

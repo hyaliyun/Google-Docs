@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Either_be_both_static_or_non-static
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "mismatched placement" occurs when a private [getter](/Web/JavaScript/Reference/Functions/get) and [setter](/Web/JavaScript/Reference/Functions/set) are mismatched in whether or not they are {{jsxref("Classes/static", "static")}}.
 
@@ -18,7 +18,7 @@ SyntaxError: Cannot declare a private non-static getter if there is a static pri
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

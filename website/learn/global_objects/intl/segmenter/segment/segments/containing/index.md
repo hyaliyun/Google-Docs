@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Segments.containing
 ---
 
-{{JSRef}}
+
 
 The **`containing()`** method of [`Segments`](/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments) instances returns an object describing the segment in the string that includes the code unit at the specified index.
 

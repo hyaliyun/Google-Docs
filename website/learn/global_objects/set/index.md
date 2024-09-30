@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Set
 ---
 
-{{JSRef}}
+
 
 The **`Set`** object lets you store unique values of any type, whether {{Glossary("Primitive", "primitive values")}} or object references.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Symbol.replace
 ---
 
-{{JSRef}}
+
 
 The **`Symbol.replace`** static data property represents the [well-known symbol](/Web/JavaScript/Reference/Global_Objects/Symbol#well-known_symbols) `Symbol.replace`. The {{jsxref("String.prototype.replace()")}} and {{jsxref("String.prototype.replaceAll()")}} methods look up this symbol on their first argument for the method that replaces substrings matched by the current object.
 
@@ -17,7 +17,7 @@ For more information, see [`RegExp.prototype[Symbol.replace]()`](/Web/JavaScript
 
 The well-known symbol `Symbol.replace`.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Examples
 

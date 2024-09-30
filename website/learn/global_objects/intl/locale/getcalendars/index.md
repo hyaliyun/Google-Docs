@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Locale.getCalendars
 ---
 
-{{JSRef}}
+
 
 The **`getCalendars()`** method of {{jsxref("Intl.Locale")}} instances returns a list of one or more unique calendar identifiers for this locale.
 

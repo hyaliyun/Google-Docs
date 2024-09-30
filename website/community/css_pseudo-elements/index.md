@@ -75,11 +75,11 @@ Pseudo-elements enable targeting entities not included in HTML and sections of c
 
 - [CSS view transitions](/Web/CSS/CSS_view_transitions) module
 
-  - {{cssxref("::view-transition")}} {{Experimental_Inline}}
-  - {{cssxref("::view-transition-image-pair()")}} {{Experimental_Inline}}
-  - {{cssxref("::view-transition-group()")}} {{Experimental_Inline}}
-  - {{cssxref("::view-transition-new()")}} {{Experimental_Inline}}
-  - {{cssxref("::view-transition-old()")}} {{Experimental_Inline}}
+  - {{cssxref("::view-transition")}} 
+  - {{cssxref("::view-transition-image-pair()")}} 
+  - {{cssxref("::view-transition-group()")}} 
+  - {{cssxref("::view-transition-new()")}} 
+  - {{cssxref("::view-transition-old()")}} 
 
 - [CSS selectors](/Web/CSS/CSS_selectors)
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Segments.@@iterator
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.iterator]()`** method of [`Segments`](/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments) instances implements the [iterable protocol](/Web/JavaScript/Reference/Iteration_protocols) and allows `Segments` objects to be consumed by most syntaxes expecting iterables, such as the [spread syntax](/Web/JavaScript/Reference/Operators/Spread_syntax) and {{jsxref("Statements/for...of", "for...of")}} loops. It returns a [segments iterator object](/Web/JavaScript/Reference/Global_Objects/Iterator) that yields data about each segment.
 

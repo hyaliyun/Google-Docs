@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Deprecated_caller_or_arguments_usage
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript [strict mode](/Web/JavaScript/Reference/Strict_mode)-only exception
 "'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them" occurs when the

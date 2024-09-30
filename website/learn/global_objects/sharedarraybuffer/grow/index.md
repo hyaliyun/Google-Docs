@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.SharedArrayBuffer.grow
 ---
 
-{{JSRef}}
+
 
 The **`grow()`** method of {{jsxref("SharedArrayBuffer")}} instances grows the `SharedArrayBuffer` to the specified size, in bytes.
 

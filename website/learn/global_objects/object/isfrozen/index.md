@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.isFrozen
 ---
 
-{{JSRef}}
+
 
 The **`Object.isFrozen()`** static method determines if an object is
 {{jsxref("Object/freeze", "frozen", "", 1)}}.

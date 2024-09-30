@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.main
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<main>`** [HTML](/Web/HTML) element represents the dominant content of the {{HTMLElement("body")}} of a document. The main content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
 

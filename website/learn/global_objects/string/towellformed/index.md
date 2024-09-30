@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.toWellFormed
 ---
 
-{{JSRef}}
+
 
 The **`toWellFormed()`** method of {{jsxref("String")}} values returns a string where all [lone surrogates](/Web/JavaScript/Reference/Global_Objects/String#utf-16_characters_unicode_code_points_and_grapheme_clusters) of this string are replaced with the Unicode replacement character U+FFFD.
 

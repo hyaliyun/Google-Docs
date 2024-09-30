@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.script
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<script>`** [HTML](/Web/HTML) element is used to embed executable code or data; this is typically used to embed or refer to JavaScript code. The `<script>` element can also be used with other languages, such as [WebGL](/Web/API/WebGL_API)'s GLSL shader programming language and [JSON](/Glossary/JSON).
 
@@ -30,7 +30,7 @@ This element includes the [global attributes](/Web/HTML/Global_attributes).
 
     See [Browser compatibility](#browser_compatibility) for notes on browser support. See also [Async scripts for asm.js](/Games/Techniques/Async_scripts).
 
-- `attributionsrc` {{experimental_inline}}
+- `attributionsrc` 
 
   - : Specifies that you want the browser to send an {{httpheader("Attribution-Reporting-Eligible")}} header along with the script resource request. On the server-side this is used to trigger sending an {{httpheader("Attribution-Reporting-Register-Source")}} or {{httpheader("Attribution-Reporting-Register-Trigger")}} header in the response, to register a JavaScript-based [attribution source](/Web/API/Attribution_Reporting_API/Registering_sources#javascript-based_event_sources) or [attribution trigger](/Web/API/Attribution_Reporting_API/Registering_triggers#javascript-based_attribution_triggers), respectively. Which response header should be sent back depends on the value of the `Attribution-Reporting-Eligible` header that triggered the registration.
 
@@ -55,7 +55,7 @@ This element includes the [global attributes](/Web/HTML/Global_attributes).
 
     See the [Attribution Reporting API](/Web/API/Attribution_Reporting_API) for more details.
 
-- `blocking` {{Experimental_Inline}}
+- `blocking` 
 
   - : This attribute explicitly indicates that certain operations should be blocked on the fetching of the script. The operations that are to be blocked must be a space-separated list of blocking tokens listed below.
     - `render`: The rendering of content on the screen is blocked.
@@ -132,7 +132,7 @@ This element includes the [global attributes](/Web/HTML/Global_attributes).
         The `charset` and `defer` attributes have no effect.
         For information on using `module`, see our [JavaScript modules](/Web/JavaScript/Guide/Modules) guide.
         Unlike classic scripts, module scripts require the use of the CORS protocol for cross-origin fetching.
-    - [`speculationrules`](/Web/HTML/Element/script/type/speculationrules) {{experimental_inline}}
+    - [`speculationrules`](/Web/HTML/Element/script/type/speculationrules) 
       - : This value indicates that the body of the element contains speculation rules.
         Speculation rules take the form of a JSON object that determine what resources should be prefetched or prerendered by the browser. This is part of the {{domxref("Speculation Rules API", "", "", "nocode")}}.
     - **Any other value**

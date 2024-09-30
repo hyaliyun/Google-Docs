@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.WeakMap.delete
 ---
 
-{{JSRef}}
+
 
 The **`delete()`** method of {{jsxref("WeakMap")}} instances removes the specified element from this `WeakMap`.
 

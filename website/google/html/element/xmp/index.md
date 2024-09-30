@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.xmp
 ---
 
-{{HTMLSidebar}}
+
 
 ## Summary
 

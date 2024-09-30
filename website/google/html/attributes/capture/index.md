@@ -6,7 +6,7 @@ page-type: html-attribute
 browser-compat: html.elements.input.capture
 ---
 
-{{HTMLSidebar}}
+
 
 The **`capture`** attribute specifies that, optionally, a new file should be captured, and which device should be used to capture that new media of a type defined by the [`accept`](/Web/HTML/Attributes/accept) attribute.
 

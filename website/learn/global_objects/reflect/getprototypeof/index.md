@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.getPrototypeOf
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.getPrototypeOf()`** static method is like {{jsxref("Object.getPrototypeOf()")}}. It returns the prototype of the specified object.
 

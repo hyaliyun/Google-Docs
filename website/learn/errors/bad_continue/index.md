@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Bad_continue
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "continue must be inside loop" occurs when a {{jsxref("Statements/continue", "continue")}} statement is not inside a loop statement.
 
@@ -20,7 +20,7 @@ SyntaxError: Cannot continue to the label 'label' as it is not targeting a loop.
 
 ## Error type
 
-{{jsxref("SyntaxError")}}.
+.
 
 ## What went wrong?
 

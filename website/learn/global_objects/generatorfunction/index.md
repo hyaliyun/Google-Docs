@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.GeneratorFunction
 ---
 
-{{JSRef}}
+
 
 The **`GeneratorFunction`** object provides methods for [generator functions](/Web/JavaScript/Reference/Statements/function*). In JavaScript, every generator function is actually a `GeneratorFunction` object.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Identifier_after_number
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "identifier starts immediately after numeric literal" occurs
 when an identifier started with a digit. Identifiers can only start with a letter,
@@ -20,7 +20,7 @@ SyntaxError: No identifiers allowed directly after numeric literal (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

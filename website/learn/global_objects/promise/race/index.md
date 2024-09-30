@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Promise.race
 ---
 
-{{JSRef}}
+
 
 The **`Promise.race()`** static method takes an iterable of promises as input and returns a single {{jsxref("Promise")}}. This returned promise settles with the eventual state of the first promise that settles.
 
@@ -246,7 +246,7 @@ Promise.race([promise1, promise2])
 // failed with reason: two
 ```
 
-{{jsxref("Promise.any")}} takes the first fulfilled {{jsxref("Promise")}}.
+ takes the first fulfilled {{jsxref("Promise")}}.
 
 ```js
 const promise1 = new Promise((resolve, reject) => {

@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.RegExp.unicode
 ---
 
-{{JSRef}}
+
 
 The **`unicode`** accessor property of {{jsxref("RegExp")}} instances returns whether or not the `u` flag is used with this regular expression.
 
@@ -25,7 +25,7 @@ The set accessor of `unicode` is `undefined`. You cannot change this property di
 
 ### Unicode-aware mode
 
-When we refer to _Unicode-aware mode_, we mean the regex has either the `u` or the [`v`](/Web/JavaScript/Reference/Global_Objects/RegExp/unicodeSets) flag, in which case the regex enables Unicode-related features (such as [Unicode character class escape](/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape)) and has much stricter syntax rules. Because `u` and `v` interpret the same regex in incompatible ways, using both flags results in a {{jsxref("SyntaxError")}}.
+When we refer to _Unicode-aware mode_, we mean the regex has either the `u` or the [`v`](/Web/JavaScript/Reference/Global_Objects/RegExp/unicodeSets) flag, in which case the regex enables Unicode-related features (such as [Unicode character class escape](/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape)) and has much stricter syntax rules. Because `u` and `v` interpret the same regex in incompatible ways, using both flags results in a .
 
 Similarly, a regex is _Unicode-unaware_ if it has neither the `u` nor the `v` flag. In this case, the regex is interpreted as a sequence of UTF-16 code units, and there are many legacy syntaxes that do not become syntax errors.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.includes
 ---
 
-{{JSRef}}
+
 
 The **`includes()`** method of {{jsxref("TypedArray")}} instances determines whether a typed array includes a certain value among its entries, returning `true` or `false` as appropriate. This method has the same algorithm as {{jsxref("Array.prototype.includes()")}}.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.NumberFormat.resolvedOptions
 ---
 
-{{JSRef}}
+
 
 The **`resolvedOptions()`** method of {{jsxref("Intl.NumberFormat")}} instances returns a new object with properties reflecting the [locale and number formatting options](/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat#parameters) computed during initialization of this `Intl.NumberFormat` object.
 

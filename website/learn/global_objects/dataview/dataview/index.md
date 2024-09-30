@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.DataView.DataView
 ---
 
-{{JSRef}}
+
 
 The **`DataView()`** constructor creates {{jsxref("DataView")}} objects.
 

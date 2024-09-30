@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Proxy.Proxy
 ---
 
-{{JSRef}}
+
 
 The **`Proxy()`** constructor creates {{jsxref("Proxy")}} objects.
 

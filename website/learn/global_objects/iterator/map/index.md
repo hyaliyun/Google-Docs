@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Iterator.map
 ---
 
-{{JSRef}}
+
 
 The **`map()`** method of {{jsxref("Iterator")}} instances returns a new [iterator helper](/Web/JavaScript/Reference/Global_Objects/Iterator#iterator_helpers) that yields elements of the iterator, each transformed by a mapping function.
 

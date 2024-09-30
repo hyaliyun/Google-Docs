@@ -8,7 +8,7 @@ browser-compat:
   - html.elements.textarea.maxlength
 ---
 
-{{HTMLSidebar}}
+
 
 The **`maxlength`** attribute defines the maximum [string length](/Web/JavaScript/Reference/Global_Objects/String/length) that the user can enter into an {{htmlelement('input')}} or {{htmlelement('textarea')}}. The attribute must have an integer value of 0 or higher.
 

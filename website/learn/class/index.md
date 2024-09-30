@@ -5,7 +5,7 @@ page-type: javascript-statement
 browser-compat: javascript.statements.class
 ---
 
-{{jsSidebar("Statements")}}
+
 
 The **`class`** declaration creates a {{Glossary("binding")}} of a new [class](/Web/JavaScript/Reference/Classes) to a given name.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.assign
 ---
 
-{{JSRef}}
+
 
 The **`Object.assign()`** static method
 copies all {{jsxref("Object/propertyIsEnumerable", "enumerable", "", 1)}}

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.slice
 ---
 
-{{JSRef}}
+
 
 The **`slice()`** method of {{jsxref("Array")}} instances returns a [shallow copy](/Glossary/Shallow_copy) of a portion of
 an array into a new array object selected from `start` to `end`

@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.param
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<param>`** [HTML](/Web/HTML) element defines parameters for an {{HTMLElement("object")}} element.
 

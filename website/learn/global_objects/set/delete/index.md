@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.delete
 ---
 
-{{JSRef}}
+
 
 The **`delete()`** method of {{jsxref("Set")}} instances removes a specified value from this set, if it is in the set.
 

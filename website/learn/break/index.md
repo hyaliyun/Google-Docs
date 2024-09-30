@@ -5,7 +5,7 @@ page-type: javascript-statement
 browser-compat: javascript.statements.break
 ---
 
-{{jsSidebar("Statements")}}
+
 
 The **`break`** statement terminates the current loop or {{jsxref("Statements/switch", "switch")}} statement and transfers program control to the statement following the terminated statement. It can also be used to jump past a [labeled statement](/Web/JavaScript/Reference/Statements/label) when used within that labeled statement.
 

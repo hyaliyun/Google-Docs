@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.toUpperCase
 ---
 
-{{JSRef}}
+
 
 The **`toUpperCase()`** method of {{jsxref("String")}} values returns this string converted to uppercase.
 

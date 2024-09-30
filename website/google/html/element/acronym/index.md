@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.acronym
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<acronym>`** [HTML](/Web/HTML) element allows authors to clearly indicate a sequence of characters that compose an acronym or abbreviation for a word.
 

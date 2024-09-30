@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Getter_no_arguments
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "getter functions must have no arguments" occurs when a [getter](/Web/JavaScript/Reference/Functions/get) is declared and the parameter list is non-empty.
 
@@ -18,7 +18,7 @@ SyntaxError: Unexpected identifier 'x'. getter functions must have no parameters
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

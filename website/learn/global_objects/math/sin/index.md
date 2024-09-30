@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.sin
 ---
 
-{{JSRef}}
+
 
 The **`Math.sin()`** static method returns the sine of a number in radians.
 

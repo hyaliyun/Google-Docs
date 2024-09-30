@@ -5,7 +5,7 @@ page-type: guide
 spec-urls: https://tc39.es/ecma262/multipage/strict-mode-of-ecmascript.html
 ---
 
-{{jsSidebar("More")}}
+
 
 > [!NOTE]
 > Sometimes you'll see the default, non-strict mode referred to as _[sloppy mode](/Glossary/Sloppy_mode)_. This isn't an official term, but be aware of it, just in case.
@@ -232,7 +232,7 @@ false.true = ""; // TypeError
 
 #### Duplicate property names
 
-Duplicate property names used to be considered a {{jsxref("SyntaxError")}} in strict mode. With the introduction of [computed property names](/Web/JavaScript/Reference/Operators/Object_initializer), making duplication possible at runtime, this restriction was removed in ES2015.
+Duplicate property names used to be considered a  in strict mode. With the introduction of [computed property names](/Web/JavaScript/Reference/Operators/Object_initializer), making duplication possible at runtime, this restriction was removed in ES2015.
 
 ```js
 "use strict";
@@ -390,7 +390,7 @@ You can migrate a codebase to strict mode by first adding `"use strict"` to a pi
 
 ### Syntax errors
 
-When adding `'use strict';`, the following cases will throw a {{jsxref("SyntaxError")}} before the script is executing:
+When adding `'use strict';`, the following cases will throw a  before the script is executing:
 
 - Octal syntax `const n = 023;`
 - [`with`](/Web/JavaScript/Reference/Statements/with) statement

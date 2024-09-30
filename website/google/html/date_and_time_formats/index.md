@@ -4,7 +4,7 @@ slug: Web/HTML/Date_and_time_formats
 page-type: guide
 ---
 
-{{HTMLSidebar}}
+
 
 Certain HTML elements use date and/or time values. The formats of the strings that specify these values are described in this article.
 

@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.sub
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<sub>`** [HTML](/Web/HTML) element specifies inline text which should be displayed as subscript for solely typographical reasons. Subscripts are typically rendered with a lowered baseline using smaller text.
 

@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.FinalizationRegistry.FinalizationRegistry
 ---
 
-{{JSRef}}
+
 
 The **`FinalizationRegistry()`** constructor creates {{jsxref("FinalizationRegistry")}} objects.
 

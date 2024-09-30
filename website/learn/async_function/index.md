@@ -5,7 +5,7 @@ page-type: javascript-statement
 browser-compat: javascript.statements.async_function
 ---
 
-{{jsSidebar("Statements")}}
+
 
 The **`async function`** declaration creates a {{Glossary("binding")}} of a new async function to a given name. The `await` keyword is permitted within the function body, enabling asynchronous, promise-based behavior to be written in a cleaner style and avoiding the need to explicitly configure promise chains.
 
@@ -47,7 +47,7 @@ An `async function` declaration creates an {{jsxref("AsyncFunction")}} object. E
 Async functions can contain zero or more {{jsxref("Operators/await", "await")}} expressions. Await expressions make promise-returning functions behave as though they're synchronous by suspending execution until the returned promise is fulfilled or rejected. The resolved value of the promise is treated as the return value of the await expression. Use of `async` and `await` enables the use of ordinary `try` / `catch` blocks around asynchronous code.
 
 > [!NOTE]
-> The `await` keyword is only valid inside async functions within regular JavaScript code. If you use it outside of an async function's body, you will get a {{jsxref("SyntaxError")}}.
+> The `await` keyword is only valid inside async functions within regular JavaScript code. If you use it outside of an async function's body, you will get a .
 >
 > `await` can be used on its own with [JavaScript modules.](/Web/JavaScript/Guide/Modules)
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Error.toString
 ---
 
-{{JSRef}}
+
 
 The **`toString()`** method of {{jsxref("Error")}} instances returns a string representing this error.
 

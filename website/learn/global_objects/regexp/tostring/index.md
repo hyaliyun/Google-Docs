@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.RegExp.toString
 ---
 
-{{JSRef}}
+
 
 The **`toString()`** method of {{jsxref("RegExp")}} instances returns a string representing this regular expression.
 

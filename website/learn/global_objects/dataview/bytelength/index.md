@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.DataView.byteLength
 ---
 
-{{JSRef}}
+
 
 The **`byteLength`** accessor property of {{jsxref("DataView")}} instances returns the length (in bytes) of this view.
 

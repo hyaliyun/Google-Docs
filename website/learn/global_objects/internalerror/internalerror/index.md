@@ -7,7 +7,7 @@ status:
 browser-compat: javascript.builtins.InternalError.InternalError
 ---
 
-{{JSRef}}
+
 
 The **`InternalError()`** constructor creates {{jsxref("InternalError")}} objects.
 

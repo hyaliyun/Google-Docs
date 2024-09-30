@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.s
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<s>`** [HTML](/Web/HTML) element renders text with a strikethrough, or a line through it. Use the `<s>` element to represent things that are no longer relevant or no longer accurate. However, `<s>` is not appropriate when indicating document edits; for that, use the {{HTMLElement("del")}} and {{HTMLElement("ins")}} elements, as appropriate.
 

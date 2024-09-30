@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.ReferenceError.ReferenceError
 ---
 
-{{JSRef}}
+
 
 The **`ReferenceError()`** constructor creates {{jsxref("ReferenceError")}} objects.
 

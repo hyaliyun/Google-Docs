@@ -5,7 +5,7 @@ page-type: landing-page
 browser-compat: javascript.statements
 ---
 
-{{jsSidebar("Statements")}}
+
 
 JavaScript applications consist of statements with an appropriate syntax. A single statement may span multiple lines. Multiple statements may occur on a single line if each statement is separated by a semicolon. This isn't a keyword, but a group of keywords.
 
@@ -111,7 +111,7 @@ else
   statement2;
 ```
 
-If you use a declaration instead of a statement, it would be a {{jsxref("SyntaxError")}}. For example, a [`let`](/Web/JavaScript/Reference/Statements/let) declaration is not a statement, so you can't use it in its bare form as the body of an `if` statement.
+If you use a declaration instead of a statement, it would be a . For example, a [`let`](/Web/JavaScript/Reference/Statements/let) declaration is not a statement, so you can't use it in its bare form as the body of an `if` statement.
 
 ```js-nolint example-bad
 if (condition)

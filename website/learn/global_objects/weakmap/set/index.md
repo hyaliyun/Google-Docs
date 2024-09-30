@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.WeakMap.set
 ---
 
-{{JSRef}}
+
 
 The **`set()`** method of {{jsxref("WeakMap")}} instances adds a new element with a specified key
 and value to this `WeakMap`.

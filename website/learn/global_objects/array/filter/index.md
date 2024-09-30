@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.filter
 ---
 
-{{JSRef}}
+
 
 The **`filter()`** method of {{jsxref("Array")}} instances creates a [shallow copy](/Glossary/Shallow_copy) of a portion of a given array, filtered down to just the elements from the given array that pass the test implemented by the provided function.
 

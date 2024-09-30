@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Set.Set
 ---
 
-{{JSRef}}
+
 
 The **`Set()`** constructor creates {{jsxref("Set")}} objects.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.deleteProperty
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.deleteProperty()`** static method is like the {{jsxref("Operators/delete", "delete")}} operator, but as a function. It deletes a property from an object.
 

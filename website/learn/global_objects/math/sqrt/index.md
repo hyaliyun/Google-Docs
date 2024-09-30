@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.sqrt
 ---
 
-{{JSRef}}
+
 
 The **`Math.sqrt()`** static method returns the square root of a number. That is
 

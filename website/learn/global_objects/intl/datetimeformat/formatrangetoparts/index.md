@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.DateTimeFormat.formatRangeToParts
 ---
 
-{{JSRef}}
+
 
 The **`formatRangeToParts()`** method of {{jsxref("Intl.DateTimeFormat")}} instances returns an array of locale-specific tokens representing each part of the formatted date
 range produced by this `Intl.DateTimeFormat` object.

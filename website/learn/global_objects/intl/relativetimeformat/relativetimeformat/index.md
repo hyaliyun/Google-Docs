@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.RelativeTimeFormat.RelativeTimeFormat
 ---
 
-{{JSRef}}
+
 
 The **`Intl.RelativeTimeFormat()`** constructor creates {{jsxref("Intl.RelativeTimeFormat")}} objects.
 

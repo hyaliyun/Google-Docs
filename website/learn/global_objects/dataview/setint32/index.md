@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.DataView.setInt32
 ---
 
-{{JSRef}}
+
 
 The **`setInt32()`** method of {{jsxref("DataView")}} instances takes a number and stores it as a 32-bit signed integer in the 4 bytes starting at the specified byte offset of this `DataView`. There is no alignment constraint; multi-byte values may be stored at any offset within bounds.
 

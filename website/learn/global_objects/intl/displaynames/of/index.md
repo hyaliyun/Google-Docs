@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.DisplayNames.of
 ---
 
-{{JSRef}}
+
 
 The **`of()`** method of {{jsxref("Intl.DisplayNames")}} instances receives a code and returns a string based on the locale and options provided when instantiating this `Intl.DisplayNames` object.
 

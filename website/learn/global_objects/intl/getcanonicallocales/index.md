@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Intl.getCanonicalLocales
 ---
 
-{{JSRef}}
+
 
 The **`Intl.getCanonicalLocales()`** static method returns an array
 containing the canonical locale names. Duplicates will be omitted and elements will be

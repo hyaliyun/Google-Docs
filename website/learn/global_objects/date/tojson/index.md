@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.toJSON
 ---
 
-{{JSRef}}
+
 
 The **`toJSON()`** method of  instances returns a string representing this date in the same ISO format as {{jsxref("Date/toISOString", "toISOString()")}}.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.isSubsetOf
 ---
 
-{{JSRef}}
+
 
 The **`isSubsetOf()`** method of {{jsxref("Set")}} instances takes a set and returns a boolean indicating if all elements of this set are in the given set.
 

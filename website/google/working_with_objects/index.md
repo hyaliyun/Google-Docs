@@ -4,7 +4,7 @@ slug: Web/JavaScript/Guide/Working_with_objects
 page-type: guide
 ---
 
-{{jsSidebar("JavaScript Guide")}} {{PreviousNext("Web/JavaScript/Guide/Keyed_collections", "Web/JavaScript/Guide/Using_classes")}}
+ 
 
 JavaScript is designed on a simple object-based paradigm. An object is a collection of [properties](/Glossary/Property/JavaScript), and a property is an association between a name (or _key_) and a value. A property's value can be a function, in which case the property is known as a [method](/Glossary/Method).
 

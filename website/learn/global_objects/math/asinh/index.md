@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.asinh
 ---
 
-{{JSRef}}
+
 
 The **`Math.asinh()`** static method returns the inverse hyperbolic sine of a number. That is,
 

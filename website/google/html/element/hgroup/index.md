@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.hgroup
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<hgroup>`** [HTML](/Web/HTML) element represents a heading and related content. It groups a single [`<h1>–<h6>`](/Web/HTML/Element/Heading_Elements) element with one or more [`<p>`](/Web/HTML/Element/p).
 

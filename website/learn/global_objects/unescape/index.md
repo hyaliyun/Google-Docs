@@ -7,7 +7,7 @@ status:
 browser-compat: javascript.builtins.unescape
 ---
 
-{{jsSidebar("Objects")}}
+
 
 > **Note:** `unescape()` is a non-standard function implemented by browsers and was only standardized for cross-engine compatibility. It is not required to be implemented by all JavaScript engines and may not work everywhere. Use {{jsxref("decodeURIComponent()")}} or {{jsxref("decodeURI()")}} if possible.
 

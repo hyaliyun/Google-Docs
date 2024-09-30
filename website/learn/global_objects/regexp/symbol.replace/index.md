@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.RegExp.@@replace
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.replace]()`** method of {{jsxref("RegExp")}} instances specifies how [`String.prototype.replace()`](/Web/JavaScript/Reference/Global_Objects/String/replace) and [`String.prototype.replaceAll()`](/Web/JavaScript/Reference/Global_Objects/String/replaceAll) should behave when the regular expression is passed in as the pattern.
 

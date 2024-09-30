@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.RelativeTimeFormat.format
 ---
 
-{{JSRef}}
+
 
 The **`format()`** method of {{jsxref("Intl.RelativeTimeFormat")}} instances formats a `value` and `unit` according to the locale and formatting options of this `Intl.RelativeTimeFormat` object.
 

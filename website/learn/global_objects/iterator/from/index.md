@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Iterator.from
 ---
 
-{{JSRef}}
+
 
 The **`Iterator.from()`** static method creates a new {{jsxref("Iterator")}} object from an iterator or iterable object.
 

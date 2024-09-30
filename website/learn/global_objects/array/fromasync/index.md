@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Array.fromAsync
 ---
 
-{{JSRef}}
+
 
 The **`Array.fromAsync()`** static method creates a new, shallow-copied `Array` instance from an [async iterable](/Web/JavaScript/Reference/Iteration_protocols#the_async_iterator_and_async_iterable_protocols), [iterable](/Web/JavaScript/Reference/Iteration_protocols#the_iterable_protocol), or [array-like](/Web/JavaScript/Guide/Indexed_collections#working_with_array-like_objects) object.
 

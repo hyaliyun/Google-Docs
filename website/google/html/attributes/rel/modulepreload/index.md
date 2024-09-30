@@ -5,7 +5,7 @@ page-type: html-attribute-value
 browser-compat: html.elements.link.rel.modulepreload
 ---
 
-{{HTMLSidebar}}
+
 
 The **`modulepreload`** keyword, for the [`rel`](/Web/HTML/Attributes/rel) attribute of the {{HTMLElement("link")}} element, provides a declarative way to preemptively fetch a [module script](/Web/JavaScript/Guide/Modules), parse and compile it, and store it in the document's module map for later execution.
 

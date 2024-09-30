@@ -5,7 +5,7 @@ page-type: javascript-statement
 browser-compat: javascript.statements.label
 ---
 
-{{jsSidebar("Statements")}}
+
 
 A **labeled statement** is any [statement](/Web/JavaScript/Reference/Statements) that is prefixed with an identifier. You can jump to this label using a {{jsxref("Statements/break", "break")}} or {{jsxref("Statements/continue", "continue")}} statement nested within the labeled statement.
 
@@ -215,7 +215,7 @@ Labels can only be applied to [statements, not declarations](/Web/JavaScript/Ref
 L: function F() {}
 ```
 
-In [strict mode](/Web/JavaScript/Reference/Strict_mode) code, however, this will throw a {{jsxref("SyntaxError")}}:
+In [strict mode](/Web/JavaScript/Reference/Strict_mode) code, however, this will throw a :
 
 ```js-nolint example-bad
 "use strict";

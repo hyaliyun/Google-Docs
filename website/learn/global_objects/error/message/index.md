@@ -5,7 +5,7 @@ page-type: javascript-instance-data-property
 browser-compat: javascript.builtins.Error.message
 ---
 
-{{JSRef}}
+
 
 The **`message`** data property of an {{jsxref("Error")}} instance is a human-readable description of the error.
 

@@ -5,7 +5,7 @@ page-type: javascript-statement
 browser-compat: javascript.statements.switch
 ---
 
-{{jsSidebar("Statements")}}
+
 
 The **`switch`** statement evaluates an [expression](/Web/JavaScript/Guide/Expressions_and_operators), matching the expression's value against a series of `case` clauses, and executes [statements](/Web/JavaScript/Reference/Statements) after the first `case` clause with a matching value, until a `break` statement is encountered. The `default` clause of a `switch` statement will be jumped to if no `case` matches the expression's value.
 
@@ -48,7 +48,7 @@ switch (undefined) {
 // Only logs 1
 ```
 
-If no matching `case` clause is found, the program looks for the optional `default` clause, and if found, transfers control to that clause, executing statements following that clause. If no `default` clause is found, the program continues execution at the statement following the end of `switch`. By convention, the `default` clause is the last clause, but it does not need to be so. A `switch` statement may only have one `default` clause; multiple `default` clauses will result in a {{jsxref("SyntaxError")}}.
+If no matching `case` clause is found, the program looks for the optional `default` clause, and if found, transfers control to that clause, executing statements following that clause. If no `default` clause is found, the program continues execution at the statement following the end of `switch`. By convention, the `default` clause is the last clause, but it does not need to be so. A `switch` statement may only have one `default` clause; multiple `default` clauses will result in a .
 
 ### Breaking and fall-through
 

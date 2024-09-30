@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.dfn
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<dfn>`** [HTML](/Web/HTML) element indicates a term to be defined. The `<dfn>` element should be used in a complete definition statement, where the full definition of the term can be one of the following:
 

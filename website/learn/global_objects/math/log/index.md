@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.log
 ---
 
-{{JSRef}}
+
 
 The **`Math.log()`** static method returns the natural logarithm (base [e](/Web/JavaScript/Reference/Global_Objects/Math/E)) of a number. That is
 

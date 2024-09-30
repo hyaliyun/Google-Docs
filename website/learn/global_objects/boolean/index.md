@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Boolean
 ---
 
-{{JSRef}}
+
 
 **`Boolean`** values can be one of two values: `true` or `false`, representing the truth value of a logical proposition.
 

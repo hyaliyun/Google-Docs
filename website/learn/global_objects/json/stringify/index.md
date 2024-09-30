@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.JSON.stringify
 ---
 
-{{JSRef}}
+
 
 The **`JSON.stringify()`** static method converts a JavaScript value to a JSON string, optionally replacing values if a replacer function is specified or optionally including only the specified properties if a replacer array is specified.
 

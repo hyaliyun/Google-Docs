@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/No_variable_name
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "missing variable name" is a common error.
 It is usually caused by omitting a variable name or a typographic error.
@@ -18,7 +18,7 @@ SyntaxError: Unexpected token '='. Expected a parameter pattern or a ')' in para
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

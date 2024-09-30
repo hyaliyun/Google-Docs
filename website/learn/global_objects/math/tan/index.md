@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.tan
 ---
 
-{{JSRef}}
+
 
 The **`Math.tan()`** static method returns the tangent of a number in radians.
 

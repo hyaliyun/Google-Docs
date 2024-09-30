@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.em
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<em>`** [HTML](/Web/HTML) element marks text that has stress emphasis. The `<em>` element can be nested, with each level of nesting indicating a greater degree of emphasis.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-data-property
 browser-compat: javascript.builtins.Array.length
 ---
 
-{{JSRef}}
+
 
 The **`length`** data property of an {{jsxref("Array")}} instance represents the number of elements in that array. The value is an unsigned, 32-bit integer that is always numerically greater than the highest index in the array.
 

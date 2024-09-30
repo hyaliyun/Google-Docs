@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Number.MIN_SAFE_INTEGER
 ---
 
-{{JSRef}}
+
 
 The **`Number.MIN_SAFE_INTEGER`** static data property represents the minimum safe integer in JavaScript, or -(2<sup>53</sup> - 1).
 
@@ -17,7 +17,7 @@ To represent integers smaller than this, consider using {{jsxref("BigInt")}}.
 
 `-9007199254740991` (-9,007,199,254,740,991, or about -9 quadrillion).
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

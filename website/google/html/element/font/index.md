@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.font
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<font>`** [HTML](/Web/HTML) element defines the font size, color and face for its content.
 

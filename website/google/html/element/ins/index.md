@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.ins
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<ins>`** [HTML](/Web/HTML) element represents a range of text that has been added to a document. You can use the {{HTMLElement("del")}} element to similarly represent a range of text that has been deleted from the document.
 

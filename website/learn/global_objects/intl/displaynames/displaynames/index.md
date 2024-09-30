@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.DisplayNames.DisplayNames
 ---
 
-{{JSRef}}
+
 
 The **`Intl.DisplayNames()`** constructor creates {{jsxref("Intl.DisplayNames")}} objects.
 

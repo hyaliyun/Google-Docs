@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Bad_regexp_flag
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "invalid regular expression flag" occurs when the flags in a regular expression contain any flag that is not one of: `d`, `g`, `i`, `m`, `s`, `u`, `v`, or `y`. It may also be raised if the expression contains more than one instance of a valid flag, or when the [`u`](/Web/JavaScript/Reference/Global_Objects/RegExp/unicode) and [`v`](/Web/JavaScript/Reference/Global_Objects/RegExp/unicodeSets) flags are used together.
 
@@ -20,7 +20,7 @@ SyntaxError: Invalid regular expression: invalid flags (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

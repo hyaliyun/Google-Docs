@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_search
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`search`** are text fields designed for the user to enter search queries into. These are functionally identical to [`text`](/Web/HTML/Element/input/text) inputs, but may be styled differently by the {{Glossary("user agent")}}.
 

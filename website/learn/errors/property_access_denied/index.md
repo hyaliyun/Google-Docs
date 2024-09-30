@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Property_access_denied
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "Permission denied to access property" occurs when there was
 an attempt to access an object for which you have no permission.

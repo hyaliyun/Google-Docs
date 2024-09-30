@@ -7,7 +7,7 @@ status:
 browser-compat: javascript.builtins.Promise.try
 ---
 
-{{JSRef}}
+
 
 The **`Promise.try()`** static method takes a callback of any kind (returns or throws, synchronously or asynchronously) and wraps its result in a {{jsxref("Promise")}}.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Cant_assign_to_property
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript strict mode exception "can't assign to property" occurs when attempting
 to create a property on [primitive](/Glossary/Primitive) value

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Locale.getHourCycles
 ---
 
-{{JSRef}}
+
 
 The **`getHourCycles()`** method of {{jsxref("Intl.Locale")}} instances returns a list of one or more unique hour cycle identifiers for this locale.
 

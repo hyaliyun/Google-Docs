@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/import_decl_module_top_level
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "import declarations may only appear at top level of a module" occurs when an import declaration is not at the top level of a module. This might be because the import declaration is nested in other constructs (functions, blocks, etc.), or more often because the current file is not treated as a module.
 
@@ -18,7 +18,7 @@ SyntaxError: Unexpected identifier 'x'. import call expects one or two arguments
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

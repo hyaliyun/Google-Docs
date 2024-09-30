@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Math.E
 ---
 
-{{JSRef}}
+
 
 The **`Math.E`** static data property represents Euler's number, the base of natural logarithms, e, which is approximately 2.718.
 
@@ -19,7 +19,7 @@ The **`Math.E`** static data property represents Euler's number, the base of nat
 </math>
 <!-- prettier-ignore-end -->
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

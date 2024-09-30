@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/String_literal_EOL
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript error "string literal contains an unescaped line break" occurs when there is an unterminated
 [string literal](/Web/JavaScript/Guide/Grammar_and_types#string_literals) somewhere. String literals must be enclosed by single
@@ -20,7 +20,7 @@ SyntaxError: Unexpected EOF (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

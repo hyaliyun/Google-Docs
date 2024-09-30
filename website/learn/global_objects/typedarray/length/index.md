@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.TypedArray.length
 ---
 
-{{JSRef}}
+
 
 The **`length`** accessor property of {{jsxref("TypedArray")}} instances returns the length (in elements) of this typed array.
 

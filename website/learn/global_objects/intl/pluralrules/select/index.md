@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.PluralRules.select
 ---
 
-{{JSRef}}
+
 
 The **`select()`** method of {{jsxref("Intl.PluralRules")}} instances returns a string indicating which plural rule to use for locale-aware formatting of a number.
 

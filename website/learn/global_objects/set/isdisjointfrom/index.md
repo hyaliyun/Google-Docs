@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.isDisjointFrom
 ---
 
-{{JSRef}}
+
 
 The **`isDisjointFrom()`** method of {{jsxref("Set")}} instances takes a set and returns a boolean indicating if this set has no elements in common with the given set.
 

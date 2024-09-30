@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.link
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<link>`** [HTML](/Web/HTML) element specifies relationships between the current document and an external resource.
 This element is most commonly used to link to {{Glossary("CSS", "stylesheets")}}, but is also used to establish site icons (both "favicon" style icons and icons for the home screen and apps on mobile devices) among other things.
@@ -170,7 +170,7 @@ This element includes the [global attributes](/Web/HTML/Global_attributes).
       </tbody>
     </table>
 
-- `blocking` {{Experimental_Inline}}
+- `blocking` 
 
   - : This attribute explicitly indicates that certain operations should be blocked on the fetching of an external resource. It must only be used when the `rel` attribute contains `expect` or `stylesheet` keywords. The operations that are to be blocked must be a space-separated list of blocking tokens listed below.
     - `render`: The rendering of content on the screen is blocked.

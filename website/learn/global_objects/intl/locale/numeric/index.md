@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.Intl.Locale.numeric
 ---
 
-{{JSRef}}
+
 
 The **`numeric`** accessor property of {{jsxref("Intl.Locale")}} instances returns whether this locale has special collation handling for numeric characters.
 

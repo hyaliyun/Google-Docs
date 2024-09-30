@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Bad_new_optional
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "new keyword cannot be used with an optional chain" occurs when the constructor of a {{jsxref("Operators/new", "new")}} expression is an [optional chain](/Web/JavaScript/Reference/Operators/Optional_chaining), or if there's an optional chain between the constructor and the parenthesized list of arguments.
 
@@ -18,7 +18,7 @@ SyntaxError: Cannot call constructor in an optional chain. (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

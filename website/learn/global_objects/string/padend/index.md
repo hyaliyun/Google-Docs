@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.padEnd
 ---
 
-{{JSRef}}
+
 
 The **`padEnd()`** method of {{jsxref("String")}} values pads this string with a given
 string (repeated, if needed) so that the resulting string reaches a given length. The

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getMonth
 ---
 
-{{JSRef}}
+
 
 The **`getMonth()`** method of  instances returns the month for this date according to local time, as a zero-based value (where zero indicates the first month of the year).
 

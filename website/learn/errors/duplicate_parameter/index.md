@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Duplicate_parameter
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "duplicate formal argument x" or "duplicate argument names not allowed in this context" occurs when a function creates two or more parameter {{Glossary("binding", "bindings")}} with the same name, and the function is not a [non-strict](/Web/JavaScript/Reference/Strict_mode) function with only simple parameters.
 
@@ -22,7 +22,7 @@ SyntaxError: Duplicate parameter 'x' not allowed in function with destructuring 
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

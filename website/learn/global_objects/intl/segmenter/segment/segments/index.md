@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Intl.Segments
 ---
 
-{{JSRef}}
+
 
 A **`Segments`** object is an iterable collection of the segments of a text string. It is returned by a call to the [`segment()`](/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment) method of an [`Intl.Segmenter`](/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter) object.
 

@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.DurationFormat.DurationFormat
 ---
 
-{{JSRef}}
+
 
 The **`Intl.DurationFormat()`** constructor creates {{jsxref("Intl.DurationFormat")}} objects.
 

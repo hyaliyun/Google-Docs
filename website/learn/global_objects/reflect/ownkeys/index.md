@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.ownKeys
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.ownKeys()`** static method returns an array of the `target` object's own property keys.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Global_Objects
 page-type: landing-page
 ---
 
-{{jsSidebar("Objects")}}
+
 
 This chapter documents all of JavaScript's standard, built-in objects, including their methods and properties.
 
@@ -61,7 +61,7 @@ Error objects are a special type of fundamental object. They include the basic {
 - {{jsxref("EvalError")}}
 - {{jsxref("RangeError")}}
 - {{jsxref("ReferenceError")}}
-- {{jsxref("SyntaxError")}}
+- 
 - {{jsxref("TypeError")}}
 - {{jsxref("URIError")}}
 - {{jsxref("InternalError")}} {{non-standard_inline}}

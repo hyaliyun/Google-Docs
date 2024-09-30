@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.at
 ---
 
-{{JSRef}}
+
 
 The **`at()`** method of {{jsxref("TypedArray")}} instances takes an integer value and returns the item at that index, allowing for positive and negative integers. Negative integers count back from the last item in the typed array. This method has the same algorithm as {{jsxref("Array.prototype.at()")}}.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.has
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.has()`** static method is like the [`in`](/Web/JavaScript/Reference/Operators/in) operator, but
 as a function.

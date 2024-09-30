@@ -5,7 +5,7 @@ page-type: html-attribute-value
 browser-compat: html.elements.meta.name.theme-color
 ---
 
-{{HTMLSidebar}}
+
 
 The **`theme-color`** value for the [`name`](/Web/HTML/Element/meta#name) attribute of the {{htmlelement("meta")}} element indicates a suggested color that user agents should use to customize the display of the page or of the surrounding user interface. If specified, the [`content`](/Web/HTML/Element/meta#content) attribute must contain a valid CSS .
 

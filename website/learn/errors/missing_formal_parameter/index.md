@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Missing_formal_parameter
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "missing formal parameter" occurs when your function
 declaration is missing valid parameters.
@@ -19,7 +19,7 @@ SyntaxError: Unexpected string literal "x". Expected a parameter pattern or a ')
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

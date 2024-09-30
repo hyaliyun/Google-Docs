@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Map.values
 ---
 
-{{JSRef}}
+
 
 The **`values()`** method of {{jsxref("Map")}} instances returns a new _[map iterator](/Web/JavaScript/Reference/Global_Objects/Iterator)_ object that contains the values for each element in this map in insertion order.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Iterator.flatMap
 ---
 
-{{JSRef}}
+
 
 The **`flatMap()`** method of {{jsxref("Iterator")}} instances returns a new [iterator helper](/Web/JavaScript/Reference/Global_Objects/Iterator#iterator_helpers) that takes each element in the original iterator, runs it through a mapping function, and yields elements returned by the mapping function (which are contained in another iterator or iterable).
 

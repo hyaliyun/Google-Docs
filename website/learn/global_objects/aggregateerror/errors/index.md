@@ -5,7 +5,7 @@ page-type: javascript-instance-data-property
 browser-compat: javascript.builtins.AggregateError.errors
 ---
 
-{{JSRef}}
+
 
 The **`errors`** data property of an {{jsxref("AggregateError")}} instance contains an array representing the errors that were aggregated.
 

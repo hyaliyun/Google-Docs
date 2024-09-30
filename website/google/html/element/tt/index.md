@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.tt
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<tt>`** [HTML](/Web/HTML) element creates inline text which is presented using the {{Glossary("user agent", "user agent's")}} default monospace font face. This element was created for the purpose of rendering text as it would be displayed on a fixed-width display such as a teletype, text-only screen, or line printer.
 

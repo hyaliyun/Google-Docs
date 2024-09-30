@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.RegExp.@@match
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.match]()`** method of {{jsxref("RegExp")}} instances specifies how [`String.prototype.match()`](/Web/JavaScript/Reference/Global_Objects/String/match) should behave. In addition, its presence (or absence) can influence whether an object is regarded as a regular expression.
 

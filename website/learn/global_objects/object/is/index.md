@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.is
 ---
 
-{{JSRef}}
+
 
 The **`Object.is()`** static method determines whether two values are [the same value](/Web/JavaScript/Equality_comparisons_and_sameness#same-value_equality_using_object.is).
 

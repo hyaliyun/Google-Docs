@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_email
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`email`** are used to let the user enter and edit an email address, or, if the [`multiple`](/Web/HTML/Attributes/multiple) attribute is specified, a list of email addresses.
 

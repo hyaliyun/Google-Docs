@@ -4,7 +4,7 @@ slug: Web/HTML/Reference
 page-type: landing-page
 ---
 
-{{HTMLSidebar}}
+
 
 This [HTML](/Web/HTML) reference describes all **elements** and **attributes** of HTML, including **global attributes** that apply to all elements.
 

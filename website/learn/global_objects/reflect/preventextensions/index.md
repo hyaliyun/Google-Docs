@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.preventExtensions
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.preventExtensions()`** static method is like {{jsxref("Object.preventExtensions()")}}. It prevents new properties from ever being added to an object (i.e., prevents future extensions to the object).
 

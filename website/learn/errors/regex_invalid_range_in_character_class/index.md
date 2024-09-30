@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Regex_invalid_range_in_character_class
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "invalid range in character class" occurs when a [character class](/Web/JavaScript/Reference/Regular_expressions/Character_class) in a regular expression uses a range, but the start of the range is greater than the end.
 
@@ -18,7 +18,7 @@ SyntaxError: Invalid regular expression: range out of order in character class (
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

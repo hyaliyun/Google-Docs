@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Atomics.wait
 ---
 
-{{JSRef}}
+
 
 The **`Atomics.wait()`** static
 method verifies that a shared memory location still contains a

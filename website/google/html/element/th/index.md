@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.th
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<th>`** [HTML](/Web/HTML) element defines a cell as the header of a group of table cells and may be used as a child of the {{HTMLElement("tr")}} element. The exact nature of this group is defined by the [`scope`](#scope) and [`headers`](#headers) attributes.
 

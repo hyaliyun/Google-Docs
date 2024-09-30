@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Intl.DurationFormat
 ---
 
-{{JSRef}}
+
 
 The **`Intl.DurationFormat`** object enables language-sensitive duration formatting.
 

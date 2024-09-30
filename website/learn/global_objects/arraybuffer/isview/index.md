@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.ArrayBuffer.isView
 ---
 
-{{JSRef}}
+
 
 The **`ArrayBuffer.isView()`** static method determines whether the
 passed value is one of the `ArrayBuffer` views,

@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.strong
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<strong>`** [HTML](/Web/HTML) element indicates that its contents have strong importance, seriousness, or urgency. Browsers typically render the contents in bold type.
 

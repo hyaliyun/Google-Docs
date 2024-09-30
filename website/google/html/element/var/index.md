@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.var
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<var>`** [HTML](/Web/HTML) element represents the name of a variable in a mathematical expression or a programming context. It's typically presented using an italicized version of the current typeface, although that behavior is browser-dependent.
 

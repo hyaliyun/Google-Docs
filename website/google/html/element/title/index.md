@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.title
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<title>`** [HTML](/Web/HTML) element defines the document's title that is shown in a {{glossary("Browser", "browser")}}'s title bar or a page's tab. It only contains text; tags within the element are ignored.
 

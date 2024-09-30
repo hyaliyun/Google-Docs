@@ -7,7 +7,7 @@ status:
 browser-compat: html.elements.strike
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<strike>`** [HTML](/Web/HTML) element places a strikethrough (horizontal line) over text.
 

@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.RangeError.RangeError
 ---
 
-{{JSRef}}
+
 
 The **`RangeError()`** constructor creates {{jsxref("RangeError")}} objects.
 

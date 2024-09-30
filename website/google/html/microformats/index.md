@@ -4,7 +4,7 @@ slug: Web/HTML/microformats
 page-type: guide
 ---
 
-{{HTMLSidebar}}
+
 
 [_Microformats_](https://microformats.org/wiki/Main_Page) are standards used to embed semantics and structured data in HTML, and provide an API to be used by social web applications, search engines, aggregators, and other tools. These minimal patterns of HTML are used for marking up entities that range from fundamental to domain-specific information, such as people, organizations, events, and locations.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-accessor-property
 browser-compat: javascript.builtins.ArrayBuffer.@@species
 ---
 
-{{JSRef}}
+
 
 The **`ArrayBuffer[Symbol.species]`** static accessor property returns the constructor used to construct return values from array buffer methods.
 

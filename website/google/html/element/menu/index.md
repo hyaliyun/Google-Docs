@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.menu
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<menu>`** [HTML](/Web/HTML) element is described in the HTML specification as a semantic alternative to {{HTMLElement("ul")}}, but treated by browsers (and exposed through the accessibility tree) as no different than {{HTMLElement("ul")}}. It represents an unordered list of items (which are represented by {{HTMLElement("li")}} elements).
 

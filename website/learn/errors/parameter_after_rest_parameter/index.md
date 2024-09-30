@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Parameter_after_rest_parameter
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "parameter after rest parameter" occurs when a [rest parameter](/Web/JavaScript/Reference/Functions/rest_parameters) is followed by anything else in a parameter list, including another rest parameter, a formal parameter, or a [trailing comma](/Web/JavaScript/Reference/Trailing_commas).
 
@@ -18,7 +18,7 @@ SyntaxError: Unexpected token ','. Rest parameter should be the last parameter i
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.footer
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<footer>`** [HTML](/Web/HTML) element represents a footer for its nearest ancestor [sectioning content](/Web/HTML/Content_categories#sectioning_content) or [sectioning root](/Web/HTML/Element/Heading_Elements#labeling_section_content) element. A `<footer>` typically contains information about the author of the section, copyright data or links to related documents.
 

@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.RangeError
 ---
 
-{{JSRef}}
+
 
 The **`RangeError`** object indicates an error when a value is not in the set or range of allowed values.
 

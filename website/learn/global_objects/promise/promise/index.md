@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Promise.Promise
 ---
 
-{{JSRef}}
+
 
 The **`Promise()`** constructor creates {{jsxref("Promise")}} objects. It is primarily used to wrap callback-based APIs that do not already support promises.
 

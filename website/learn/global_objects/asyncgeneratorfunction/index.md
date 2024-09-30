@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.AsyncGeneratorFunction
 ---
 
-{{JSRef}}
+
 
 The **`AsyncGeneratorFunction`** object provides methods for [async generator functions](/Web/JavaScript/Reference/Statements/async_function*). In JavaScript, every async generator function is actually an `AsyncGeneratorFunction` object.
 

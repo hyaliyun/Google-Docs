@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Map.has
 ---
 
-{{JSRef}}
+
 
 The **`has()`** method of {{jsxref("Map")}} instances returns a boolean indicating whether an element with the
 specified key exists in this map or not.

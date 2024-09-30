@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.match
 ---
 
-{{JSRef}}
+
 
 The **`match()`** method of {{jsxref("String")}} values retrieves the result of matching this string against a [regular expression](/Web/JavaScript/Guide/Regular_expressions).
 

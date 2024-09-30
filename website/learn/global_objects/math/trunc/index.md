@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.trunc
 ---
 
-{{JSRef}}
+
 
 The **`Math.trunc()`** static method returns the integer part of a number by removing any fractional digits.
 

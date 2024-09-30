@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.charCodeAt
 ---
 
-{{JSRef}}
+
 
 The **`charCodeAt()`** method of {{jsxref("String")}} values returns an integer between `0` and `65535` representing the UTF-16 code unit at the given index.
 

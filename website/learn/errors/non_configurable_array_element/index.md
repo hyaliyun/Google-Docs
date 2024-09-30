@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Non_configurable_array_element
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "can't delete non-configurable array element" occurs when it
 was attempted to [shorten the length](/Web/JavaScript/Reference/Global_Objects/Array/length#shortening_an_array)

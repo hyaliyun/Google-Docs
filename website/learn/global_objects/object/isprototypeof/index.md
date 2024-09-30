@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Object.isPrototypeOf
 ---
 
-{{JSRef}}
+
 
 The **`isPrototypeOf()`** method of {{jsxref("Object")}} instances checks if this object exists in another object's prototype chain.
 

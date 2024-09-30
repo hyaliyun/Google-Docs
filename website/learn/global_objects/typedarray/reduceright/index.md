@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.reduceRight
 ---
 
-{{JSRef}}
+
 
 The **`reduceRight()`** method of {{jsxref("TypedArray")}} instances applies a function against an accumulator and each value of the typed array (from right-to-left) to reduce it to a single value. This method has the same algorithm as {{jsxref("Array.prototype.reduceRight()")}}.
 

@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_tel
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`tel`** are used to let the user enter and edit a telephone number. Unlike [`<input type="email">`](/Web/HTML/Element/input/email) and [`<input type="url">`](/Web/HTML/Element/input/url), the input value is not automatically validated to a particular format before the form can be submitted, because formats for telephone numbers vary so much around the world.
 

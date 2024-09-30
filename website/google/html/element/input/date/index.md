@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_date
 ---
 
-{{HTMLSidebar}}
+
 
  elements of **`type="date"`** create input fields that let the user enter a date. The appearance of the date picker input UI varies based on the browser and operating system. The value is normalized to the format `yyyy-mm-dd`.
 

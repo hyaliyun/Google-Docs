@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.charAt
 ---
 
-{{JSRef}}
+
 
 The **`charAt()`** method of {{jsxref("String")}} values returns a new string consisting of the single UTF-16 code unit at the given index.
 

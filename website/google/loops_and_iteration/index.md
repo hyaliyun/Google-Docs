@@ -4,7 +4,7 @@ slug: Web/JavaScript/Guide/Loops_and_iteration
 page-type: guide
 ---
 
-{{jsSidebar("JavaScript Guide")}}
+
 {{PreviousNext("Web/JavaScript/Guide/Control_flow_and_error_handling", "Web/JavaScript/Guide/Functions")}}
 
 Loops offer a quick and easy way to do something repeatedly. This

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Guide/Numbers_and_dates
 page-type: guide
 ---
 
-{{jsSidebar("JavaScript Guide")}} {{PreviousNext("Web/JavaScript/Guide/Expressions_and_operators", "Web/JavaScript/Guide/Text_formatting")}}
+ 
 
 This chapter introduces the concepts, objects and functions used to work with and perform calculations using numbers and dates in JavaScript. This includes using numbers written in various bases including decimal, binary, and hexadecimal, as well as the use of the global {{jsxref("Math")}} object to perform a wide variety of mathematical operations on numbers.
 
@@ -34,7 +34,7 @@ Decimal literals can start with a zero (`0`) followed by another decimal digit, 
 
 ### Binary numbers
 
-Binary number syntax uses a leading zero followed by a lowercase or uppercase Latin letter "B" (`0b` or `0B`). If the digits after the `0b` are not 0 or 1, the following {{jsxref("SyntaxError")}} is thrown: "Missing binary digits after 0b".
+Binary number syntax uses a leading zero followed by a lowercase or uppercase Latin letter "B" (`0b` or `0B`). If the digits after the `0b` are not 0 or 1, the following  is thrown: "Missing binary digits after 0b".
 
 ```js-nolint
 0b10000000000000000000000000000000 // 2147483648
@@ -62,7 +62,7 @@ const m = 0644; // 420
 
 ### Hexadecimal numbers
 
-Hexadecimal number syntax uses a leading zero followed by a lowercase or uppercase Latin letter "X" (`0x` or `0X`). If the digits after 0x are outside the range (0123456789ABCDEF), the following {{jsxref("SyntaxError")}} is thrown: "Identifier starts immediately after numeric literal".
+Hexadecimal number syntax uses a leading zero followed by a lowercase or uppercase Latin letter "X" (`0x` or `0X`). If the digits after 0x are outside the range (0123456789ABCDEF), the following  is thrown: "Identifier starts immediately after numeric literal".
 
 ```js-nolint
 0xFFFFFFFFFFFFFFFFF // 295147905179352830000

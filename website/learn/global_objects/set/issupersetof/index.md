@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.isSupersetOf
 ---
 
-{{JSRef}}
+
 
 The **`isSupersetOf()`** method of {{jsxref("Set")}} instances takes a set and returns a boolean indicating if all elements of the given set are in this set.
 

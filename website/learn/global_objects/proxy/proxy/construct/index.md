@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Proxy.handler.construct
 ---
 
-{{JSRef}}
+
 
 The **`handler.construct()`** method is a trap for the `[[Construct]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods), which is used by operations such as the {{jsxref("Operators/new", "new")}} operator. In order for the new operation to be valid on the resulting Proxy object, the target used to initialize the proxy must itself be a valid constructor.
 

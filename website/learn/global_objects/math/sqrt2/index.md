@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Math.SQRT2
 ---
 
-{{JSRef}}
+
 
 The **`Math.SQRT2`** static data property represents the square root of 2, approximately 1.414.
 
@@ -19,7 +19,7 @@ The **`Math.SQRT2`** static data property represents the square root of 2, appro
 </math>
 <!-- prettier-ignore-end -->
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

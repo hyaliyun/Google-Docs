@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Locale.getNumberingSystems
 ---
 
-{{JSRef}}
+
 
 The **`getNumberingSystems()`** method of {{jsxref("Intl.Locale")}} instances returns a list of one or more unique [numbering system](https://en.wikipedia.org/wiki/Numeral_system) identifiers for this locale.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Regex_invalid_property_name
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "invalid property name in regular expression" or "invalid class property name in regular expression" occurs when the `\p` and `\P` [Unicode character class escapes](/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape) are not followed by a valid Unicode property name and/or value.
 
@@ -20,7 +20,7 @@ SyntaxError: Invalid regular expression: invalid property expression (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

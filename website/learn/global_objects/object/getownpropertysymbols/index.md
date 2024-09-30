@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.getOwnPropertySymbols
 ---
 
-{{JSRef}}
+
 
 The **`Object.getOwnPropertySymbols()`** static method returns an array of all symbol properties found directly upon a given object.
 

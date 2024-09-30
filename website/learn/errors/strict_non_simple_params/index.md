@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Strict_non_simple_params
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "`"use strict"` not allowed in function" occurs
 when a `"use strict"` directive is used at the top of a function with
@@ -24,7 +24,7 @@ SyntaxError: 'use strict' directive not allowed inside a function with a non-sim
 
 ## Error type
 
-{{jsxref("SyntaxError")}}.
+.
 
 ## What went wrong?
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.ArrayBuffer.detached
 ---
 
-{{JSRef}}
+
 
 The **`detached`** accessor property of {{jsxref("ArrayBuffer")}} instances returns a boolean indicating whether or not this buffer has been detached (transferred).
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Number.toFixed
 ---
 
-{{JSRef}}
+
 
 The **`toFixed()`** method of {{jsxref("Number")}} values returns a string representing this number using [fixed-point notation](https://en.wikipedia.org/wiki/Fixed-point_arithmetic) with the specified number of decimal places.
 

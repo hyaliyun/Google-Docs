@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.WeakSet.has
 ---
 
-{{JSRef}}
+
 
 The **`has()`** method of {{jsxref("WeakSet")}} instances returns a boolean indicating whether an
 object exists in this `WeakSet` or not.

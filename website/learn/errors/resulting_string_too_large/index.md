@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Resulting_string_too_large
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "repeat count must be less than infinity" occurs when the
 {{jsxref("String.prototype.repeat()")}} method is used with a `count`

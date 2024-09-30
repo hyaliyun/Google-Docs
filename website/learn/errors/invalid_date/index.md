@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Invalid_date
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "invalid date" occurs when an invalid date is attempted to be converted to an ISO date string.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.toLocaleLowerCase
 ---
 
-{{JSRef}}
+
 
 The **`toLocaleLowerCase()`** method of {{jsxref("String")}} values returns this string converted to lower case, according to any locale-specific case mappings.
 

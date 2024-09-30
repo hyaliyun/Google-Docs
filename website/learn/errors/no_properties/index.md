@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/No_properties
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "null (or undefined) has no properties" occurs when you
 attempt to access properties of [`null`](/Web/JavaScript/Reference/Operators/null) and {{jsxref("undefined")}}. They

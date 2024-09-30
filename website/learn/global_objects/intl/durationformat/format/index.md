@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.DurationFormat.format
 ---
 
-{{JSRef}}
+
 
 The **`format()`** method of {{jsxref("Intl.DurationFormat")}} instances formats a duration according to the locale and formatting options of this {{jsxref("Intl.DurationFormat")}} object.
 

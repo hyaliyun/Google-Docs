@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Object.hasOwnProperty
 ---
 
-{{JSRef}}
+
 
 The **`hasOwnProperty()`** method of {{jsxref("Object")}} instances returns a boolean indicating whether this
 object has the specified property as its own property (as opposed to inheriting

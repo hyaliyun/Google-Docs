@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.EvalError.EvalError
 ---
 
-{{JSRef}}
+
 
 The **`EvalError()`** constructor creates {{jsxref("EvalError")}} objects.
 

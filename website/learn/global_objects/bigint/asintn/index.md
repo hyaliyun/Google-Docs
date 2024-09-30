@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.BigInt.asIntN
 ---
 
-{{JSRef}}
+
 
 The **`BigInt.asIntN()`** static method truncates a `BigInt` value to the given number of least significant bits and returns that value as a signed integer.
 

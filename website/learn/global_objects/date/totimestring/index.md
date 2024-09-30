@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.toTimeString
 ---
 
-{{JSRef}}
+
 
 The **`toTimeString()`** method of  instances returns a string representing the time portion of this date interpreted in the local timezone.
 

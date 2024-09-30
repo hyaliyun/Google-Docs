@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Proxy.handler.get
 ---
 
-{{JSRef}}
+
 
 The **`handler.get()`** method is a trap for the `[[Get]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods), which is used by operations such as [property accessors](/Web/JavaScript/Reference/Operators/Property_accessors).
 

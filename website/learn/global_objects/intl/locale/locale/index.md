@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.Locale.Locale
 ---
 
-{{JSRef}}
+
 
 The **`Intl.Locale()`** constructor creates {{jsxref("Intl.Locale")}} objects.
 

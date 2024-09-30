@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.log10
 ---
 
-{{JSRef}}
+
 
 The **`Math.log10()`** static method returns the base 10 logarithm of a number. That is
 

@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_url
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`url`** are used to let the user enter and edit a URL.
 

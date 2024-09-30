@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Map.forEach
 ---
 
-{{JSRef}}
+
 
 The **`forEach()`** method of {{jsxref("Map")}} instances executes a provided function once per each key/value
 pair in this map, in insertion order.

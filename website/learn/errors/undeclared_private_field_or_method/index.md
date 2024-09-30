@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Undeclared_private_field_or_method
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "reference to undeclared private field or method #x" occurs when a [private name](/Web/JavaScript/Reference/Classes/Private_properties) is used, but this private name is not declared in the class scope.
 
@@ -18,7 +18,7 @@ SyntaxError: Cannot reference undeclared private names: "#x" (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

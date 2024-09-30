@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Missing_curly_after_property_list
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "missing } after property list" occurs when there is a mistake
 in the [object initializer](/Web/JavaScript/Reference/Operators/Object_initializer) syntax somewhere.
@@ -19,7 +19,7 @@ SyntaxError: Unexpected identifier 'c'. Expected '}' to end an object literal. (
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Read-only
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript [strict mode](/Web/JavaScript/Reference/Strict_mode)-only exception
 "is read-only" occurs when a global variable or object

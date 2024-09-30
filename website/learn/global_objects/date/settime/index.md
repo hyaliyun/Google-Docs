@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.setTime
 ---
 
-{{JSRef}}
+
 
 The **`setTime()`** method of  instances changes the [timestamp](/Web/JavaScript/Reference/Global_Objects/Date#the_epoch_timestamps_and_invalid_date) for this date, which is the number of milliseconds since the [epoch](/Web/JavaScript/Reference/Global_Objects/Date#the_epoch_timestamps_and_invalid_date), defined as the midnight at the beginning of January 1, 1970, UTC.
 

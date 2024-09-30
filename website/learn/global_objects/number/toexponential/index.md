@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Number.toExponential
 ---
 
-{{JSRef}}
+
 
 The **`toExponential()`** method of {{jsxref("Number")}} values returns a string representing
 this number in exponential notation.

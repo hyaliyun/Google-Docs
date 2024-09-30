@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Regex_invalid_capture_group_name
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "invalid capture group name in regular expression" occurs when a [named capturing group](/Web/JavaScript/Reference/Regular_expressions/Named_capturing_group) or [named backreference](/Web/JavaScript/Reference/Regular_expressions/Named_backreference) contains an invalid [identifier](/Web/JavaScript/Reference/Lexical_grammar#identifiers).
 
@@ -18,7 +18,7 @@ SyntaxError: Invalid regular expression: invalid group specifier name (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

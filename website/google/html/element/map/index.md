@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.map
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<map>`** [HTML](/Web/HTML) element is used with {{HTMLElement("area")}} elements to define an image map (a clickable link area).
 

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.defineProperties
 ---
 
-{{JSRef}}
+
 
 The **`Object.defineProperties()`** static method defines new or
 modifies existing properties directly on an object, returning the object.

@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Intl.DateTimeFormat
 ---
 
-{{JSRef}}
+
 
 The **`Intl.DateTimeFormat`** object enables language-sensitive date and time formatting.
 

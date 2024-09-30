@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Object.valueOf
 ---
 
-{{JSRef}}
+
 
 The **`valueOf()`** method of {{jsxref("Object")}} instances converts the `this` value [to an object](/Web/JavaScript/Reference/Global_Objects/Object#object_coercion). This method is meant to be overridden by derived objects for custom [type conversion](/Web/JavaScript/Data_structures#type_coercion) logic.
 

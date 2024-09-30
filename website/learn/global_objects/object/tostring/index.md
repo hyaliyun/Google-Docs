@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Object.toString
 ---
 
-{{JSRef}}
+
 
 The **`toString()`** method of {{jsxref("Object")}} instances returns a string representing this object. This method is meant to be overridden by derived objects for custom [type coercion](/Web/JavaScript/Data_structures#type_coercion) logic.
 

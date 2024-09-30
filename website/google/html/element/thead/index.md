@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.thead
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<thead>`** [HTML](/Web/HTML) element encapsulates a set of table rows ({{HTMLElement("tr")}} elements), indicating that they comprise the head of a table with information about the table's columns. This is usually in the form of column headers ({{HTMLElement("th")}} elements).
 

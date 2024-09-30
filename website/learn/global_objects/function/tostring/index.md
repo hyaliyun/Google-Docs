@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Function.toString
 ---
 
-{{JSRef}}
+
 
 The **`toString()`** method of {{jsxref("Function")}} instances returns a string representing the source code of this function.
 

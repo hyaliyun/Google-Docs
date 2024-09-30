@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.RegExp.flags
 ---
 
-{{JSRef}}
+
 
 The **`flags`** accessor property of {{jsxref("RegExp")}} instances returns the [flags](/Web/JavaScript/Guide/Regular_expressions#advanced_searching_with_flags) of this regular expression.
 

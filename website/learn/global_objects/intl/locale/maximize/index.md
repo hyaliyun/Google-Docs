@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Locale.maximize
 ---
 
-{{JSRef}}
+
 
 The **`maximize()`** method of {{jsxref("Intl.Locale")}} instances gets the
 most likely values for the language, script, and region of this locale based on

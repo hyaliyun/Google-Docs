@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Symbol.iterator
 ---
 
-{{JSRef}}
+
 
 The **`Symbol.iterator`** static data property represents the [well-known symbol](/Web/JavaScript/Reference/Global_Objects/Symbol#well-known_symbols) `Symbol.iterator`. The [iterable protocol](/Web/JavaScript/Reference/Iteration_protocols#the_iterable_protocol) looks up this symbol for the method that returns the iterator for an object. In order for an object to be iterable, it must have an `[Symbol.iterator]` key.
 
@@ -15,7 +15,7 @@ The **`Symbol.iterator`** static data property represents the [well-known symbol
 
 The well-known symbol `Symbol.iterator`.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

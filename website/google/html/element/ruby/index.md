@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.ruby
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<ruby>`** [HTML](/Web/HTML) element represents small annotations that are rendered above, below, or next to base text, usually used for showing the pronunciation of East Asian characters. It can also be used for annotating other kinds of text, but this usage is less common.
 

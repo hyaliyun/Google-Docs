@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Regex_invalid_identity_escape
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "invalid identity escape in regular expression" occurs when a [Unicode-aware](/Web/JavaScript/Reference/Global_Objects/RegExp/unicode#unicode-aware_mode) regular expression pattern contains an [escape sequence](/Web/JavaScript/Reference/Regular_expressions#escape_sequences) that does not represent a recognized escape sequence.
 
@@ -18,7 +18,7 @@ SyntaxError: Invalid regular expression: invalid escaped character for Unicode p
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

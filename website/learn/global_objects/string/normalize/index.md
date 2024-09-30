@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.normalize
 ---
 
-{{JSRef}}
+
 
 The **`normalize()`** method of {{jsxref("String")}} values returns the Unicode Normalization
 Form of this string.

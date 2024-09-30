@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.dl
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<dl>`** [HTML](/Web/HTML) element represents a description list. The element encloses a list of groups of terms (specified using the {{HTMLElement("dt")}} element) and descriptions (provided by {{HTMLElement("dd")}} elements). Common uses for this element are to implement a glossary or to display metadata (a list of key-value pairs).
 

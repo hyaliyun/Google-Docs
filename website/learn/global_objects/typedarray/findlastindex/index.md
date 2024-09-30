@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.findLastIndex
 ---
 
-{{JSRef}}
+
 
 The **`findLastIndex()`** method of {{jsxref("TypedArray")}} instances iterates the typed array in reverse order and returns the index of the first element that satisfies the provided testing function. If no elements satisfy the testing function, -1 is returned. This method has the same algorithm as {{jsxref("Array.prototype.findLastIndex()")}}.
 

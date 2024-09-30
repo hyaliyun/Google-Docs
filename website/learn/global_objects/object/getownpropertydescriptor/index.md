@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.getOwnPropertyDescriptor
 ---
 
-{{JSRef}}
+
 
 The **`Object.getOwnPropertyDescriptor()`** static method returns an
 object describing the configuration of a specific property on a given object (that is,

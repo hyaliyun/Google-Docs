@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.Collator.compare
 ---
 
-{{JSRef}}
+
 
 The **`compare()`** method of {{jsxref("Intl.Collator")}} instances compares two
 strings according to the sort order of this collator object.

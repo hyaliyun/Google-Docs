@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_file
 ---
 
-{{HTMLSidebar}}
+
 
  elements with **`type="file"`** let the user choose one or more files from their device storage. Once chosen, the files can be uploaded to a server using [form submission](/Learn/Forms), or manipulated using JavaScript code and [the File API](/Web/API/File_API/Using_files_from_web_applications).
 

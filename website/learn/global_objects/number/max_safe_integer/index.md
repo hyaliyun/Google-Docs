@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Number.MAX_SAFE_INTEGER
 ---
 
-{{JSRef}}
+
 
 The **`Number.MAX_SAFE_INTEGER`** static data property represents the maximum safe integer in JavaScript (2<sup>53</sup> – 1).
 
@@ -17,7 +17,7 @@ For larger integers, consider using {{jsxref("BigInt")}}.
 
 `9007199254740991` (9,007,199,254,740,991, or \~9 quadrillion).
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

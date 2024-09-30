@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.getUTCMilliseconds
 ---
 
-{{JSRef}}
+
 
 The **`getUTCMilliseconds()`** method of  instances returns the milliseconds for this date according to universal time.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Stmt_after_return
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript warning "unreachable code after return statement" occurs when using an
 expression after a {{jsxref("Statements/return", "return")}} statement, or when using a

@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.head
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<head>`** [HTML](/Web/HTML) element contains machine-readable information ({{glossary("metadata")}}) about the document, like its [title](/Web/HTML/Element/title), [scripts](/Web/HTML/Element/script), and [style sheets](/Web/HTML/Element/style). There can be only one `<head>` element in an HTML document.
 

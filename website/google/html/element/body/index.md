@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.body
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<body>`** [HTML](/Web/HTML) element represents the content of an HTML document. There can be only one `<body>` element in a document.
 

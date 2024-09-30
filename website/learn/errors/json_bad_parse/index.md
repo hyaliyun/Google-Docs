@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/JSON_bad_parse
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exceptions thrown by {{jsxref("JSON.parse()")}} occur when string failed
 to be parsed as JSON.
@@ -47,7 +47,7 @@ SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

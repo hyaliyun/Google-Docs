@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.acos
 ---
 
-{{JSRef}}
+
 
 The **`Math.acos()`** static method returns the inverse cosine (in radians) of a number. That is,
 

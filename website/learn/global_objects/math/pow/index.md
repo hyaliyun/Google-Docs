@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.pow
 ---
 
-{{JSRef}}
+
 
 The **`Math.pow()`** static method returns the value of a base raised to a power. That is
 

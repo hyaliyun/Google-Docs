@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.Intl.Locale.language
 ---
 
-{{JSRef}}
+
 
 The **`language`** accessor property of {{jsxref("Intl.Locale")}} instances returns the language associated with this locale.
 

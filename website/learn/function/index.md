@@ -5,7 +5,7 @@ page-type: javascript-statement
 browser-compat: javascript.statements.function
 ---
 
-{{jsSidebar("Statements")}}
+
 
 The **`function`** declaration creates a {{Glossary("binding")}} of a new function to a given name.
 

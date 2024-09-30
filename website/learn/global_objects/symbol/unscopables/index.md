@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Symbol.unscopables
 ---
 
-{{JSRef}}
+
 
 The **`Symbol.unscopables`** static data property represents the [well-known symbol](/Web/JavaScript/Reference/Global_Objects/Symbol#well-known_symbols) `Symbol.unscopables`. The {{jsxref("Statements/with", "with")}} statement looks up this symbol on the scope object for a property containing a collection of properties that should not become bindings within the `with` environment.
 
@@ -15,7 +15,7 @@ The **`Symbol.unscopables`** static data property represents the [well-known sym
 
 The well-known symbol `Symbol.unscopables`.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

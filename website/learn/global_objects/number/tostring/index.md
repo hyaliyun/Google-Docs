@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Number.toString
 ---
 
-{{JSRef}}
+
 
 The **`toString()`** method of {{jsxref("Number")}} values returns a string representing this number value.
 

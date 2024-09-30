@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Intl.NumberFormat
 ---
 
-{{JSRef}}
+
 
 The **`Intl.NumberFormat`** object enables language-sensitive number formatting.
 

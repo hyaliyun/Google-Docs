@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.DateTimeFormat.DateTimeFormat
 ---
 
-{{JSRef}}
+
 
 The **`Intl.DateTimeFormat()`** constructor creates {{jsxref("Intl.DateTimeFormat")}} objects.
 

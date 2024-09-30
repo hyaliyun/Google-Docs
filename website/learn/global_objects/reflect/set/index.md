@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Reflect.set
 ---
 
-{{JSRef}}
+
 
 The **`Reflect.set()`** static method is like the [property accessor](/Web/JavaScript/Reference/Operators/Property_accessors) and [assignment](/Web/JavaScript/Reference/Operators/Assignment) syntax, but as a function.
 

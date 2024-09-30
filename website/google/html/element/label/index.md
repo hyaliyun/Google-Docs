@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.label
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<label>`** [HTML](/Web/HTML) element represents a caption for an item in a user interface.
 

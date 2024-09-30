@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.setFullYear
 ---
 
-{{JSRef}}
+
 
 The **`setFullYear()`** method of  instances changes the year, month, and/or day of month for this date according to local time.
 

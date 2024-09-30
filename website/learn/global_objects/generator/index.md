@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Generator
 ---
 
-{{JSRef}}
+
 
 The **`Generator`** object is returned by a {{jsxref("Statements/function*", "generator function", "", 1)}} and it conforms to both the [iterable protocol](/Web/JavaScript/Reference/Iteration_protocols#the_iterable_protocol) and the [iterator protocol](/Web/JavaScript/Reference/Iteration_protocols#the_iterator_protocol).
 

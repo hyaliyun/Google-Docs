@@ -5,7 +5,7 @@ page-type: javascript-instance-data-property
 browser-compat: javascript.builtins.Error.cause
 ---
 
-{{JSRef}}
+
 
 The **`cause`** data property of an {{jsxref("Error")}} instance indicates the specific original cause of the error.
 

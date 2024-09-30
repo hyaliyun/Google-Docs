@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Math.PI
 ---
 
-{{JSRef}}
+
 
 The **`Math.PI`** static data property represents the ratio of the circumference of a circle to its diameter, approximately 3.14159.
 
@@ -19,7 +19,7 @@ The **`Math.PI`** static data property represents the ratio of the circumference
 </math>
 <!-- prettier-ignore-end -->
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

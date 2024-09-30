@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.tr
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<tr>`** [HTML](/Web/HTML) element defines a row of cells in a table. The row's cells can then be established using a mix of {{HTMLElement("td")}} (data cell) and {{HTMLElement("th")}} (header cell) elements.
 

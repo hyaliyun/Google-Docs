@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Regex_backslash_at_end_of_pattern
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "\ at end of pattern" occurs when a regular expression pattern ends with an unescaped backslash (`\`). In a regex literal, the backslash would cause the closing slash `/` to be a literal character, so this can only appear when using the {{jsxref("RegExp/RegExp", "RegExp()")}} constructor.
 
@@ -18,7 +18,7 @@ SyntaxError: Invalid regular expression: \ at end of pattern (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

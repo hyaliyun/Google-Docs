@@ -5,7 +5,7 @@ page-type: javascript-static-accessor-property
 browser-compat: javascript.builtins.Promise.@@species
 ---
 
-{{JSRef}}
+
 
 The **`Promise[Symbol.species]`** static accessor property returns the constructor used to construct return values from promise methods.
 

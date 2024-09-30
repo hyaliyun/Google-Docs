@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.abbr
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<abbr>`** [HTML](/Web/HTML) element represents an abbreviation or acronym.
 

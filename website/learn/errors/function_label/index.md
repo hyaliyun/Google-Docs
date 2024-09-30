@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Function_label
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "functions cannot be labelled" occurs when a {{jsxref("Statements/function", "function")}} declaration has a [label](/Web/JavaScript/Reference/Statements/label) before it.
 
@@ -29,7 +29,7 @@ SyntaxError: Unexpected keyword 'function'. Cannot use async function declaratio
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

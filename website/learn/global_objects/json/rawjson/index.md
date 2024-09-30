@@ -7,7 +7,7 @@ status:
 browser-compat: javascript.builtins.JSON.rawJSON
 ---
 
-{{JSRef}}
+
 
 The **`JSON.rawJSON()`** static method creates a "raw JSON" object containing a piece of JSON text. When serialized to JSON, the raw JSON object is treated as if it is already a piece of JSON. This text is required to be valid JSON.
 
@@ -33,7 +33,7 @@ Furthermore, it has a [private property](/Web/JavaScript/Reference/Classes/Priva
 
 ### Exceptions
 
-- {{jsxref("SyntaxError")}}
+- 
   - : Thrown if the `string` is not valid JSON, or if it represents an object or array.
 
 ## Description

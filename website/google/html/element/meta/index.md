@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.meta
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<meta>`** [HTML](/Web/HTML) element represents {{Glossary("Metadata","metadata")}} that cannot be represented by other HTML meta-related elements, like {{HTMLElement("base")}}, {{HTMLElement("link")}}, {{HTMLElement("script")}}, {{HTMLElement("style")}} or {{HTMLElement("title")}}.
 

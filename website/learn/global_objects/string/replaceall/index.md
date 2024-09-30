@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.replaceAll
 ---
 
-{{JSRef}}
+
 
 The **`replaceAll()`** method of {{jsxref("String")}} values returns a new string with all matches of a `pattern` replaced by a `replacement`. The `pattern` can be a string or a {{jsxref("RegExp")}}, and the `replacement` can be a string or a function to be called for each match. The original string is left unchanged.
 

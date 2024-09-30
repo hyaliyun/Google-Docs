@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Missing_name_after_dot_operator
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "missing name after . operator" occurs when there is a problem
 with how the dot operator (`.`) is used
@@ -19,7 +19,7 @@ SyntaxError: Unexpected token '['. Expected a property name after '.'. (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

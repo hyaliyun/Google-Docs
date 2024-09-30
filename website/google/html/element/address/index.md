@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.address
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<address>`** [HTML](/Web/HTML) element indicates that the enclosed HTML provides contact information for a person or people, or for an organization.
 

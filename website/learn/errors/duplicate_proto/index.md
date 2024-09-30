@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Duplicate_proto
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "property name \_\_proto\_\_ appears more than once in object literal" occurs when an [object literal](/Web/JavaScript/Reference/Operators/Object_initializer) contains multiple occurrences of the `__proto__` field, which is used to [set the prototype of this new object](/Web/JavaScript/Reference/Operators/Object_initializer#prototype_setter).
 
@@ -18,7 +18,7 @@ SyntaxError: Attempted to redefine __proto__ property. (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

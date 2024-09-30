@@ -5,7 +5,7 @@ page-type: javascript-statement
 spec-urls: https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html#sec-expression-statement
 ---
 
-{{jsSidebar("Statements")}}
+
 
 An **expression statement** is an expression used in a place where a statement is expected. The expression is evaluated and its result is discarded — therefore, it makes sense only for expressions that have side effects, such as executing a function or updating a variable.
 

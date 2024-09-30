@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Uint8ClampedArray.Uint8ClampedArray
 ---
 
-{{JSRef}}
+
 
 The **`Uint8ClampedArray()`** constructor creates {{jsxref("Uint8ClampedArray")}} objects. The contents are initialized to `0` unless initialization data is explicitly provided.
 

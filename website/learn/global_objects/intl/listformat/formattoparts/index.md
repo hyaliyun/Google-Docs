@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Intl.ListFormat.formatToParts
 ---
 
-{{JSRef}}
+
 
 The **`formatToParts()`** method of {{jsxref("Intl.ListFormat")}} instances
 returns an {{jsxref("Array")}} of objects representing the different components that

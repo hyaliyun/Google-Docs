@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.data
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<data>`** [HTML](/Web/HTML) element links a given piece of content with a machine-readable translation. If the content is time- or date-related, the {{HTMLElement("time")}} element must be used.
 

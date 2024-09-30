@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.meter
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<meter>`** [HTML](/Web/HTML) element represents either a scalar value within a known range or a fractional value.
 

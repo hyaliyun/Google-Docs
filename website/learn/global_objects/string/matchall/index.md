@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.String.matchAll
 ---
 
-{{JSRef}}
+
 
 The **`matchAll()`** method of {{jsxref("String")}} values returns an iterator of all results matching this string against a [regular expression](/Web/JavaScript/Guide/Regular_expressions), including [capturing groups](/Web/JavaScript/Guide/Regular_expressions/Groups_and_backreferences).
 

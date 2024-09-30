@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Symbol.hasInstance
 ---
 
-{{JSRef}}
+
 
 The **`Symbol.hasInstance`** static data property represents the [well-known symbol](/Web/JavaScript/Reference/Global_Objects/Symbol#well-known_symbols) `Symbol.hasInstance`. The {{jsxref("Operators/instanceof", "instanceof")}} operator looks up this symbol on its right-hand operand for the method used to determine if the constructor object recognizes an object as its instance.
 
@@ -15,7 +15,7 @@ The **`Symbol.hasInstance`** static data property represents the [well-known sym
 
 The well-known symbol `Symbol.hasInstance`.
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

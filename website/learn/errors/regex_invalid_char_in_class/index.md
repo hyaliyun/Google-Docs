@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Regex_invalid_char_in_class
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "invalid character in class in regular expression" occurs when a character appears in a [`v`-mode character class](/Web/JavaScript/Reference/Regular_expressions/Character_class#v-mode_character_class) but it's not allowed to appear literally.
 
@@ -18,7 +18,7 @@ SyntaxError: Invalid regular expression: invalid class set character (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

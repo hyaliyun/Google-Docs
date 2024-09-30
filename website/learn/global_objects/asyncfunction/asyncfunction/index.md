@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.AsyncFunction.AsyncFunction
 ---
 
-{{JSRef}}
+
 
 The **`AsyncFunction()`** constructor creates {{jsxref("AsyncFunction")}} objects.
 

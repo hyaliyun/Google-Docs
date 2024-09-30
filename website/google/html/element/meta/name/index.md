@@ -5,7 +5,7 @@ page-type: html-attribute
 browser-compat: html.elements.meta.name
 ---
 
-{{HTMLSidebar}}
+
 
 The {{htmlelement("meta")}} element can be used to provide document metadata in terms of name-value pairs, with the [`name`](/Web/HTML/Element/meta#name) attribute giving the metadata name, and the [`content`](/Web/HTML/Element/meta#content) attribute giving the value.
 

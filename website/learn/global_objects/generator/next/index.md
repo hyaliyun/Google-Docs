@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Generator.next
 ---
 
-{{JSRef}}
+
 
 The **`next()`** method of {{jsxref("Generator")}} instances returns an
 object with two properties `done` and `value`. You can also

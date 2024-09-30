@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Symbol.toString
 ---
 
-{{JSRef}}
+
 
 The **`toString()`** method of {{jsxref("Symbol")}} values returns a string representing this symbol value.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.@@iterator
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.iterator]()`** method of {{jsxref("TypedArray")}} instances implements the [iterable protocol](/Web/JavaScript/Reference/Iteration_protocols) and allows typed arrays to be consumed by most syntaxes expecting iterables, such as the [spread syntax](/Web/JavaScript/Reference/Operators/Spread_syntax) and {{jsxref("Statements/for...of", "for...of")}} loops. It returns an [array iterator object](/Web/JavaScript/Reference/Global_Objects/Iterator) that yields the value of each index in the typed array.
 

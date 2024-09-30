@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.fieldset
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<fieldset>`** [HTML](/Web/HTML) element is used to group several controls as well as labels ({{HTMLElement("label")}}) within a web form.
 

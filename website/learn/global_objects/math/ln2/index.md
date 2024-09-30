@@ -5,7 +5,7 @@ page-type: javascript-static-data-property
 browser-compat: javascript.builtins.Math.LN2
 ---
 
-{{JSRef}}
+
 
 The **`Math.LN2`** static data property represents the natural logarithm of 2, approximately 0.693:
 
@@ -19,7 +19,7 @@ The **`Math.LN2`** static data property represents the natural logarithm of 2, a
 </math>
 <!-- prettier-ignore-end -->
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

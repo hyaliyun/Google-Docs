@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.copyWithin
 ---
 
-{{JSRef}}
+
 
 The **`copyWithin()`** method of {{jsxref("Array")}} instances shallow copies part of this array to another location in the same array and returns this array without modifying its length.
 

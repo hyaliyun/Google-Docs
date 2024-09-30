@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.picture
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<picture>`** [HTML](/Web/HTML) element contains zero or more {{HTMLElement("source")}} elements and one {{HTMLElement("img")}} element to offer alternative versions of an image for different display/device scenarios.
 

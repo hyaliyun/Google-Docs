@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_time
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`time`** create input fields designed to let the user easily enter a time (hours and minutes, and optionally seconds).
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Map.@@iterator
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.iterator]()`** method of {{jsxref("Map")}} instances implements the [iterable protocol](/Web/JavaScript/Reference/Iteration_protocols) and allows `Map` objects to be consumed by most syntaxes expecting iterables, such as the [spread syntax](/Web/JavaScript/Reference/Operators/Spread_syntax) and {{jsxref("Statements/for...of", "for...of")}} loops. It returns a [map iterator object](/Web/JavaScript/Reference/Global_Objects/Iterator) that yields the key-value pairs of the map in insertion order.
 

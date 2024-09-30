@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.Intl.Collator.Collator
 ---
 
-{{JSRef}}
+
 
 The **`Intl.Collator()`** constructor creates {{jsxref("Intl.Collator")}} objects.
 

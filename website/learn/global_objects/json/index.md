@@ -5,7 +5,7 @@ page-type: javascript-namespace
 browser-compat: javascript.builtins.JSON
 ---
 
-{{JSRef}}
+
 
 The **`JSON`** namespace object contains static methods for parsing values from and converting values to [JavaScript Object Notation](https://json.org/) ({{Glossary("JSON")}}).
 
@@ -22,7 +22,7 @@ JSON is a syntax for serializing objects, arrays, numbers, strings, booleans, an
 - Numbers
   - : Leading zeros are prohibited. A decimal point must be followed by at least one digit. `NaN` and `Infinity` are unsupported.
 
-Any JSON text is a valid JavaScript expression, but only after the [JSON superset](https://github.com/tc39/proposal-json-superset) revision. Before the revision, U+2028 LINE SEPARATOR and U+2029 PARAGRAPH SEPARATOR are allowed in string literals and property keys in JSON; but the same use in JavaScript string literals is a {{jsxref("SyntaxError")}}.
+Any JSON text is a valid JavaScript expression, but only after the [JSON superset](https://github.com/tc39/proposal-json-superset) revision. Before the revision, U+2028 LINE SEPARATOR and U+2029 PARAGRAPH SEPARATOR are allowed in string literals and property keys in JSON; but the same use in JavaScript string literals is a .
 
 Other differences include allowing only double-quoted strings and no support for {{jsxref("undefined")}} or comments. For those who wish to use a more human-friendly configuration format based on JSON, there is [JSON5](https://json5.org/), used by the Babel compiler, and the more commonly used [YAML](https://en.wikipedia.org/wiki/YAML).
 
@@ -94,11 +94,11 @@ Insignificant {{Glossary("whitespace")}} may be present anywhere except within a
 
 ## Static methods
 
-- {{jsxref("JSON.isRawJSON()")}} {{experimental_inline}}
+- {{jsxref("JSON.isRawJSON()")}} 
   - : Tests whether a value is an object returned by {{jsxref("JSON.rawJSON()")}}.
 - {{jsxref("JSON.parse()")}}
   - : Parse a piece of string text as JSON, optionally transforming the produced value and its properties, and return the value.
-- {{jsxref("JSON.rawJSON()")}} {{experimental_inline}}
+- {{jsxref("JSON.rawJSON()")}} 
   - : Creates a "raw JSON" object containing a piece of JSON text. When serialized to JSON, the raw JSON object is treated as if it is already a piece of JSON. This text is required to be valid JSON.
 - {{jsxref("JSON.stringify()")}}
   - : Return a JSON string corresponding to the specified value, optionally including only certain properties or replacing property values in a user-defined manner.

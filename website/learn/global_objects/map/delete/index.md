@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Map.delete
 ---
 
-{{JSRef}}
+
 
 The **`delete()`** method of {{jsxref("Map")}} instances removes the specified element from this map by
 key.

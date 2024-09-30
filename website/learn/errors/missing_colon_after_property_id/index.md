@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Missing_colon_after_property_id
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "missing : after property id" occurs when objects are created
 using the [object initializer](/Web/JavaScript/Reference/Operators/Object_initializer) syntax.
@@ -22,7 +22,7 @@ SyntaxError: Unexpected token '+'. Expected an identifier as property name. (Saf
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Promise.resolve
 ---
 
-{{JSRef}}
+
 
 The **`Promise.resolve()`** static method "resolves" a given value to a {{jsxref("Promise")}}. If the value is a promise, that promise is returned; if the value is a [thenable](/Web/JavaScript/Reference/Global_Objects/Promise#thenables), `Promise.resolve()` will call the `then()` method with two callbacks it prepared; otherwise the returned promise will be fulfilled with the value.
 

@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.FinalizationRegistry
 ---
 
-{{JSRef}}
+
 
 A **`FinalizationRegistry`** object lets you request a callback when a value is garbage-collected.
 

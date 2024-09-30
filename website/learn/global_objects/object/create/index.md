@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.create
 ---
 
-{{JSRef}}
+
 
 The **`Object.create()`** static method creates a new object, using an existing object as the prototype of the newly created object.
 

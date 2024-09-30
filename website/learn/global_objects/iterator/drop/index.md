@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Iterator.drop
 ---
 
-{{JSRef}}
+
 
 The **`drop()`** method of {{jsxref("Iterator")}} instances returns a new [iterator helper](/Web/JavaScript/Reference/Global_Objects/Iterator#iterator_helpers) that skips the given number of elements at the start of this iterator.
 

@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Bad_super_call
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "super() is only valid in derived class constructors" occurs when the {{jsxref("Operators/super", "super()")}} call is used somewhere that's not the body of a [constructor](/Web/JavaScript/Reference/Classes/constructor) in a class with [`extends`](/Web/JavaScript/Reference/Classes/extends) keyword.
 
@@ -18,7 +18,7 @@ SyntaxError: super is not valid in this context. (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

@@ -7,7 +7,7 @@ browser-compat:
   - html.elements.area.rel.noopener
 ---
 
-{{HTMLSidebar}}
+
 
 The **`noopener`** keyword for the [`rel`](/Web/HTML/Attributes/rel) attribute of the {{HTMLElement("a")}}, {{HTMLElement("area")}}, and {{HTMLElement("form")}} elements instructs the browser to navigate to the target resource without granting the new browsing context access to the document that opened it — by not setting the {{DOMxRef("Window.opener")}} property on the opened window (it returns `null`).
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.WeakMap.get
 ---
 
-{{JSRef}}
+
 
 The **`get()`** method of {{jsxref("WeakMap")}} instances returns a specified element from this `WeakMap`.
 

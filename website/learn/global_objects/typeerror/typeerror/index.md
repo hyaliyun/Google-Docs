@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.TypeError.TypeError
 ---
 
-{{JSRef}}
+
 
 The **`TypeError()`** constructor creates {{jsxref("TypeError")}} objects.
 

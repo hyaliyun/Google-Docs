@@ -5,7 +5,7 @@ page-type: javascript-namespace
 browser-compat: javascript.builtins.Intl
 ---
 
-{{JSRef}}
+
 
 The **`Intl`** namespace object contains several constructors as well as functionality common to the internationalization constructors and other language sensitive functions. Collectively, they comprise the ECMAScript Internationalization API, which provides language sensitive string comparison, number formatting, date and time formatting, and more.
 

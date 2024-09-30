@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Atomics.or
 ---
 
-{{JSRef}}
+
 
 The **`Atomics.or()`** static
 method computes a bitwise OR with a given value at a given position in the array, and

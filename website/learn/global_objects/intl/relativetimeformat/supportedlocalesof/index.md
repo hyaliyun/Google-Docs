@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Intl.RelativeTimeFormat.supportedLocalesOf
 ---
 
-{{JSRef}}
+
 
 The **`Intl.RelativeTimeFormat.supportedLocalesOf()`** static method returns an array containing those of the provided locales that are supported in relative time formatting without having to fall back to the runtime's default locale.
 

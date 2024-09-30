@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.template
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<template>`** [HTML](/Web/HTML) element serves as a mechanism for holding {{Glossary("HTML")}} fragments, which can either be used later via JavaScript or generated immediately into shadow DOM.
 
@@ -45,7 +45,7 @@ This element includes the [global attributes](/Web/HTML/Global_attributes).
     If this is set and a non-focusable element in the shadow tree is selected, then focus is delegated to the first focusable element in the tree.
     The value defaults to `false`.
 
-- `shadowrootserializable` {{experimental_inline}}
+- `shadowrootserializable` 
 
   - : Sets the value of the [`serializable`](/Web/API/ShadowRoot/serializable) property of a [`ShadowRoot`](/Web/API/ShadowRoot) created using this element to `true`.
     If set, the shadow root may be serialized by calling the {{DOMxRef('Element.getHTML()')}} or {{DOMxRef('ShadowRoot.getHTML()')}} methods with the `options.serializableShadowRoots` parameter set `true`.

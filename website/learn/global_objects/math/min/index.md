@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.min
 ---
 
-{{JSRef}}
+
 
 The **`Math.min()`** static method returns the smallest of the numbers given as input parameters, or {{jsxref("Infinity")}} if there are no parameters.
 

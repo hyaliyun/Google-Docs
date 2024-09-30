@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.Error
 ---
 
-{{JSRef}}
+
 
 **`Error`** objects are thrown when runtime errors occur. The `Error` object can also be used as a base object for user-defined exceptions. See below for standard built-in error types.
 
@@ -25,7 +25,7 @@ Besides the generic `Error` constructor, there are other core error constructors
   - : Creates an instance representing an error that occurs when a numeric variable or parameter is outside its valid range.
 - {{jsxref("ReferenceError")}}
   - : Creates an instance representing an error that occurs when de-referencing an invalid reference.
-- {{jsxref("SyntaxError")}}
+- 
   - : Creates an instance representing a syntax error.
 - {{jsxref("TypeError")}}
   - : Creates an instance representing an error that occurs when a variable or parameter is not of a valid type.
@@ -57,7 +57,7 @@ These properties are defined on `Error.prototype` and shared by all `Error` inst
 - {{jsxref("Object/constructor", "Error.prototype.constructor")}}
   - : The constructor function that created the instance object. For `Error` instances, the initial value is the {{jsxref("Error/Error", "Error")}} constructor.
 - {{jsxref("Error.prototype.name")}}
-  - : Represents the name for the type of error. For `Error.prototype.name`, the initial value is `"Error"`. Subclasses like {{jsxref("TypeError")}} and {{jsxref("SyntaxError")}} provide their own `name` properties.
+  - : Represents the name for the type of error. For `Error.prototype.name`, the initial value is `"Error"`. Subclasses like {{jsxref("TypeError")}} and  provide their own `name` properties.
 - {{jsxref("Error.prototype.stack")}} {{non-standard_inline}}
   - : A non-standard property for a stack trace.
 

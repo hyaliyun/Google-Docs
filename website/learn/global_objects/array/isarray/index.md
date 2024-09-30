@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Array.isArray
 ---
 
-{{JSRef}}
+
 
 The **`Array.isArray()`** static method determines whether the passed value is an {{jsxref("Array")}}.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Math.cbrt
 ---
 
-{{JSRef}}
+
 
 The **`Math.cbrt()`** static method returns the cube root of a number. That is
 

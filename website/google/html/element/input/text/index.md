@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_text
 ---
 
-{{HTMLSidebar}}
+
 
  elements of type **`text`** create basic single-line text fields.
 

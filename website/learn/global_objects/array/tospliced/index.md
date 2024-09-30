@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.toSpliced
 ---
 
-{{JSRef}}
+
 
 The **`toSpliced()`** method of {{jsxref("Array")}} instances is the [copying](/Web/JavaScript/Reference/Global_Objects/Array#copying_methods_and_mutating_methods) version of the {{jsxref("Array/splice", "splice()")}} method. It returns a new array with some elements removed and/or replaced at a given index.
 

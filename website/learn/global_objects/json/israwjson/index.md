@@ -7,7 +7,7 @@ status:
 browser-compat: javascript.builtins.JSON.isRawJSON
 ---
 
-{{JSRef}}
+
 
 The **`JSON.isRawJSON()`** static method tests whether a value is an object returned by {{jsxref("JSON.rawJSON()")}}.
 

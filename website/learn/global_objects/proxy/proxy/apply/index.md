@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Proxy.handler.apply
 ---
 
-{{JSRef}}
+
 
 The **`handler.apply()`** method is a trap for the `[[Call]]` [object internal method](/Web/JavaScript/Reference/Global_Objects/Proxy#object_internal_methods), which is used by operations such as function calls.
 

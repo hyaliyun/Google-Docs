@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.Object.values
 ---
 
-{{JSRef}}
+
 
 The **`Object.values()`** static method returns an array of a given object's own enumerable string-keyed property values.
 

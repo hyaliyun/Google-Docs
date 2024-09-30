@@ -5,7 +5,7 @@ page-type: javascript-global-property
 browser-compat: javascript.builtins.undefined
 ---
 
-{{jsSidebar("Objects")}}
+
 
 The **`undefined`** global property represents the primitive
 value [`undefined`](/Web/JavaScript/Data_structures#undefined_type). It is one of JavaScript's
@@ -17,7 +17,7 @@ value [`undefined`](/Web/JavaScript/Data_structures#undefined_type). It is one o
 
 The primitive value [`undefined`](/Web/JavaScript/Data_structures#undefined_type).
 
-{{js_property_attributes(0, 0, 0)}}
+
 
 ## Description
 

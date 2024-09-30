@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.input.type_password
 ---
 
-{{HTMLSidebar}}
+
 
 `<input>` elements of type **`password`** provide a way for the user to securely enter a password.
 

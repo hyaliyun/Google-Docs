@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Set.has
 ---
 
-{{JSRef}}
+
 
 The **`has()`** method of {{jsxref("Set")}} instances returns a boolean indicating whether an
 element with the specified value exists in this set or not.

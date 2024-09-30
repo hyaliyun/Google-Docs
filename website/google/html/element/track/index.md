@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.track
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<track>`** [HTML](/Web/HTML) element is used as a child of the media elements, {{HTMLElement("audio")}} and {{HTMLElement("video")}}.
 Each track element lets you specify a timed text track (or time-based data) that can be displayed in parallel with the media element, for example to overlay subtitles or closed captions on top of a video or alongside audio tracks.

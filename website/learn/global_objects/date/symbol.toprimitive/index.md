@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.@@toPrimitive
 ---
 
-{{JSRef}}
+
 
 The **`[Symbol.toPrimitive]()`** method of  instances returns a primitive value representing this date. It may either be a string or a number, depending on the hint given.
 

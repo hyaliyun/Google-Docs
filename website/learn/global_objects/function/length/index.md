@@ -5,7 +5,7 @@ page-type: javascript-instance-data-property
 browser-compat: javascript.builtins.Function.length
 ---
 
-{{JSRef}}
+
 
 The **`length`** data property of a {{jsxref("Function")}} instance indicates the number of parameters expected by the function.
 

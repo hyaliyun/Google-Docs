@@ -5,7 +5,7 @@ page-type: javascript-constructor
 browser-compat: javascript.builtins.AggregateError.AggregateError
 ---
 
-{{JSRef}}
+
 
 The **`AggregateError()`** constructor creates {{jsxref("AggregateError")}} objects.
 
@@ -61,4 +61,4 @@ try {
 ## See also
 
 - [Polyfill of `AggregateError` in `core-js`](https://github.com/zloirock/core-js#ecmascript-promise)
-- {{jsxref("Promise.any")}}
+- 

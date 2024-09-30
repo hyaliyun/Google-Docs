@@ -4,7 +4,7 @@ slug: Web/JavaScript/Guide/Iterators_and_generators
 page-type: guide
 ---
 
-{{jsSidebar("JavaScript Guide")}} {{PreviousNext("Web/JavaScript/Guide/Typed_arrays", "Web/JavaScript/Guide/Meta_programming")}}
+ 
 
 Iterators and Generators bring the concept of iteration directly into the core language and provide a mechanism for customizing the behavior of {{jsxref("Statements/for...of", "for...of")}} loops.
 

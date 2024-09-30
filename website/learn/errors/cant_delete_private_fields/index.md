@@ -4,7 +4,7 @@ slug: Web/JavaScript/Reference/Errors/Cant_delete_private_fields
 page-type: javascript-error
 ---
 
-{{jsSidebar("Errors")}}
+
 
 The JavaScript exception "SyntaxError: private fields can't be deleted" occurs when [`delete`](/Web/JavaScript/Reference/Operators/delete) is used on a [private property](/Web/JavaScript/Reference/Classes/Private_properties) of a class or an object.
 
@@ -18,7 +18,7 @@ SyntaxError: Cannot delete private field X (Safari)
 
 ## Error type
 
-{{jsxref("SyntaxError")}}
+
 
 ## What went wrong?
 

@@ -7,7 +7,7 @@ status:
 browser-compat: javascript.builtins.String.italics
 ---
 
-{{JSRef}} 
+ 
 
 The **`italics()`** method of {{jsxref("String")}} values creates a string that embeds this string in an {{HTMLElement("i")}} element (`<i>str</i>`), which causes this string to be displayed as italic.
 

@@ -5,7 +5,7 @@ page-type: javascript-static-method
 browser-compat: javascript.builtins.JSON.parse
 ---
 
-{{JSRef}}
+
 
 The **`JSON.parse()`** static method parses a JSON string, constructing the JavaScript value or object described by the string. An optional _reviver_ function can be provided to perform a transformation on the resulting object before it is returned.
 
@@ -39,7 +39,7 @@ The {{jsxref("Object")}}, {{jsxref("Array")}}, string, number, boolean, or `null
 
 ### Exceptions
 
-- {{jsxref("SyntaxError")}}
+- 
   - : Thrown if the string to parse is not valid JSON.
 
 ## Description

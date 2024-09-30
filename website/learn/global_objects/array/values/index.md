@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Array.values
 ---
 
-{{JSRef}}
+
 
 The **`values()`** method of {{jsxref("Array")}} instances returns a new _[array iterator](/Web/JavaScript/Reference/Global_Objects/Iterator)_ object that iterates the value of each item in the array.
 

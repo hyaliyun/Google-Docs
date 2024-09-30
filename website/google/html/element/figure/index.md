@@ -5,7 +5,7 @@ page-type: html-element
 browser-compat: html.elements.figure
 ---
 
-{{HTMLSidebar}}
+
 
 The **`<figure>`** [HTML](/Web/HTML) element represents self-contained content, potentially with an optional caption, which is specified using the {{HTMLElement("figcaption")}} element. The figure, its caption, and its contents are referenced as a single unit.
 

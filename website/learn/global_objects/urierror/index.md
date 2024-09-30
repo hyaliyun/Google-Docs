@@ -5,7 +5,7 @@ page-type: javascript-class
 browser-compat: javascript.builtins.URIError
 ---
 
-{{JSRef}}
+
 
 The **`URIError`** object represents an error when a global URI handling function was used in a wrong way.
 

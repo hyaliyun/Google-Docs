@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.BigInt.toString
 ---
 
-{{JSRef}}
+
 
 The **`toString()`** method of {{jsxref("BigInt")}} values returns a string representing the specified {{jsxref("BigInt")}} value. The trailing "n" is not part of the string.
 

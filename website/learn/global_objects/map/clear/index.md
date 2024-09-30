@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Map.clear
 ---
 
-{{JSRef}}
+
 
 The **`clear()`** method of {{jsxref("Map")}} instances removes all elements from this map.
 

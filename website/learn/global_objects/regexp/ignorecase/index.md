@@ -5,7 +5,7 @@ page-type: javascript-instance-accessor-property
 browser-compat: javascript.builtins.RegExp.ignoreCase
 ---
 
-{{JSRef}}
+
 
 The **`ignoreCase`** accessor property of {{jsxref("RegExp")}} instances returns whether or not the `i` flag is used with this regular expression.
 

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.TypedArray.set
 ---
 
-{{JSRef}}
+
 
 The **`set()`** method of {{jsxref("TypedArray")}} instances stores multiple values in the typed
 array, reading input values from a specified array.

@@ -5,7 +5,7 @@ page-type: javascript-instance-method
 browser-compat: javascript.builtins.Date.toLocaleTimeString
 ---
 
-{{JSRef}}
+
 
 The **`toLocaleTimeString()`** method of  instances returns a string with a language-sensitive representation of the time portion of this date in the local timezone. In implementations with [`Intl.DateTimeFormat` API](/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat) support, this method simply calls `Intl.DateTimeFormat`.
 
