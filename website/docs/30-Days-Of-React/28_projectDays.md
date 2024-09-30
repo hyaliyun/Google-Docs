@@ -18,7 +18,7 @@
 
 ![30 Days of React banner](/images/30_days_of_react_banner_day_28.jpg)
 
-# Projects
+# ProjectsDays
 
 Create Read Delete and Update(CRUD)
 Most applications use CRUD operations. For instance, you have been Reading(R) data by fetching from the cat API and countries API. You have been creating(C) when you use input field and item. However, we did not implement updating and deleting functionality so far. Since CRUD is a common operation almost in all big applications it is good to know how to implement it. In this section, we will develop a small application which has creating, reading, updating and deleting functionality.

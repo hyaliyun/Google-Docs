@@ -224,7 +224,7 @@ console.log(lines.join("\n"));
 - [Quantifiers](/Web/JavaScript/Guide/Regular_expressions/Quantifiers) guide
 - [`RegExp`](/Web/JavaScript/Reference/Global_Objects/RegExp)
 - [Regular expressions](/Web/JavaScript/Guide/Regular_expressions) reference
-- [Backreference: `\1`, `\2`](/Web/JavaScript/Reference/Regular_expressions/Backreference)
+- 
 - [Capturing group: `(...)`](/Web/JavaScript/Reference/Regular_expressions/Capturing_group)
 - [Named backreference: `\k<name>`](/Web/JavaScript/Reference/Regular_expressions/Named_backreference)
 - [Named capturing group: `(?<name>...)`](/Web/JavaScript/Reference/Regular_expressions/Named_capturing_group)

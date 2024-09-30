@@ -178,7 +178,7 @@ However, you can't use `\P` to match "a string that does not have a property", b
 - [Regular expressions](/Web/JavaScript/Reference/Regular_expressions)
 - [Character class: `[...]`, `[^...]`](/Web/JavaScript/Reference/Regular_expressions/Character_class)
 - [Character class escape: `\d`, `\D`, `\w`, `\W`, `\s`, `\S`](/Web/JavaScript/Reference/Regular_expressions/Character_class_escape)
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 
 - [Disjunction: `|`](/Web/JavaScript/Reference/Regular_expressions/Disjunction)
 - [Unicode character property](https://en.wikipedia.org/wiki/Unicode_character_property) on Wikipedia
 - [ES2018: RegExp Unicode property escapes](https://2ality.com/2017/07/regexp-unicode-property-escapes.html) by Dr. Axel Rauschmayer (2017)

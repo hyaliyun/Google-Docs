@@ -205,6 +205,6 @@ This example is mostly equivalent to `/^(?!🇺🇸|🇨🇳|🇷🇺|🇬🇧|�
 - [Character class escape: `\d`, `\D`, `\w`, `\W`, `\s`, `\S`](/Web/JavaScript/Reference/Regular_expressions/Character_class_escape)
 - [Unicode character class escape: `\p{...}`, `\P{...}`](/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape)
 - [Literal character: `a`, `b`](/Web/JavaScript/Reference/Regular_expressions/Literal_character)
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 
 - [Disjunction: `|`](/Web/JavaScript/Reference/Regular_expressions/Disjunction)
 - [RegExp v flag with set notation and properties of strings](https://v8.dev/features/regexp-v-flag) on v8.dev (2022)

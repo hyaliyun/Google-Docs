@@ -71,4 +71,4 @@ hasThanks("Thanksgiving is around the corner."); // false
 - [Input boundary assertion: `^`, `$`](/Web/JavaScript/Reference/Regular_expressions/Input_boundary_assertion)
 - [Lookahead assertion: `(?=...)`, `(?!...)`](/Web/JavaScript/Reference/Regular_expressions/Lookahead_assertion)
 - [Lookbehind assertion: `(?<=...)`, `(?<!...)`](/Web/JavaScript/Reference/Regular_expressions/Lookbehind_assertion)
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 

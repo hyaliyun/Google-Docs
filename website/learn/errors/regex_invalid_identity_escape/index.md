@@ -47,5 +47,5 @@ For an exhaustive list of available escape sequences, see the [regular expressio
 
 - [Regular expressions](/Web/JavaScript/Reference/Regular_expressions)
 - [Escape sequences](/Web/JavaScript/Reference/Regular_expressions#escape_sequences)
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 
 - [Literal character: `a`, `b`](/Web/JavaScript/Reference/Regular_expressions/Literal_character)

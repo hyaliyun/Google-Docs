@@ -51,5 +51,5 @@ If `{` appears in a context that accepts a [quantifier](/Web/JavaScript/Referenc
 
 - [Regular expressions](/Web/JavaScript/Reference/Regular_expressions)
 - [Character class: `[...]`, `[^...]`](/Web/JavaScript/Reference/Regular_expressions/Character_class)
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 
 - [Quantifier: `*`, `+`, `?`, `{n}`, `{n,}`, `{n,m}`](/Web/JavaScript/Reference/Regular_expressions/Quantifier)

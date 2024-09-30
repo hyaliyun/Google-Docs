@@ -77,7 +77,7 @@ Assertions are constructs that test whether the string meets a certain condition
 
 Atoms are the most basic units of a regular expression. Each atom _consumes_ one or more characters in the string, and either fails the match or allows the pattern to continue matching with the next atom.
 
-- [Backreference: `\1`, `\2`](/Web/JavaScript/Reference/Regular_expressions/Backreference)
+- 
   - : Matches a previously matched subpattern captured with a capturing group.
 - [Capturing group: `(...)`](/Web/JavaScript/Reference/Regular_expressions/Capturing_group)
   - : Matches a subpattern and remembers information about the match.
@@ -85,7 +85,7 @@ Atoms are the most basic units of a regular expression. Each atom _consumes_ one
   - : Matches any character in or not in a set of characters. When the [`v`](/Web/JavaScript/Reference/Global_Objects/RegExp/unicodeSets) flag is enabled, it can also be used to match finite-length strings.
 - [Character class escape: `\d`, `\D`, `\w`, `\W`, `\s`, `\S`](/Web/JavaScript/Reference/Regular_expressions/Character_class_escape)
   - : Matches any character in or not in a predefined set of characters.
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 
   - : Matches a character that may not be able to be conveniently represented in its literal form.
 - [Literal character: `a`, `b`](/Web/JavaScript/Reference/Regular_expressions/Literal_character)
   - : Matches a specific character.

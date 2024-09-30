@@ -93,6 +93,6 @@ console.log(pattern.test(string)); // true
 - [Character class escape: `\d`, `\D`, `\w`, `\W`, `\s`, `\S`](/Web/JavaScript/Reference/Regular_expressions/Character_class_escape)
 - [Literal character: `a`, `b`](/Web/JavaScript/Reference/Regular_expressions/Literal_character)
 - [Unicode character class escape: `\p{...}`, `\P{...}`](/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape)
-- [Backreference: `\1`, `\2`](/Web/JavaScript/Reference/Regular_expressions/Backreference)
+- 
 - [Named backreference: `\k<name>`](/Web/JavaScript/Reference/Regular_expressions/Named_backreference)
 - [Word boundary assertion: `\b`, `\B`](/Web/JavaScript/Reference/Regular_expressions/Word_boundary_assertion)

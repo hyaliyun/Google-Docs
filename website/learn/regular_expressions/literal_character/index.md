@@ -214,4 +214,4 @@ console.log(pattern.test(string)); // true
 
 - [Character classes](/Web/JavaScript/Guide/Regular_expressions/Character_classes) guide
 - [Regular expressions](/Web/JavaScript/Reference/Regular_expressions)
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 

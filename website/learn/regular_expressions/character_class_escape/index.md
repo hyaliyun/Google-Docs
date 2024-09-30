@@ -66,5 +66,5 @@ Look  how they\tshine for you`);
 - [Regular expressions](/Web/JavaScript/Reference/Regular_expressions)
 - [Character class: `[...]`, `[^...]`](/Web/JavaScript/Reference/Regular_expressions/Character_class)
 - [Unicode character class escape: `\p{...}`, `\P{...}`](/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape)
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 
 - [Disjunction: `|`](/Web/JavaScript/Reference/Regular_expressions/Disjunction)

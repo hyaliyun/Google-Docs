@@ -45,4 +45,4 @@ In [Unicode-aware mode](/Web/JavaScript/Reference/Global_Objects/RegExp/unicode#
 ## See also
 
 - [Regular expressions](/Web/JavaScript/Reference/Regular_expressions)
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 

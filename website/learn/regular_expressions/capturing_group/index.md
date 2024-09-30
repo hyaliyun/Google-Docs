@@ -122,4 +122,4 @@ parseTitle('title="Named capturing groups\' advantages"'); // "Named capturing g
 - [Regular expressions](/Web/JavaScript/Reference/Regular_expressions)
 - [Non-capturing group: `(?:...)`](/Web/JavaScript/Reference/Regular_expressions/Non-capturing_group)
 - [Named capturing group: `(?<name>...)`](/Web/JavaScript/Reference/Regular_expressions/Named_capturing_group)
-- [Backreference: `\1`, `\2`](/Web/JavaScript/Reference/Regular_expressions/Backreference)
+- 

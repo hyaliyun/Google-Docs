@@ -48,4 +48,4 @@ In a regular expression, `\0` followed by another digit is a _legacy octal escap
 
 - [Regular expressions](/Web/JavaScript/Reference/Regular_expressions)
 - [Escape sequences](/Web/JavaScript/Reference/Regular_expressions#escape_sequences)
-- [Character escape: `\n`, `\u{...}`](/Web/JavaScript/Reference/Regular_expressions/Character_escape)
+- 
