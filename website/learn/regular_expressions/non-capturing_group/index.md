@@ -1,5 +1,5 @@
 ---
-title: "Non-capturing group: (?:...)"
+title: Non-capturing group
 slug: Web/JavaScript/Reference/Regular_expressions/Non-capturing_group
 page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.non_capturing_group

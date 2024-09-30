@@ -1,5 +1,5 @@
 ---
-title: "Lookbehind assertion: (?<=...), (?<!...)"
+title: Lookbehind assertion
 slug: Web/JavaScript/Reference/Regular_expressions/Lookbehind_assertion
 page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.lookbehind_assertion

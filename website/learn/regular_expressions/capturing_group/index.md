@@ -1,5 +1,5 @@
 ---
-title: "Capturing group: (...)"
+title: Capturing group
 slug: Web/JavaScript/Reference/Regular_expressions/Capturing_group
 page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.capturing_group

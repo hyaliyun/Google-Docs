@@ -1,5 +1,5 @@
 ---
-title: "Character class: [...], [^...]"
+title: Character class
 slug: Web/JavaScript/Reference/Regular_expressions/Character_class
 page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.character_class

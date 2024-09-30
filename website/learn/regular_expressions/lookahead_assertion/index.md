@@ -1,5 +1,5 @@
 ---
-title: "Lookahead assertion: (?=...), (?!...)"
+title: Lookahead assertion
 slug: Web/JavaScript/Reference/Regular_expressions/Lookahead_assertion
 page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.lookahead_assertion

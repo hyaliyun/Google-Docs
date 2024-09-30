@@ -1,5 +1,5 @@
 ---
-title: "Named backreference: \\k<name>"
+title: Named backreference
 slug: Web/JavaScript/Reference/Regular_expressions/Named_backreference
 page-type: javascript-language-feature
 browser-compat: javascript.regular_expressions.named_backreference
